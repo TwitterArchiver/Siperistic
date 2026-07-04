@@ -1,0 +1,234 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1799811624079077500",
+    "created_at": "2024-06-09T15:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T16:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799818925653606671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1076681118500323328",
+          "start": 0,
+          "username": "SakuSakuHime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799818925653606671",
+    "in_reply_to_user_id": "1076681118500323328",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799811624079077500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuSakuHime 看着就很美味了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1799811624079077500",
+        "created_at": "2024-06-09T15:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T16:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799818925653606671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1076681118500323328",
+              "start": 0,
+              "username": "SakuSakuHime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799818925653606671",
+        "in_reply_to_user_id": "1076681118500323328",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799811624079077500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuSakuHime 看着就很美味了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799811594895159296",
+            "3_1799811594886733824",
+            "3_1799811594886721536",
+            "3_1799811594882523136"
+          ]
+        },
+        "author_id": "1076681118500323328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1799811624079077500",
+        "created_at": "2024-06-09T14:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T15:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799811624079077500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/InknrVmNBk",
+              "end": 113,
+              "expanded_url": "https://twitter.com/SakuSakuHime/status/1799811624079077500/photo/1",
+              "media_key": "3_1799811594895159296",
+              "start": 90,
+              "url": "https://t.co/InknrVmNBk"
+            },
+            {
+              "display_url": "pic.twitter.com/InknrVmNBk",
+              "end": 113,
+              "expanded_url": "https://twitter.com/SakuSakuHime/status/1799811624079077500/photo/1",
+              "media_key": "3_1799811594886733824",
+              "start": 90,
+              "url": "https://t.co/InknrVmNBk"
+            },
+            {
+              "display_url": "pic.twitter.com/InknrVmNBk",
+              "end": 113,
+              "expanded_url": "https://twitter.com/SakuSakuHime/status/1799811624079077500/photo/1",
+              "media_key": "3_1799811594886721536",
+              "start": 90,
+              "url": "https://t.co/InknrVmNBk"
+            },
+            {
+              "display_url": "pic.twitter.com/InknrVmNBk",
+              "end": 113,
+              "expanded_url": "https://twitter.com/SakuSakuHime/status/1799811624079077500/photo/1",
+              "media_key": "3_1799811594882523136",
+              "start": 90,
+              "url": "https://t.co/InknrVmNBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799811624079077500",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上溜出去整了 Thailand cuisine\n在湖边上的一条小径里！\n海鲜炒饭是招牌菜，芒果糯米饭挺特色，西米露点心与鸡肉串的口味很赞，是东南亚风格，或者说...拉包尔口味？ https://t.co/InknrVmNBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 334,
+          "like_count": 636,
+          "listed_count": 1,
+          "tweet_count": 1636
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-23T03:29:17.000Z",
+        "description": "🍤 Kiger 🥟 Epicure 🎨 Artist 🍳 Personal account, she/her",
+        "id": "1076681118500323328",
+        "location": "河南省周口市",
+        "name": "桜咲姫",
+        "pinned_tweet_id": "1695816296548675665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726296314768674816/x1Qg8z-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 504,
+          "like_count": 15016,
+          "listed_count": 5,
+          "tweet_count": 1682
+        },
+        "username": "SakuSakuHime",
+        "verified": false
+      }
+    ]
+  }
+}

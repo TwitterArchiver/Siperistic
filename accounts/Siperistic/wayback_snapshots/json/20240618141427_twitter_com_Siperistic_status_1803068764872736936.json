@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1802977590669660177",
+    "created_at": "2024-06-18T14:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T15:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803068764872736936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1316613157599674369",
+          "start": 0,
+          "username": "Enli_mint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803068764872736936",
+    "in_reply_to_user_id": "1316613157599674369",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802977590669660177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enli_mint 这种事情不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1802977590669660177",
+        "created_at": "2024-06-18T14:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T15:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803068764872736936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1316613157599674369",
+              "start": 0,
+              "username": "Enli_mint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803068764872736936",
+        "in_reply_to_user_id": "1316613157599674369",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802977590669660177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enli_mint 这种事情不要啊"
+      },
+      {
+        "attachments": {},
+        "author_id": "1316613157599674369",
+        "conversation_id": "1802977590669660177",
+        "created_at": "2024-06-18T08:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T09:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802977590669660177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802977590669660177",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对美食也失去了兴趣…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 335,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1773
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-15T05:33:52.000Z",
+        "description": "学计算机学的 ｜ 下水道小透明的成长日记📔 ｜ 这个时代缺的不是完美的人，缺的是从心底给出的真心、正义、无畏与同情 ｜ 活着，本就很了不起",
+        "id": "1316613157599674369",
+        "location": "计算机前",
+        "name": "祝荷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783306961980985344/DwjhEwES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 155,
+          "like_count": 4735,
+          "listed_count": 3,
+          "tweet_count": 2426
+        },
+        "username": "Enli_mint",
+        "verified": false
+      }
+    ]
+  }
+}

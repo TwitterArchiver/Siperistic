@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1818588552890138876",
+    "created_at": "2024-07-31T16:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T17:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818683560527798599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733496849204682752",
+          "start": 0,
+          "username": "niatgou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818683560527798599",
+    "in_reply_to_user_id": "1733496849204682752",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818588552890138876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niatgou 后面报志愿去个远一点的城市吧，抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1818588552890138876",
+        "created_at": "2024-07-31T16:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T17:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818683560527798599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733496849204682752",
+              "start": 0,
+              "username": "niatgou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818683560527798599",
+        "in_reply_to_user_id": "1733496849204682752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818588552890138876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niatgou 后面报志愿去个远一点的城市吧，抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733496849204682752",
+        "conversation_id": "1818588552890138876",
+        "created_at": "2024-07-31T10:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T11:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818588552890138876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818588552890138876",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈，能不能快点离婚啊，不离婚就是为了恶心我的是吧，上学心力交瘁回家听你们吵鸡毛蒜皮，神经病有病快治啊，妈的，我每天的好心情都被你俩整破防，我tm十几年，该说的都说的，你俩吵几十年都不嫌累，我出生的时候吵，小屁孩的时候吵，初中，高中无时无刻能吵就吵，我哥高考前一晚吵个天翻地覆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 359,
+          "like_count": 697,
+          "listed_count": 1,
+          "tweet_count": 2411
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T14:40:47.000Z",
+        "description": "小小精神世界",
+        "id": "1733496849204682752",
+        "name": "荒",
+        "pinned_tweet_id": "1811971253689094169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783885009549692928/Qw4-lZ_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 152,
+          "like_count": 871,
+          "listed_count": 0,
+          "tweet_count": 445
+        },
+        "username": "niatgou",
+        "verified": false
+      }
+    ]
+  }
+}

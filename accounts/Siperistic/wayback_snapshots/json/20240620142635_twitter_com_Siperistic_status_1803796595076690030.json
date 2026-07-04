@@ -1,0 +1,99 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1803796595076690030",
+    "created_at": "2024-06-20T14:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T15:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1803796595076690030"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1803796595076690030",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前有人想借我东西总是不太情愿\n我一直以为是我可能比较小气\n但是怂包的我一直又很难拒绝别人\n之前把电脑借出去\n结果充电器接口给掰烂了\n最近把行李箱借出去\n结果下面有个轮子坏掉了\n就很   气人啊md\n我不想借啊我就是个小气鬼啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1803796595076690030",
+        "created_at": "2024-06-20T14:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T15:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803796595076690030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803796595076690030",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前有人想借我东西总是不太情愿\n我一直以为是我可能比较小气\n但是怂包的我一直又很难拒绝别人\n之前把电脑借出去\n结果充电器接口给掰烂了\n最近把行李箱借出去\n结果下面有个轮子坏掉了\n就很   气人啊md\n我不想借啊我就是个小气鬼啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 335,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1790
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      }
+    ]
+  }
+}

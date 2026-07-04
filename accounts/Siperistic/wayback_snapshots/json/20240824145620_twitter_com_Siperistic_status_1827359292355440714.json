@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1827330428707205290",
+    "created_at": "2024-08-24T14:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T15:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827359292355440714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827359292355440714",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827330428707205290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 这种事情大家应该不会歧视吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1827330428707205290",
+        "created_at": "2024-08-24T14:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T15:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827359292355440714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827359292355440714",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827330428707205290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 这种事情大家应该不会歧视吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650760116918943744",
+        "conversation_id": "1827330428707205290",
+        "created_at": "2024-08-24T13:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T14:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827330428707205290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827330428707205290",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 633,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😔有点担心助学贷款会不会被同学知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 375,
+          "like_count": 704,
+          "listed_count": 1,
+          "tweet_count": 2629
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "紫罗兰的美 在于它的细小",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yusanyyy8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yusanyyy8",
+                "start": 0,
+                "url": "https://t.co/1aIiKMVfgb"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "連線世界",
+        "name": "✟击穿紫罗兰💉",
+        "pinned_tweet_id": "1826286908072477092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826304706077229056/524bQ3ul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2802,
+          "following_count": 782,
+          "like_count": 35901,
+          "listed_count": 5,
+          "tweet_count": 12525
+        },
+        "url": "https://t.co/1aIiKMVfgb",
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

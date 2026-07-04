@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1795857780219285756",
+    "created_at": "2024-05-30T15:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T16:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796202219437805931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1225358261467197440",
+          "start": 0,
+          "username": "chanxiulumanzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796202219437805931",
+    "in_reply_to_user_id": "1225358261467197440",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795857780219285756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanxiulumanzhi 理理你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1795857780219285756",
+        "created_at": "2024-05-30T15:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T16:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796202219437805931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1225358261467197440",
+              "start": 0,
+              "username": "chanxiulumanzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796202219437805931",
+        "in_reply_to_user_id": "1225358261467197440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795857780219285756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanxiulumanzhi 理理你"
+      },
+      {
+        "attachments": {},
+        "author_id": "1225358261467197440",
+        "conversation_id": "1795857780219285756",
+        "created_at": "2024-05-29T16:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T17:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795857780219285756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795857780219285756",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 778,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求你们都理我吧啊啊啊啊啊啊我好寂寞没人理我我浑身难受快和我聊天贴贴啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 318,
+          "like_count": 633,
+          "listed_count": 1,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T09:59:23.000Z",
+        "description": "泠风/精神医学在读/重度社恐/友跨顺女/泛性恋/inxp/绘画/怪谈爱好者/恋姐/精神状态堪忧/欢迎私信互关扩列(没回关可能是没提示，如需互关可以私信我)\n\n“死者永远十七岁”",
+        "id": "1225358261467197440",
+        "location": "站在世界中心呼唤爱💙",
+        "name": "初夏泠风",
+        "pinned_tweet_id": "1764669814717718863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772131742134198272/g0J7HMu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 157,
+          "like_count": 1352,
+          "listed_count": 0,
+          "tweet_count": 1026
+        },
+        "username": "chanxiulumanzhi",
+        "verified": false
+      }
+    ]
+  }
+}

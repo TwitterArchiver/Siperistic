@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1801107891606397046",
+    "created_at": "2024-06-14T14:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T15:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801630198858977525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1663560439266168835",
+          "start": 0,
+          "username": "sakamori2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801630198858977525",
+    "in_reply_to_user_id": "1663560439266168835",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801107891606397046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakamori2002 散播焦虑吧，周围很优秀的人一样会玩的很开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1801107891606397046",
+        "created_at": "2024-06-14T14:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T15:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801630198858977525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1663560439266168835",
+              "start": 0,
+              "username": "sakamori2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801630198858977525",
+        "in_reply_to_user_id": "1663560439266168835",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801107891606397046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakamori2002 散播焦虑吧，周围很优秀的人一样会玩的很开心"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801107858437902336",
+            "3_1801107858387578880",
+            "3_1801107858408591360",
+            "3_1801107858446311424"
+          ]
+        },
+        "author_id": "1663560439266168835",
+        "conversation_id": "1801107891606397046",
+        "created_at": "2024-06-13T04:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T05:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801107891606397046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pz9zO5gkpB",
+              "end": 81,
+              "expanded_url": "https://twitter.com/sakamori2002/status/1801107891606397046/photo/1",
+              "media_key": "3_1801107858437902336",
+              "start": 58,
+              "url": "https://t.co/pz9zO5gkpB"
+            },
+            {
+              "display_url": "pic.twitter.com/pz9zO5gkpB",
+              "end": 81,
+              "expanded_url": "https://twitter.com/sakamori2002/status/1801107891606397046/photo/1",
+              "media_key": "3_1801107858387578880",
+              "start": 58,
+              "url": "https://t.co/pz9zO5gkpB"
+            },
+            {
+              "display_url": "pic.twitter.com/pz9zO5gkpB",
+              "end": 81,
+              "expanded_url": "https://twitter.com/sakamori2002/status/1801107891606397046/photo/1",
+              "media_key": "3_1801107858408591360",
+              "start": 58,
+              "url": "https://t.co/pz9zO5gkpB"
+            },
+            {
+              "display_url": "pic.twitter.com/pz9zO5gkpB",
+              "end": 81,
+              "expanded_url": "https://twitter.com/sakamori2002/status/1801107891606397046/photo/1",
+              "media_key": "3_1801107858446311424",
+              "start": 58,
+              "url": "https://t.co/pz9zO5gkpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801107891606397046",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 131730,
+          "like_count": 952,
+          "quote_count": 66,
+          "reply_count": 170,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "211 985的人也是人\n听英语听力的也太脑瘫了\n典型的：幻想式上大学\n呃呃\n学习好点的人也会结婚的，骗骗自己得了 https://t.co/pz9zO5gkpB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 338,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1735
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T14:58:20.000Z",
+        "description": "密密麻麻的评论是你的自尊",
+        "id": "1663560439266168835",
+        "name": "抽象鉴赏家",
+        "pinned_tweet_id": "1792409634223079464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801064226657861632/2Vs0UcNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 26,
+          "like_count": 575,
+          "listed_count": 1,
+          "tweet_count": 868
+        },
+        "username": "sakamori2002",
+        "verified": false
+      }
+    ]
+  }
+}

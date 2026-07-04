@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1814103303325974797",
+    "created_at": "2024-07-19T04:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T05:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814154830203801743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573863666000224256",
+          "start": 0,
+          "username": "Futuristic2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814154830203801743",
+    "in_reply_to_user_id": "1573863666000224256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814103303325974797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Futuristic2007 可能因为这样比较难解？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1814103303325974797",
+        "created_at": "2024-07-19T04:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T05:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814154830203801743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573863666000224256",
+              "start": 0,
+              "username": "Futuristic2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814154830203801743",
+        "in_reply_to_user_id": "1573863666000224256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814103303325974797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Futuristic2007 可能因为这样比较难解？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1814103291049160704"
+          ]
+        },
+        "author_id": "1573863666000224256",
+        "conversation_id": "1814103303325974797",
+        "created_at": "2024-07-19T01:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T02:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814103303325974797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/0ibo6Io0xy",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Futuristic2007/status/1814103303325974797/photo/1",
+              "media_key": "3_1814103291049160704",
+              "start": 68,
+              "url": "https://t.co/0ibo6Io0xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814103303325974797",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 435,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推友们好呀，为什么f(f(a))=2^f(a)一定＜=＞f(a)≥1呢，不可以是3f(a)-1=2^f(a)嘛（一个非常沙比的问题😿） https://t.co/0ibo6Io0xy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 356,
+          "like_count": 692,
+          "listed_count": 1,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "07/准高二/一只不太会用正常语气说话的fw/希望能变可爱(๑＞ڡ＜)☆/只要是能相互尊重的友友们都可以和我交朋友啦❤️❤️我爱大家❤️❤️",
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1813069847242416183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798018678686162944/Jv_koOjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 238,
+          "like_count": 64591,
+          "listed_count": 2,
+          "tweet_count": 11178
+        },
+        "username": "Futuristic2007",
+        "verified": false
+      }
+    ]
+  }
+}

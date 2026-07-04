@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1808694519623528565",
+    "created_at": "2024-07-05T04:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T05:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809074789581213994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1316613157599674369",
+          "start": 0,
+          "username": "Enli_mint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809074789581213994",
+    "in_reply_to_user_id": "1316613157599674369",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808897414411210940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enli_mint 趁他在家的时候直接线下逮捕他，速速同意别让我求你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1808694519623528565",
+        "created_at": "2024-07-05T04:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T05:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809074789581213994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1316613157599674369",
+              "start": 0,
+              "username": "Enli_mint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809074789581213994",
+        "in_reply_to_user_id": "1316613157599674369",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808897414411210940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enli_mint 趁他在家的时候直接线下逮捕他，速速同意别让我求你"
+      },
+      {
+        "attachments": {},
+        "author_id": "1316613157599674369",
+        "conversation_id": "1808694519623528565",
+        "created_at": "2024-07-04T16:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T17:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808897414411210940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808897414411210940",
+        "in_reply_to_user_id": "1316613157599674369",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808694519623528565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加一个合租的室友，半天了，还不同意，尴尬呀，本I人已经开始尴尬了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人。事一个很爱看云拍云的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 330,
+          "like_count": 638,
+          "listed_count": 1,
+          "tweet_count": 1854
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-15T05:33:52.000Z",
+        "description": "活一天是一天",
+        "id": "1316613157599674369",
+        "location": "计算机前",
+        "name": "祝荷👁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783306961980985344/DwjhEwES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 169,
+          "like_count": 5251,
+          "listed_count": 3,
+          "tweet_count": 2700
+        },
+        "username": "Enli_mint",
+        "verified": false
+      }
+    ]
+  }
+}

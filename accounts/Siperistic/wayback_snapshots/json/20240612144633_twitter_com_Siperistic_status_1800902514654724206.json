@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1800706035143082301",
+    "created_at": "2024-06-12T14:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T15:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800902514654724206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1251721968958582784",
+          "start": 0,
+          "username": "MacchiatoFika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800902514654724206",
+    "in_reply_to_user_id": "1251721968958582784",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800706035143082301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MacchiatoFika 要求这么多应该是信用卡吧，一般借记卡储蓄卡都很好办的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1800706035143082301",
+        "created_at": "2024-06-12T14:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T15:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800902514654724206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1251721968958582784",
+              "start": 0,
+              "username": "MacchiatoFika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800902514654724206",
+        "in_reply_to_user_id": "1251721968958582784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800706035143082301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MacchiatoFika 要求这么多应该是信用卡吧，一般借记卡储蓄卡都很好办的"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800706023206096896"
+          ]
+        },
+        "author_id": "1251721968958582784",
+        "conversation_id": "1800706035143082301",
+        "created_at": "2024-06-12T01:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T02:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800706035143082301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/oBzYhyYPka",
+              "end": 75,
+              "expanded_url": "https://twitter.com/MacchiatoFika/status/1800706035143082301/photo/1",
+              "media_key": "3_1800706023206096896",
+              "start": 52,
+              "url": "https://t.co/oBzYhyYPka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800706035143082301",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8607,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候招商这么严格了，还要求出示社保证明工作证明一大堆东西。。\n总之现在非常不适合学生去办招商的卡（ https://t.co/oBzYhyYPka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 338,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1696
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-19T03:59:27.000Z",
+        "description": "Stay calm.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Fika.ink",
+                "end": 23,
+                "expanded_url": "http://Fika.ink",
+                "start": 0,
+                "url": "https://t.co/QPk9J7dAfS"
+              }
+            ]
+          }
+        },
+        "id": "1251721968958582784",
+        "location": "N/A",
+        "name": "Fika✨",
+        "pinned_tweet_id": "1743571174138024405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750089043587870720/R26pKSzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6264,
+          "following_count": 687,
+          "like_count": 32228,
+          "listed_count": 27,
+          "tweet_count": 6598
+        },
+        "url": "https://t.co/QPk9J7dAfS",
+        "username": "MacchiatoFika",
+        "verified": false
+      }
+    ]
+  }
+}

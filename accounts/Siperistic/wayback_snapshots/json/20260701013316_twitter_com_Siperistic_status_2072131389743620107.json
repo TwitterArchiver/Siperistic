@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "2071975365883650213",
+    "created_at": "2026-07-01T01:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T02:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072131389743620107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1650209029724196865",
+          "start": 0,
+          "username": "KarBwk5251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072131389743620107",
+    "in_reply_to_user_id": "1650209029724196865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071975365883650213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarBwk5251 上海二本和贵大差的有点多了😨可以到时候保研去上海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "2071975365883650213",
+        "created_at": "2026-07-01T01:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072131389743620107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650209029724196865",
+              "start": 0,
+              "username": "KarBwk5251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072131389743620107",
+        "in_reply_to_user_id": "1650209029724196865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071975365883650213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarBwk5251 上海二本和贵大差的有点多了😨可以到时候保研去上海"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650209029724196865",
+        "conversation_id": "2071975365883650213",
+        "created_at": "2026-06-30T15:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071975365883650213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071975365883650213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 925,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "填志愿，然后我现在如果要去上海的话，我可能只能去上海读二本了。我操，可是我那个分在贵州读得了贵大，读得了211，可是可是我真的又很想去上海，好烦啊，哎呀，我要跳了，牛逼，我不活了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 711,
+          "like_count": 2091,
+          "listed_count": 4,
+          "media_count": 522,
+          "tweet_count": 7594
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T18:44:49.000Z",
+        "description": "互fo请私信\n我是小桃\n🐱叫圈圈\n非二元\n乐乐\n不看黄也不建政（假的）我是中推最美逆行人",
+        "id": "1650209029724196865",
+        "location": "Yuki是我的宝宝～(^з^)-♡",
+        "name": "☔️8964.星露谷骑手桃酱☔️",
+        "pinned_tweet_id": "2071179216071385551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071289949618655232/ZHDIhOEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1982,
+          "like_count": 11996,
+          "listed_count": 9,
+          "media_count": 1983,
+          "tweet_count": 8990
+        },
+        "url": "",
+        "username": "KarBwk5251",
+        "verified": false
+      }
+    ]
+  }
+}

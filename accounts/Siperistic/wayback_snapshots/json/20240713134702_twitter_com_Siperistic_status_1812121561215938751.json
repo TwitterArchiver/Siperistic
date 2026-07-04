@@ -1,0 +1,257 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1812079870064902632",
+    "created_at": "2024-07-13T13:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T14:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812121561215938751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1679090289548615680",
+          "start": 0,
+          "username": "whitesnowfox729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812121561215938751",
+    "in_reply_to_user_id": "1679090289548615680",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812079870064902632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitesnowfox729 会选芙宁娜因为太可爱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1812079870064902632",
+        "created_at": "2024-07-13T13:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T14:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812121561215938751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1679090289548615680",
+              "start": 0,
+              "username": "whitesnowfox729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812121561215938751",
+        "in_reply_to_user_id": "1679090289548615680",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812079870064902632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitesnowfox729 会选芙宁娜因为太可爱了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812079867678130176"
+          ]
+        },
+        "author_id": "1679090289548615680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1812079870064902632",
+        "created_at": "2024-07-13T11:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T12:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812079870064902632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 86,
+              "tag": "白色小雪狐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/oTUC3o28KM",
+              "end": 116,
+              "expanded_url": "https://twitter.com/whitesnowfox729/status/1812079870064902632/photo/1",
+              "media_key": "3_1812079867678130176",
+              "start": 93,
+              "url": "https://t.co/oTUC3o28KM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812079870064902632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OK要你們選擇裡面有的角色\n你們會選擇哪一位\n像狐狸窩的話我選納西妲因為大招超厲害wwww不是因為她是蘿莉我才選的（先提前狡辯）\n然後各位可以留言看看你們喜歡的角色~~ \n#白色小雪狐 https://t.co/oTUC3o28KM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 342,
+          "like_count": 681,
+          "listed_count": 1,
+          "tweet_count": 2029
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T11:28:21.000Z",
+        "description": "你們好我叫小白\n我是一隻可愛的雪狐\n我目前的夢想是努力好好當個vtuber\n希望各位多多支持\n这个是我的discord群:https://t.co/OquqvELkFS\n最好的朋友 \n@leozox390 \n@muyula_\n@Aixiayaa\n不妨去追隨起來吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "leozox390"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "muyula_"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "Aixiayaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/rdcfzcT62x",
+                "end": 84,
+                "expanded_url": "https://discord.gg/rdcfzcT62x",
+                "start": 61,
+                "url": "https://t.co/OquqvELkFS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/whitesnowfox",
+                "end": 23,
+                "expanded_url": "https://lit.link/whitesnowfox",
+                "start": 0,
+                "url": "https://t.co/OvRcpAS9Ok"
+              }
+            ]
+          }
+        },
+        "id": "1679090289548615680",
+        "location": "北極屋",
+        "name": "白色小雪狐『配信2.0成功到爛掉的狐狸』Vtuber",
+        "pinned_tweet_id": "1808094053747286524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805255237529485312/1BibEk9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 3241,
+          "like_count": 1485,
+          "listed_count": 2,
+          "tweet_count": 5624
+        },
+        "url": "https://t.co/OvRcpAS9Ok",
+        "username": "whitesnowfox729",
+        "verified": false
+      }
+    ]
+  }
+}

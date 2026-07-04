@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1790714617980764402",
+    "created_at": "2024-05-15T15:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T16:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790765722593091784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1514566473343070211",
+          "start": 0,
+          "username": "q03303567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790765722593091784",
+    "in_reply_to_user_id": "1514566473343070211",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790714617980764402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q03303567 经典回答“我都行，你定”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1790714617980764402",
+        "created_at": "2024-05-15T15:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T16:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790765722593091784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1514566473343070211",
+              "start": 0,
+              "username": "q03303567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790765722593091784",
+        "in_reply_to_user_id": "1514566473343070211",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790714617980764402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q03303567 经典回答“我都行，你定”"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1790714607234904064"
+          ]
+        },
+        "author_id": "1514566473343070211",
+        "conversation_id": "1790714617980764402",
+        "created_at": "2024-05-15T12:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T13:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790714617980764402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/vQod3y1has",
+              "end": 76,
+              "expanded_url": "https://twitter.com/q03303567/status/1790714617980764402/photo/1",
+              "media_key": "3_1790714607234904064",
+              "start": 53,
+              "url": "https://t.co/vQod3y1has"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790714617980764402",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 908,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平时：姐姐 我好想吃这个！咱们多会去吃？\n​友：下次见面去！\n​见到之后：吃什么？\n​我：不知道🤷‍♀️ https://t.co/vQod3y1has"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 314,
+          "like_count": 620,
+          "listed_count": 1,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T11:29:31.000Z",
+        "description": "- ̗̀(๑ᵔ⌔ᵔ๑) ♀ 纯情抽象丫头 😊 漫画在哔咔上看的！enfj 报一丝 私信只回女生",
+        "id": "1514566473343070211",
+        "location": "999.999km",
+        "name": "挚爱脆皮手枪腿🍗",
+        "pinned_tweet_id": "1767033274814071014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763431596982710272/QV9wGVfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4603,
+          "following_count": 668,
+          "like_count": 14342,
+          "listed_count": 11,
+          "tweet_count": 7677
+        },
+        "username": "q03303567",
+        "verified": false
+      }
+    ]
+  }
+}

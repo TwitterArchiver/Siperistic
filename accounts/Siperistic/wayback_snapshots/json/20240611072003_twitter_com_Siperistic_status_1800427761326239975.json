@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1800386668111040943",
+    "created_at": "2024-06-11T07:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T08:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800427761326239975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1705500138431782912",
+          "start": 0,
+          "username": "MouXiao70140"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800427761326239975",
+    "in_reply_to_user_id": "1705500138431782912",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800386668111040943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MouXiao70140 真实成绩一般比估分高的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1800386668111040943].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1800386668111040943",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1800386668111040943"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1800386668111040943",
+        "created_at": "2024-06-11T07:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T08:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800427761326239975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1705500138431782912",
+              "start": 0,
+              "username": "MouXiao70140"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800427761326239975",
+        "in_reply_to_user_id": "1705500138431782912",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800386668111040943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MouXiao70140 真实成绩一般比估分高的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 338,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T08:31:54.000Z",
+        "description": "心比天高，命比纸薄",
+        "id": "1705500138431782912",
+        "location": "-",
+        "name": "零",
+        "pinned_tweet_id": "1798747433310261683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706262643605172224/oynJclpv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 2814,
+          "like_count": 33975,
+          "listed_count": 2,
+          "tweet_count": 11225
+        },
+        "username": "MouXiao70140",
+        "verified": false
+      }
+    ]
+  }
+}

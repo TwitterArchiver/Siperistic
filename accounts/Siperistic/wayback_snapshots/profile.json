@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "username": "@Siperistic",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "ngl.link/siperistic",
+        "end": 115,
+        "expanded_url": "https://ngl.link/siperistic",
+        "start": 92,
+        "url": "https://t.co/X1EvKY4IpR"
+      }
+    ]
+  }
+}

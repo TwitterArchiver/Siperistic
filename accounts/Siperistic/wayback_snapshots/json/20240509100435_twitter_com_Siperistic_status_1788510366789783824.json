@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1788502845123371450",
+    "created_at": "2024-05-09T10:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T11:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788510366789783824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1316613157599674369",
+          "start": 0,
+          "username": "Enli_mint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788510366789783824",
+    "in_reply_to_user_id": "1316613157599674369",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788502845123371450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enli_mint 想吃🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1788502845123371450",
+        "created_at": "2024-05-09T10:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T11:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788510366789783824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1316613157599674369",
+              "start": 0,
+              "username": "Enli_mint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788510366789783824",
+        "in_reply_to_user_id": "1316613157599674369",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788502845123371450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enli_mint 想吃🤤"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788502824227348480"
+          ]
+        },
+        "author_id": "1316613157599674369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1788502845123371450",
+        "created_at": "2024-05-09T09:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T10:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788502845123371450"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "校食堂"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/s6zDdPDzUZ",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Enli_mint/status/1788502845123371450/photo/1",
+              "media_key": "3_1788502824227348480",
+              "start": 5,
+              "url": "https://t.co/s6zDdPDzUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788502845123371450",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#校食堂 https://t.co/s6zDdPDzUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 310,
+          "like_count": 620,
+          "listed_count": 1,
+          "tweet_count": 1304
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-15T05:33:52.000Z",
+        "description": "下水道小透明 ｜ 这个时代缺的不是完美的人，缺的是从心底给出的真心、正义、无畏与同情",
+        "id": "1316613157599674369",
+        "location": "计算机前",
+        "name": "祝荷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783306961980985344/DwjhEwES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 101,
+          "like_count": 3167,
+          "listed_count": 3,
+          "tweet_count": 1755
+        },
+        "username": "Enli_mint",
+        "verified": false
+      }
+    ]
+  }
+}

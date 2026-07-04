@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1800566547410571564",
+    "created_at": "2024-06-12T14:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T15:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800904942250782873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1309455512895807488",
+          "start": 0,
+          "username": "Codemetic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800904942250782873",
+    "in_reply_to_user_id": "1309455512895807488",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800566547410571564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Codemetic 我院之前实际去工作的也就30％左右 所以但凡有人让我推荐选文理我都不太建议选文了，文科社科没学历真的很难找"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1800566547410571564",
+        "created_at": "2024-06-12T14:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T15:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800904942250782873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1309455512895807488",
+              "start": 0,
+              "username": "Codemetic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800904942250782873",
+        "in_reply_to_user_id": "1309455512895807488",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800566547410571564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Codemetic 我院之前实际去工作的也就30％左右 所以但凡有人让我推荐选文理我都不太建议选文了，文科社科没学历真的很难找"
+      },
+      {
+        "attachments": {},
+        "author_id": "1309455512895807488",
+        "conversation_id": "1800566547410571564",
+        "created_at": "2024-06-11T16:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T17:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800566547410571564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800566547410571564",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 71019,
+          "like_count": 341,
+          "quote_count": 7,
+          "reply_count": 42,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "今天听了小道消息，我这个学院（计算机类的学院）目前实际三方签约就业率也就是44％左右。以往近三年都是60-70％左右。😓这还是就业率挺高的一个学院了。。其他文科商科怎么样我不敢想。\n剩下的要么考研去了要么当兵要么创业。。\n这种失业率怕是，几千年来恒古未有。\n先蛰伏，别浪。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 338,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1700
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-25T11:31:43.000Z",
+        "description": "Cishet Male · M · CS/SE · Frontend & Graphics · 背景是冯·诺依曼 – 偶尔研究历史和古典 ·",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.terminals.run",
+                "end": 23,
+                "expanded_url": "https://blog.terminals.run",
+                "start": 0,
+                "url": "https://t.co/mC6WCo7VMa"
+              }
+            ]
+          }
+        },
+        "id": "1309455512895807488",
+        "name": "但为君故✨",
+        "pinned_tweet_id": "1795823163491909774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795438904264601600/N4PaIban_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 386,
+          "like_count": 36160,
+          "listed_count": 10,
+          "tweet_count": 7103
+        },
+        "url": "https://t.co/mC6WCo7VMa",
+        "username": "Codemetic",
+        "verified": false
+      }
+    ]
+  }
+}

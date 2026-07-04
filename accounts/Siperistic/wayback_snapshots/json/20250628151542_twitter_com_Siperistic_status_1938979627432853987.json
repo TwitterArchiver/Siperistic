@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1938950627478118479",
+    "created_at": "2025-06-28T15:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T16:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938979627432853987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752350917620355072",
+          "start": 0,
+          "username": "ysookkiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938979627432853987",
+    "in_reply_to_user_id": "1752350917620355072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938950627478118479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysookkiiii 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938950618149752832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuiJUG_XEAA05Hv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1938950627478118479",
+        "created_at": "2025-06-28T15:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T16:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938979627432853987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752350917620355072",
+              "start": 0,
+              "username": "ysookkiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938979627432853987",
+        "in_reply_to_user_id": "1752350917620355072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938950627478118479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysookkiiii 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938950618149752832"
+          ]
+        },
+        "author_id": "1752350917620355072",
+        "conversation_id": "1938950627478118479",
+        "created_at": "2025-06-28T13:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938950627478118479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ktn6Capd3q",
+              "end": 69,
+              "expanded_url": "https://x.com/ysookkiiii/status/1938950627478118479/photo/1",
+              "media_key": "3_1938950618149752832",
+              "start": 46,
+              "url": "https://t.co/Ktn6Capd3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938950627478118479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的发\nO_◥左眼 用来忘记你\n◤_O右眼 用来记住你\n◤_O我记住了你\nO_◥又忘记了你 https://t.co/Ktn6Capd3q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 512,
+          "like_count": 708,
+          "listed_count": 3,
+          "media_count": 275,
+          "tweet_count": 4261
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T15:20:01.000Z",
+        "description": "",
+        "id": "1752350917620355072",
+        "name": "sook",
+        "pinned_tweet_id": "1921748498694787355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904638551989551104/hcKNJ4_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 205,
+          "like_count": 2298,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 394
+        },
+        "username": "ysookkiiii",
+        "verified": false
+      }
+    ]
+  }
+}

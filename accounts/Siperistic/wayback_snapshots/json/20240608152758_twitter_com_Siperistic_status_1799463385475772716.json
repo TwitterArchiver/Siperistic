@@ -1,0 +1,182 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1799305741926633757",
+    "created_at": "2024-06-08T15:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T16:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799463385475772716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723715289723092992",
+          "start": 0,
+          "username": "CharmingFurina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799463385475772716",
+    "in_reply_to_user_id": "1723715289723092992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799305741926633757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharmingFurina 已经有阮梅了，等着老婆来了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1799305741926633757",
+        "created_at": "2024-06-08T15:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T16:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799463385475772716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1723715289723092992",
+              "start": 0,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799463385475772716",
+        "in_reply_to_user_id": "1723715289723092992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799305741926633757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharmingFurina 已经有阮梅了，等着老婆来了😇"
+      },
+      {
+        "attachments": {
+          "poll_ids": [
+            "1799305740211101696"
+          ]
+        },
+        "author_id": "1723715289723092992",
+        "conversation_id": "1799305741926633757",
+        "created_at": "2024-06-08T05:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T06:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799305741926633757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799305741926633757",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2.3抽流螢還是阮梅（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 327,
+          "like_count": 636,
+          "listed_count": 1,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T14:52:12.000Z",
+        "description": "關注我都會回fo！/重慶07缺愛男高🥺//高一//純理戰士捏😇//日常清水推//立場是偏泛藍樂子人但不鍵政//精神狀態欠佳🤗//183cm/62kg//語言學愛好者//東南亞文化愛好者//架空歷史愛好者//二遊愛好者/主玩原神•崩鐵//友LGBT/漢英泰日語可/私訊會回/有本人照片/💙人活著就是為了芙寧娜💙",
+        "id": "1723715289723092992",
+        "location": "Ko Rattanakosin, Bangkok🇹🇭",
+        "name": "💙迷人的芙芙💙",
+        "pinned_tweet_id": "1798033039332896887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796946522883657728/hkglYepp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1960,
+          "like_count": 28337,
+          "listed_count": 6,
+          "tweet_count": 4087
+        },
+        "username": "CharmingFurina",
+        "verified": false
+      }
+    ]
+  }
+}

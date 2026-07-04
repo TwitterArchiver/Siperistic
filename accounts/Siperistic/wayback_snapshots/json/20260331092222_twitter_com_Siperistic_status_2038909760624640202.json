@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "2038783342867583159",
+    "created_at": "2026-03-31T09:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038909760624640202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "51904755",
+          "start": 0,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038909760624640202",
+    "in_reply_to_user_id": "51904755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038783342867583159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Morris_LT 很直白啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "2038783342867583159",
+        "created_at": "2026-03-31T09:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038909760624640202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "51904755",
+              "start": 0,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038909760624640202",
+        "in_reply_to_user_id": "51904755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038783342867583159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Morris_LT 很直白啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "51904755",
+        "conversation_id": "2038783342867583159",
+        "created_at": "2026-03-31T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038783342867583159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038783342867583159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有没有一种可能，你根本不是抑郁。而你是没有钱，没有性生活，没有给你提供情绪价值的人。经济需求，生理需求，精神需求，你都得不到满足。大部分人把空虚归咎于心理问题，其实就是钱包空空，感情空空，精神全空，内心也空。平静但绝望，其实是很多人的生活真相。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 25850,
+          "like_count": 574,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "有没有一种可能，你根本不是抑郁。而你是没有钱，没有性生活，没有给你提供情绪价值的人。经济需求，生理需求，精神需求，你都得不到满足。大部分人把空虚归咎于心理问题，其实就是钱包空空，感情空空，精神全空，内心也空。平静但绝望，其实是很多人的生活真相。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 598,
+          "like_count": 699,
+          "listed_count": 3,
+          "media_count": 331,
+          "tweet_count": 5213
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。《旷野之心》作者，私信开放订购：https://t.co/W2fM1ccAiv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Morris_LT/stat…",
+                "end": 106,
+                "expanded_url": "https://x.com/Morris_LT/status/1912318899540095446",
+                "start": 83,
+                "url": "https://t.co/W2fM1ccAiv"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "pinned_tweet_id": "2036254776665710817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195916,
+          "following_count": 412,
+          "like_count": 53651,
+          "listed_count": 1100,
+          "media_count": 7090,
+          "tweet_count": 72463
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

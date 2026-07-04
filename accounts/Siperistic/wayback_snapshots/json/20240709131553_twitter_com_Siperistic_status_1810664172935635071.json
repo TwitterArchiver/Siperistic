@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1810266338222645688",
+    "created_at": "2024-07-09T13:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T14:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810664172935635071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1144611606497656832",
+          "start": 0,
+          "username": "khaild_Russ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810664172935635071",
+    "in_reply_to_user_id": "1144611606497656832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810266338222645688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@khaild_Russ 读研就是付费上班hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1810266338222645688",
+        "created_at": "2024-07-09T13:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T14:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810664172935635071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1144611606497656832",
+              "start": 0,
+              "username": "khaild_Russ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810664172935635071",
+        "in_reply_to_user_id": "1144611606497656832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810266338222645688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@khaild_Russ 读研就是付费上班hhh"
+      },
+      {
+        "attachments": {},
+        "author_id": "1144611606497656832",
+        "conversation_id": "1810266338222645688",
+        "created_at": "2024-07-08T10:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T11:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810266338222645688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1810266338222645688",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 137954,
+          "like_count": 339,
+          "quote_count": 0,
+          "reply_count": 118,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "读个研，又穷又当牛做马，还没成果，擦边都比读研有钱...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人。事一个很爱看云拍云的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 327,
+          "like_count": 638,
+          "listed_count": 1,
+          "tweet_count": 1901
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-28T14:20:47.000Z",
+        "description": "随意记录生活，\n请礼貌交友|| 不加微信|| 情绪处理站",
+        "id": "1144611606497656832",
+        "name": "Lorelei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1553899002076139521/wmewEv7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 75,
+          "like_count": 1160,
+          "listed_count": 1,
+          "tweet_count": 260
+        },
+        "username": "khaild_Russ",
+        "verified": false
+      }
+    ]
+  }
+}

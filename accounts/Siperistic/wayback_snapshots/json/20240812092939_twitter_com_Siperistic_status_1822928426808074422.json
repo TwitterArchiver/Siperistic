@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1822571218459046036",
+    "created_at": "2024-08-12T09:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T10:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822928426808074422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1774837516400828416",
+          "start": 0,
+          "username": "JUNIORJuno0"
+        },
+        {
+          "end": 24,
+          "id": "1580907538127949824",
+          "start": 13,
+          "username": "yuluoshanl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822928426808074422",
+    "in_reply_to_user_id": "1774837516400828416",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822637981104287908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@JUNIORJuno0 @yuluoshanl 因为之前旅游下暴雨没拖鞋给我折磨坏了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1822571218459046036",
+        "created_at": "2024-08-12T09:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822928426808074422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1774837516400828416",
+              "start": 0,
+              "username": "JUNIORJuno0"
+            },
+            {
+              "end": 24,
+              "id": "1580907538127949824",
+              "start": 13,
+              "username": "yuluoshanl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822928426808074422",
+        "in_reply_to_user_id": "1774837516400828416",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822637981104287908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@JUNIORJuno0 @yuluoshanl 因为之前旅游下暴雨没拖鞋给我折磨坏了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774837516400828416",
+        "conversation_id": "1822571218459046036",
+        "created_at": "2024-08-11T14:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T15:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822637981104287908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191237542797959168",
+              "start": 0,
+              "username": "Siperistic"
+            },
+            {
+              "end": 23,
+              "id": "1580907538127949824",
+              "start": 12,
+              "username": "yuluoshanl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822637981104287908",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822631344456761790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Siperistic @yuluoshanl 怎么知道的😧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 364,
+          "like_count": 700,
+          "listed_count": 1,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T16:33:46.000Z",
+        "description": "简单的社畜/infj/有很多奇怪的想法/想藏起来做自己/dev-fe/爱看腹肌谢谢/健身中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/juniorjuno0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/juniorjuno0",
+                "start": 0,
+                "url": "https://t.co/MjhSv6kUm2"
+              }
+            ]
+          }
+        },
+        "id": "1774837516400828416",
+        "location": "我就在你的身边",
+        "name": "认不出我就行",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808530370222268416/Z7F0nwZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 22,
+          "like_count": 117,
+          "listed_count": 0,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/MjhSv6kUm2",
+        "username": "JUNIORJuno0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T13:05:35.000Z",
+        "description": "希望天天开心。",
+        "id": "1580907538127949824",
+        "name": "Yyyˇ",
+        "pinned_tweet_id": "1813791185846386957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812121867588685825/Us1jU6em_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3467,
+          "following_count": 137,
+          "like_count": 5950,
+          "listed_count": 6,
+          "tweet_count": 2273
+        },
+        "username": "yuluoshanl",
+        "verified": false
+      }
+    ]
+  }
+}

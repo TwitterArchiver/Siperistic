@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1826264278548337015",
+    "created_at": "2024-08-21T14:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T15:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826271806271221990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733496849204682752",
+          "start": 0,
+          "username": "niatgou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826271806271221990",
+    "in_reply_to_user_id": "1733496849204682752",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826264278548337015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niatgou 先熬过去吧😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1826264278548337015",
+        "created_at": "2024-08-21T14:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T15:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826271806271221990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733496849204682752",
+              "start": 0,
+              "username": "niatgou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826271806271221990",
+        "in_reply_to_user_id": "1733496849204682752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826264278548337015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niatgou 先熬过去吧😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733496849204682752",
+        "conversation_id": "1826264278548337015",
+        "created_at": "2024-08-21T14:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T15:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826264278548337015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826264278548337015",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自习过后猛然抬头，两眼昏花，下晚自习回家看见路边的野猫在地上打滚，md，下辈子让我做个不用高考的出生吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 375,
+          "like_count": 704,
+          "listed_count": 1,
+          "tweet_count": 2610
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T14:40:47.000Z",
+        "description": "小小精神世界",
+        "id": "1733496849204682752",
+        "name": "荒",
+        "pinned_tweet_id": "1811971253689094169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783885009549692928/Qw4-lZ_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 152,
+          "like_count": 870,
+          "listed_count": 0,
+          "tweet_count": 480
+        },
+        "username": "niatgou",
+        "verified": false
+      }
+    ]
+  }
+}

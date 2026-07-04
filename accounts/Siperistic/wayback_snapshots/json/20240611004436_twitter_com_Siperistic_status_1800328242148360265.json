@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1800047374590763173",
+    "created_at": "2024-06-11T00:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T01:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800328242148360265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1718907043166474240",
+          "start": 0,
+          "username": "hungerforzhouzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800328242148360265",
+    "in_reply_to_user_id": "1718907043166474240",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800047374590763173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hungerforzhouzi 嘟嘟嘟嘟嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1800047374590763173",
+        "created_at": "2024-06-11T00:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T01:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800328242148360265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1718907043166474240",
+              "start": 0,
+              "username": "hungerforzhouzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800328242148360265",
+        "in_reply_to_user_id": "1718907043166474240",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800047374590763173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hungerforzhouzi 嘟嘟嘟嘟嘟"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800047371000377344"
+          ]
+        },
+        "author_id": "1718907043166474240",
+        "conversation_id": "1800047374590763173",
+        "created_at": "2024-06-10T06:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T07:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800047374590763173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/d3QN0QCjq3",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hungerforzhouzi/status/1800047374590763173/photo/1",
+              "media_key": "3_1800047371000377344",
+              "start": 10,
+              "url": "https://t.co/d3QN0QCjq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800047374590763173",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5647,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "独脚大盗，百万富翁 https://t.co/d3QN0QCjq3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 337,
+          "like_count": 638,
+          "listed_count": 1,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T08:26:01.000Z",
+        "description": "一般通过鉴证人，不b人不回b😉\n被拷打那我给你跪下了😭\n偶尔输出一些逆天小作文😋\n民粹恐怖主义万岁，要多杀，不杀能行吗😡",
+        "id": "1718907043166474240",
+        "location": "翻斗花园",
+        "name": "下水道鼠鼠早饭要嗯造肘子派",
+        "pinned_tweet_id": "1792515250375504213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735204418617008128/7L_3gzRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 142,
+          "like_count": 7433,
+          "listed_count": 2,
+          "tweet_count": 3299
+        },
+        "username": "hungerforzhouzi",
+        "verified": false
+      }
+    ]
+  }
+}

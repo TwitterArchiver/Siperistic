@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1989211383481921858",
+    "created_at": "2025-11-15T09:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T10:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989622843672518813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1194641568478593024",
+          "start": 0,
+          "username": "sukie234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989622843672518813",
+    "in_reply_to_user_id": "1194641568478593024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989211383481921858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukie234 但是去工作自己的时间就很少了，加入在学校会有比较多的时间出去转转吧，自由度更高一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1989211383481921858",
+        "created_at": "2025-11-15T09:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989622843672518813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1194641568478593024",
+              "start": 0,
+              "username": "sukie234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989622843672518813",
+        "in_reply_to_user_id": "1194641568478593024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989211383481921858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukie234 但是去工作自己的时间就很少了，加入在学校会有比较多的时间出去转转吧，自由度更高一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194641568478593024",
+        "conversation_id": "1989211383481921858",
+        "created_at": "2025-11-14T05:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989211383481921858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989211383481921858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 91574,
+          "like_count": 565,
+          "quote_count": 6,
+          "reply_count": 52,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "年轻人一定不要去考研\n这些力气用在卷工作学习技能赚钱甚至去特种兵旅游上\n因为过了25岁，你就会发现体力跟不上了，卷不动了\n（md，干不动了，活人微死）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 547,
+          "like_count": 712,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 4557
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-13T15:42:11.000Z",
+        "description": "Crypto enthusiast since 2021|tweets are NFA ex-@gmgnai @mantanetwork @signalplus_web3｜Bay Area / Seattle / New York",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "gmgnai"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "username": "mantanetwork"
+              },
+              {
+                "end": 85,
+                "start": 69,
+                "username": "signalplus_web3"
+              }
+            ]
+          }
+        },
+        "id": "1194641568478593024",
+        "location": "San Jose, CA",
+        "name": "sukie.eth",
+        "pinned_tweet_id": "1979749863106728181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655829356835659777/zYMkeYhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29793,
+          "following_count": 6728,
+          "like_count": 12431,
+          "listed_count": 463,
+          "media_count": 241,
+          "tweet_count": 3543
+        },
+        "username": "sukie234",
+        "verified": true
+      }
+    ]
+  }
+}

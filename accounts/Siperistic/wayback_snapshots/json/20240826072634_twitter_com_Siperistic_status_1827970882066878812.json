@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1827320584478630053",
+    "created_at": "2024-08-26T07:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T08:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827970882066878812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630522378223751168",
+          "start": 0,
+          "username": "polyse1220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827970882066878812",
+    "in_reply_to_user_id": "1630522378223751168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827891644865356182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@polyse1220 好久没看到过科普视频了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1827320584478630053",
+        "created_at": "2024-08-26T07:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T08:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827970882066878812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630522378223751168",
+              "start": 0,
+              "username": "polyse1220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827970882066878812",
+        "in_reply_to_user_id": "1630522378223751168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827891644865356182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@polyse1220 好久没看到过科普视频了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630522378223751168",
+        "conversation_id": "1827320584478630053",
+        "created_at": "2024-08-26T02:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T03:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827891644865356182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191237542797959168",
+              "start": 0,
+              "username": "Siperistic"
+            }
+          ],
+          "urls": [
+            {
+              "description": "★☆★總裁新書→點擊購買☆★☆★☆★https://selftalkboss.com☆★☆————————————————簡介：這是一期《人類系列》也是一期《古文明系列》→→相關視頻海羽人→https://youtu.be/i0gkHkVH96A海羽人的來歷→https://youtu.be/osqsgsxnks...",
+              "display_url": "youtu.be/y0PfdJ2XoAg?si…",
+              "end": 35,
+              "expanded_url": "https://youtu.be/y0PfdJ2XoAg?si=xRBQtnBt1bA9aYJl",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1827891687273930752/pIdiUb_4?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1827891687273930752/pIdiUb_4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "為什麼全世界的檸檬都讀Lemon？這背後有一個刻在8號染色體上的上古故事……|自說自話的總裁",
+              "unwound_url": "https://www.youtube.com/watch?si=xRBQtnBt1bA9aYJl&v=y0PfdJ2XoAg&feature=youtu.be",
+              "url": "https://t.co/Vfs938TXdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827891644865356182",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827320584478630053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siperistic https://t.co/Vfs938TXdD\n大概15分鐘多的時候\n可以看一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 375,
+          "like_count": 705,
+          "listed_count": 1,
+          "tweet_count": 2638
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T10:56:57.000Z",
+        "description": "一名玩畫畫的會考備戰生 專精火柴人✨ 風景 卡漫 素描尚可 歡迎委託～ 頭貼感謝Nako老師@Naku980455Naku❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "Naku980455Naku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ysmVNxjXQP",
+                "end": 23,
+                "expanded_url": "https://discord.gg/ysmVNxjXQP",
+                "start": 0,
+                "url": "https://t.co/ucba8M971L"
+              }
+            ]
+          }
+        },
+        "id": "1630522378223751168",
+        "location": "New Taipei City, Taiwan",
+        "name": "Polyse",
+        "pinned_tweet_id": "1823674330737467797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804077815773696003/I4l5hflY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 243,
+          "like_count": 5511,
+          "listed_count": 1,
+          "tweet_count": 2634
+        },
+        "url": "https://t.co/ucba8M971L",
+        "username": "polyse1220",
+        "verified": false
+      }
+    ]
+  }
+}

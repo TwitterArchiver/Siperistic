@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1806737652986556476",
+    "created_at": "2024-06-28T18:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T19:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806753804735635582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1763202885251485696",
+          "start": 0,
+          "username": "Lucywwwlm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806753804735635582",
+    "in_reply_to_user_id": "1763202885251485696",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806737652986556476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucywwwlm 我算是半步巨魔了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1806737652986556476",
+        "created_at": "2024-06-28T18:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T19:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806753804735635582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1763202885251485696",
+              "start": 0,
+              "username": "Lucywwwlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806753804735635582",
+        "in_reply_to_user_id": "1763202885251485696",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806737652986556476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucywwwlm 我算是半步巨魔了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806737635177644032"
+          ]
+        },
+        "author_id": "1763202885251485696",
+        "conversation_id": "1806737652986556476",
+        "created_at": "2024-06-28T17:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T18:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806737652986556476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8Rn5JfIe3Y",
+              "end": 144,
+              "expanded_url": "https://twitter.com/Lucywwwlm/status/1806737652986556476/photo/1",
+              "media_key": "3_1806737635177644032",
+              "start": 121,
+              "url": "https://t.co/8Rn5JfIe3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806737652986556476",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 504,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帅的冷漠叫冷漠，难看的叫冰霜哥布林。\n\n帅的乐观是乐观，难看的叫烈焰哥布林。\n\n帅的热情叫热情，难看的叫火焰哥布林。\n\n帅的好色叫好色，难看的叫猥琐哥布林。\n\n帅的梦幻叫梦幻，难看的叫幻想哥布林。\n\n如果哥布林超过1米8，还可以晋级为巨魔。 https://t.co/8Rn5JfIe3Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 333,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1816
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T14:01:52.000Z",
+        "description": "这里是没人在乎的小e😧😖🥺🥹🇬🇧undergraduate",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=X62kIMr4",
+                "start": 0,
+                "url": "https://t.co/8eNHYKFV31"
+              }
+            ]
+          }
+        },
+        "id": "1763202885251485696",
+        "location": "距离你520m，⬇️vpn🚪188/666",
+        "name": "E_eeeeio🔪（😇ing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763212839739654144/S4risV_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5343,
+          "following_count": 582,
+          "like_count": 1792,
+          "listed_count": 2,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/8eNHYKFV31",
+        "username": "Lucywwwlm",
+        "verified": false
+      }
+    ]
+  }
+}

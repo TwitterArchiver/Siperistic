@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1821197964817416344",
+    "created_at": "2024-08-08T06:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T07:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821438507040243845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1409474469580591109",
+          "start": 0,
+          "username": "welles_george"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821438507040243845",
+    "in_reply_to_user_id": "1409474469580591109",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821197964817416344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@welles_george 去当法国国王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1821197964817416344",
+        "created_at": "2024-08-08T06:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T07:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821438507040243845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1409474469580591109",
+              "start": 0,
+              "username": "welles_george"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821438507040243845",
+        "in_reply_to_user_id": "1409474469580591109",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821197964817416344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@welles_george 去当法国国王"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821197961474535429"
+          ]
+        },
+        "author_id": "1409474469580591109",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1821197964817416344",
+        "created_at": "2024-08-07T14:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T15:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821197964817416344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/utsxtv3iry",
+              "end": 35,
+              "expanded_url": "https://twitter.com/welles_george/status/1821197964817416344/photo/1",
+              "media_key": "3_1821197961474535429",
+              "start": 12,
+              "url": "https://t.co/utSXTv3iry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821197964817416344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2227,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢芙宁娜我要干什么 https://t.co/utSXTv3iry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 363,
+          "like_count": 698,
+          "listed_count": 1,
+          "tweet_count": 2475
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T11:32:00.000Z",
+        "description": "高中牲/喜欢玩游戏/不喜欢学习/PUBG MOBILE/原神/胆小却喜欢恐怖游戏/Steam玩家只玩得起打大折的低价游戏/喜欢打羽毛球🏸/喜欢台湾🇹🇼/YouTuber/",
+        "id": "1409474469580591109",
+        "name": "低调无人气的芙宁娜🇭🇰🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791837470470123520/AbCwuwbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 55,
+          "like_count": 1867,
+          "listed_count": 0,
+          "tweet_count": 687
+        },
+        "username": "welles_george",
+        "verified": false
+      }
+    ]
+  }
+}

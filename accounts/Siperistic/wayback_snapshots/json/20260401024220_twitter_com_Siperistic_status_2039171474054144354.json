@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "2039052321813115253",
+    "created_at": "2026-04-01T02:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039171474054144354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747291885100744704",
+          "start": 0,
+          "username": "gracexiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039171474054144354",
+    "in_reply_to_user_id": "1747291885100744704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039052321813115253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gracexiya 很难学会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "2039052321813115253",
+        "created_at": "2026-04-01T02:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039171474054144354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747291885100744704",
+              "start": 0,
+              "username": "gracexiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039171474054144354",
+        "in_reply_to_user_id": "1747291885100744704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039052321813115253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gracexiya 很难学会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747291885100744704",
+        "conversation_id": "2039052321813115253",
+        "created_at": "2026-03-31T18:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039052321813115253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039052321813115253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "拧巴的你快乐吗？\n\n我曾经也是一个很拧巴的人\n我总是不把话说出口 总觉得对方会懂\n\n直到成长的过程中 我意识到\n除了自己 没人会百分之百的了解你\n拧巴只会让你失去一个又一个你在乎的人\n除非你觉得对方不重要 \n\n那你继续拧巴 继续觉得自己的面子比天高\n那也别说什么对方对你很重要了\n你没那么重情重义 你只在乎自己\n\n多少的亲情 友情 爱情 \n就是因为拧巴而产生隔阂\n\n生命真的很短暂 \n愿每一位拧巴的人\n能够学会坦诚开口"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 870,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拧巴的你快乐吗？\n\n我曾经也是一个很拧巴的人\n我总是不把话说出口 总觉得对方会懂\n\n直到成长的过程中 我意识到\n除了自己 没人会百分之百的了解你\n拧巴只会让你失去一个又一个你在乎的人\n除非你觉得对方不重要 \n\n那你继续拧巴 继续觉得自己的面子比天高\n那也别说什么对方对你很重要了\n你没那么重情重义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 598,
+          "like_count": 699,
+          "listed_count": 3,
+          "media_count": 331,
+          "tweet_count": 5225
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T16:17:30.000Z",
+        "description": "失眠好烦\n少关注我\n三观不正\n不聊骚 \n有对象",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/grace51066",
+                "end": 23,
+                "expanded_url": "https://ngl.link/grace51066",
+                "start": 0,
+                "url": "https://t.co/TuMWnxWHw6"
+              }
+            ]
+          }
+        },
+        "id": "1747291885100744704",
+        "name": "桉",
+        "pinned_tweet_id": "1920696799951511581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037130171866865664/MfTgtFAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16975,
+          "following_count": 1,
+          "like_count": 25659,
+          "listed_count": 21,
+          "media_count": 733,
+          "tweet_count": 5899
+        },
+        "url": "https://t.co/TuMWnxWHw6",
+        "username": "gracexiya",
+        "verified": true
+      }
+    ]
+  }
+}

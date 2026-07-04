@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1803141748748845192",
+    "created_at": "2024-06-19T00:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T01:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803222442443432429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1768447580961398784",
+          "start": 0,
+          "username": "aloner_second"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803222442443432429",
+    "in_reply_to_user_id": "1768447580961398784",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803141748748845192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aloner_second 看看同学都是干些什么的参考一下，我记得支付宝里好像有兼职之类的活找，58同城上也有，或者直接打本地开封菜之类的电话问他们招不招服务员"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1803141748748845192",
+        "created_at": "2024-06-19T00:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T01:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803222442443432429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768447580961398784",
+              "start": 0,
+              "username": "aloner_second"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803222442443432429",
+        "in_reply_to_user_id": "1768447580961398784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803141748748845192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aloner_second 看看同学都是干些什么的参考一下，我记得支付宝里好像有兼职之类的活找，58同城上也有，或者直接打本地开封菜之类的电话问他们招不招服务员"
+      },
+      {
+        "attachments": {},
+        "author_id": "1768447580961398784",
+        "conversation_id": "1803141748748845192",
+        "created_at": "2024-06-18T19:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T20:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803141748748845192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803141748748845192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想打暑假工\n但是不知道怎么找。\n崩溃咯～\n有人能教教我吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 335,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T01:22:21.000Z",
+        "description": "@aloner_wanna转生\n05/男生/infp\n只活在网上的赛博疯子\n抑郁焦虑懒得治了\n音乐游戏美食，树洞或者聊天\n中文/English\n高浓度语c人\n有时候内耗，有时候是猫猫！\n概率会抢各位的饭或者零食😈😈😈\n欢迎一切朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "aloner_wanna"
+              }
+            ]
+          }
+        },
+        "id": "1768447580961398784",
+        "location": "寂静岭",
+        "name": "孤独患者二号",
+        "pinned_tweet_id": "1800807540017828104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768447922193240064/WYz2C7fD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 211,
+          "like_count": 2108,
+          "listed_count": 0,
+          "tweet_count": 850
+        },
+        "username": "aloner_second",
+        "verified": false
+      }
+    ]
+  }
+}

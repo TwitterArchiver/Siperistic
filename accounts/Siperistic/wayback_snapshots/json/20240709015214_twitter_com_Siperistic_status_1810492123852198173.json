@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1810238031250796634",
+    "created_at": "2024-07-09T01:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T02:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810492123852198173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453912797570469891",
+          "start": 0,
+          "username": "lueluel30795097"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810492123852198173",
+    "in_reply_to_user_id": "1453912797570469891",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810336254439166210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lueluel30795097 太善了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1810238031250796634",
+        "created_at": "2024-07-09T01:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T02:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810492123852198173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453912797570469891",
+              "start": 0,
+              "username": "lueluel30795097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810492123852198173",
+        "in_reply_to_user_id": "1453912797570469891",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810336254439166210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lueluel30795097 太善了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1453912797570469891",
+        "conversation_id": "1810238031250796634",
+        "created_at": "2024-07-08T15:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T16:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810336254439166210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191237542797959168",
+              "start": 0,
+              "username": "Siperistic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810336254439166210",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810333895176732717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siperistic 其实只要态度好一点就可以从我这里骗走一些小钱（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人。事一个很爱看云拍云的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 327,
+          "like_count": 638,
+          "listed_count": 1,
+          "tweet_count": 1890
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-29T02:33:29.000Z",
+        "description": "好困，想睡觉 💤",
+        "id": "1453912797570469891",
+        "name": "Hurricane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801256670615773184/Z6dYa3EA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 216,
+          "like_count": 6703,
+          "listed_count": 0,
+          "tweet_count": 234
+        },
+        "username": "lueluel30795097",
+        "verified": false
+      }
+    ]
+  }
+}

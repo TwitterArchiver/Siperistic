@@ -1,0 +1,267 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1816734201770573958",
+    "created_at": "2024-07-26T08:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T09:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816754892742238500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811010898842308609",
+          "start": 0,
+          "username": "Megumin1398575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816754892742238500",
+    "in_reply_to_user_id": "1811010898842308609",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816734201770573958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Megumin1398575 又要爆米了啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1816734201770573958",
+        "created_at": "2024-07-26T08:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T09:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816754892742238500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811010898842308609",
+              "start": 0,
+              "username": "Megumin1398575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816754892742238500",
+        "in_reply_to_user_id": "1811010898842308609",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816734201770573958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Megumin1398575 又要爆米了啊"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816734193046761472"
+          ]
+        },
+        "author_id": "1811010898842308609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1415728297065861123",
+              "name": "Steam Deck"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1415728297065861123",
+              "name": "Steam Deck"
+            }
+          }
+        ],
+        "conversation_id": "1816734201770573958",
+        "created_at": "2024-07-26T07:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T08:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816734201770573958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/m0JrUPoJOn",
+              "end": 184,
+              "expanded_url": "https://twitter.com/Megumin1398575/status/1816734201770573958/photo/1",
+              "media_key": "3_1816734193046761472",
+              "start": 161,
+              "url": "https://t.co/m0JrUPoJOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816734201770573958",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "咱不缺零花钱暂时没有开放🚪的打算就别问了，看对眼了就交个朋友，要是咱未来缺米了再说吧(˶‾᷄ ⁻̫ ‾᷅˵)\n\n那么祝贺我在东京有了自己的小窝and即将开启自己的新生活。\n这个steam deck Oled 1T咱打算就抽了\nso还是老样子\n点赞➕转发➕关注➕评论\n上次抽奖已发公信力还是OK的，说送就送\n截止到8月1日 https://t.co/m0JrUPoJOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 359,
+          "like_count": 699,
+          "listed_count": 1,
+          "tweet_count": 2364
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T12:13:47.000Z",
+        "description": "【中/日/英】 enfj/是个小太阳☀️，想交好多好多朋友🥰🥰，正在努力攻克日语ing……，10月去🇯🇵读语言学校",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prone.damo3.club/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://prone.damo3.club/#/register?code=uXsCGb8O",
+                "start": 0,
+                "url": "https://t.co/U5OVBg6BkC"
+              }
+            ]
+          }
+        },
+        "id": "1811010898842308609",
+        "location": "紅魔郷    👉vpn",
+        "name": "Megumin（¯﹃¯）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811011020917460994/6An4tI3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 369,
+          "like_count": 987,
+          "listed_count": 1,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/U5OVBg6BkC",
+        "username": "Megumin1398575",
+        "verified": false
+      }
+    ]
+  }
+}

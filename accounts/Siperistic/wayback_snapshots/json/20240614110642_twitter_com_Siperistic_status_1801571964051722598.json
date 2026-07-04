@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1801457316677750844",
+    "created_at": "2024-06-14T11:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T12:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801571964051722598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1771218854707871744",
+          "start": 0,
+          "username": "__lZU__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801571964051722598",
+    "in_reply_to_user_id": "1771218854707871744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801457316677750844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__lZU__ 不主动真的就没办法了😇但是拿什么让一个infp去异性面前主动啊😨😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1801457316677750844",
+        "created_at": "2024-06-14T11:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T12:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801571964051722598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1771218854707871744",
+              "start": 0,
+              "username": "__lZU__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801571964051722598",
+        "in_reply_to_user_id": "1771218854707871744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801457316677750844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__lZU__ 不主动真的就没办法了😇但是拿什么让一个infp去异性面前主动啊😨😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1771218854707871744",
+        "conversation_id": "1801457316677750844",
+        "created_at": "2024-06-14T03:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T04:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801457316677750844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801457316677750844",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男同志应该主动广泛接触各类女生的，机会本来就很少了，你不主动那还真没办法了，不过基本的礼仪和道德需要讲的、、当然你很优秀另算、不过优秀的人往往也更谦逊就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 338,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1724
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T16:54:42.000Z",
+        "description": "Sing for the laughter Sing for the tear｜木卫二",
+        "id": "1771218854707871744",
+        "location": "如果我说对不起 你能好受一点吗？",
+        "name": "古德曼🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801217685012799488/_QWFjKGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 114,
+          "like_count": 4512,
+          "listed_count": 0,
+          "tweet_count": 1384
+        },
+        "username": "__lZU__",
+        "verified": false
+      }
+    ]
+  }
+}

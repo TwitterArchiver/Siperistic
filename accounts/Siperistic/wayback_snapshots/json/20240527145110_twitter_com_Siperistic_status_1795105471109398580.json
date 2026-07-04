@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1794920004586275043",
+    "created_at": "2024-05-27T14:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T15:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795105471109398580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1431983183327813636",
+          "start": 0,
+          "username": "charming_natsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795105471109398580",
+    "in_reply_to_user_id": "1431983183327813636",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794920004586275043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charming_natsu 现在是apex"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1794920004586275043",
+        "created_at": "2024-05-27T14:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T15:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795105471109398580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1431983183327813636",
+              "start": 0,
+              "username": "charming_natsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795105471109398580",
+        "in_reply_to_user_id": "1431983183327813636",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794920004586275043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charming_natsu 现在是apex"
+      },
+      {
+        "attachments": {},
+        "author_id": "1431983183327813636",
+        "conversation_id": "1794920004586275043",
+        "created_at": "2024-05-27T02:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T03:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794920004586275043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794920004586275043",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11838,
+          "like_count": 108,
+          "quote_count": 1,
+          "reply_count": 156,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇推友们最喜欢玩的游戏是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 319,
+          "like_count": 632,
+          "listed_count": 1,
+          "tweet_count": 1499
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T14:13:06.000Z",
+        "description": "¡Hola,amigos!This is my personal channel and nice to meet you!\n🏳️‍⚧️🏳️‍🌈 Friendly ❤️\n是圣三一的小夏😚\n是日常推！！不鉴证！！\n看到关注会回fo\n（随缘，想互fo可私信🥰）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.com",
+                "end": 23,
+                "expanded_url": "http://www.bluearchive.com",
+                "start": 0,
+                "url": "https://t.co/0Vxvv72MBK"
+              }
+            ]
+          }
+        },
+        "id": "1431983183327813636",
+        "location": "圣三一综合学院•甜点部",
+        "name": "迷人的小夏🧃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788128110300590081/S6SkkDHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 376,
+          "like_count": 4398,
+          "listed_count": 0,
+          "tweet_count": 2299
+        },
+        "url": "https://t.co/0Vxvv72MBK",
+        "username": "charming_natsu",
+        "verified": false
+      }
+    ]
+  }
+}

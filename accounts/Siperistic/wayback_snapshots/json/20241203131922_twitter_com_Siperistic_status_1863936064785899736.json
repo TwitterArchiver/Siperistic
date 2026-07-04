@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1863802477289807874",
+    "created_at": "2024-12-03T13:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T14:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863936064785899736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771507250080948224",
+          "start": 0,
+          "username": "XizxRich8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863936064785899736",
+    "in_reply_to_user_id": "1771507250080948224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863802477289807874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XizxRich8964 猫哥为什么要翻白眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1863802477289807874",
+        "created_at": "2024-12-03T13:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T14:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863936064785899736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771507250080948224",
+              "start": 0,
+              "username": "XizxRich8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863936064785899736",
+        "in_reply_to_user_id": "1771507250080948224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863802477289807874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XizxRich8964 猫哥为什么要翻白眼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863802469454893056"
+          ]
+        },
+        "author_id": "1771507250080948224",
+        "conversation_id": "1863802477289807874",
+        "created_at": "2024-12-03T04:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T05:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863802477289807874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eljvrMAxnb",
+              "end": 38,
+              "expanded_url": "https://x.com/XizxRich8964/status/1863802477289807874/photo/1",
+              "media_key": "3_1863802469454893056",
+              "start": 15,
+              "url": "https://t.co/eljvrMAxnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863802477289807874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3694,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "這是我的自拍照😽\n😼帥不帥？ https://t.co/eljvrMAxnb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 431,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 3404
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T12:00:25.000Z",
+        "description": "僕は世界を理解することに情熱を燃やし、健全な人格を持ち、自由意志を追求する人間だ🇹🇼🇺🇦フォロバは基本100%/#ウマ娘/#ガンダム/#ZARD/#MyGo/#トゲナシトゲアリ/日本のポップ/ロック/尊重LGBTQor意識形態/不反共/念江胡/天安門事件/無言フォロー失礼します🙇/🎸エレキギターを練習中です",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 56,
+                "tag": "ウマ娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "ガンダム"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "ZARD"
+              },
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "MyGo"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/xizhongxunrich…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/xizhongxunrich78?igsh=cGNwN3p1cXVzMWpo",
+                "start": 0,
+                "url": "https://t.co/Uy5guMGyQh"
+              }
+            ]
+          }
+        },
+        "id": "1771507250080948224",
+        "location": "トレセン学園",
+        "name": "腫勋の转世灵童🐴🍊",
+        "pinned_tweet_id": "1832280227806113946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857665030508134400/60z11s9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 2952,
+          "like_count": 54452,
+          "listed_count": 7,
+          "media_count": 1943,
+          "tweet_count": 20155
+        },
+        "url": "https://t.co/Uy5guMGyQh",
+        "username": "XizxRich8964",
+        "verified": false
+      }
+    ]
+  }
+}

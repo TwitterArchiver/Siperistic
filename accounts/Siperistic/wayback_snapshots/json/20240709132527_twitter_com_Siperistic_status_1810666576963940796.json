@@ -1,0 +1,99 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1810666576963940796",
+    "created_at": "2024-07-09T13:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T14:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1810666576963940796"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1810666576963940796",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉最近比较后悔的事是高中选了文\n但是想想自己高中班里有好多好朋友\n或许去了别的班就见不到他们了\n然后填志愿被大类招生再坑了一次\n选了个四不像专业\n再然后转专业考试自学专业课没考过\n挂了一科道心破碎开始摆烂\n明明每周都去图书馆自习就是学不会\n疫情三年过得就像路边的野狗啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1810666576963940796",
+        "created_at": "2024-07-09T13:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T14:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810666576963940796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1810666576963940796",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉最近比较后悔的事是高中选了文\n但是想想自己高中班里有好多好朋友\n或许去了别的班就见不到他们了\n然后填志愿被大类招生再坑了一次\n选了个四不像专业\n再然后转专业考试自学专业课没考过\n挂了一科道心破碎开始摆烂\n明明每周都去图书馆自习就是学不会\n疫情三年过得就像路边的野狗啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人。事一个很爱看云拍云的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 327,
+          "like_count": 638,
+          "listed_count": 1,
+          "tweet_count": 1903
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      }
+    ]
+  }
+}

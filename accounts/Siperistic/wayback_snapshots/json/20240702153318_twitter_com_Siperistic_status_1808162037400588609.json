@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1808108167865458906",
+    "created_at": "2024-07-02T15:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T16:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808162037400588609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1316613157599674369",
+          "start": 0,
+          "username": "Enli_mint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808162037400588609",
+    "in_reply_to_user_id": "1316613157599674369",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808108167865458906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enli_mint 你也喝了jio香茶😆评价一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1808108167865458906",
+        "created_at": "2024-07-02T15:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T16:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808162037400588609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1316613157599674369",
+              "start": 0,
+              "username": "Enli_mint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808162037400588609",
+        "in_reply_to_user_id": "1316613157599674369",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808108167865458906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enli_mint 你也喝了jio香茶😆评价一下"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808108159195926529"
+          ]
+        },
+        "author_id": "1316613157599674369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1808108167865458906",
+        "created_at": "2024-07-02T11:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T12:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808108167865458906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/IFsO7Bc3aI",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Enli_mint/status/1808108167865458906/photo/1",
+              "media_key": "3_1808108159195926529",
+              "start": 11,
+              "url": "https://t.co/IFsO7Bc3aI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808108167865458906",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果带上那个设定…😋 https://t.co/IFsO7Bc3aI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 332,
+          "like_count": 638,
+          "listed_count": 1,
+          "tweet_count": 1837
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-15T05:33:52.000Z",
+        "description": "朋友圈 ｜ 报纸 ｜ 垃圾桶",
+        "id": "1316613157599674369",
+        "location": "计算机前",
+        "name": "祝荷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783306961980985344/DwjhEwES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 170,
+          "like_count": 5162,
+          "listed_count": 3,
+          "tweet_count": 2650
+        },
+        "username": "Enli_mint",
+        "verified": false
+      }
+    ]
+  }
+}

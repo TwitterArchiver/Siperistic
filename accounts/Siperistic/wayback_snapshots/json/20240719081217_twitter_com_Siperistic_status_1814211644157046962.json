@@ -1,0 +1,209 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1814163499850813761",
+    "created_at": "2024-07-19T08:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T09:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814211644157046962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630522378223751168",
+          "start": 0,
+          "username": "polyse1220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814211644157046962",
+    "in_reply_to_user_id": "1630522378223751168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814206198885056676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@polyse1220 真不错，那34嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1814163499850813761",
+        "created_at": "2024-07-19T08:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T09:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814211644157046962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630522378223751168",
+              "start": 0,
+              "username": "polyse1220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814211644157046962",
+        "in_reply_to_user_id": "1630522378223751168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814206198885056676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@polyse1220 真不错，那34嘞"
+      },
+      {
+        "attachments": {},
+        "author_id": "1630522378223751168",
+        "conversation_id": "1814163499850813761",
+        "created_at": "2024-07-19T07:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T08:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814206198885056676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191237542797959168",
+              "start": 0,
+              "username": "Siperistic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814206198885056676",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814199609293778993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siperistic 9 冰箱裡的東西（有啥吃啥\n22 讀書 畫畫 踢足球 打電動 騎腳踏車\n33 同22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 356,
+          "like_count": 693,
+          "listed_count": 1,
+          "tweet_count": 2231
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T10:56:57.000Z",
+        "description": "愛畫畫的國中生～ \nFB日常使用 \n推特發很多廢文～ 歡迎大家追蹤 \n有ig\n但\n完全沒在用連廢文都沒有喔XD \n啊對了還有Pixiv呦～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/p/NnKFwu…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/p/NnKFwuz3vq9fRrvD/",
+                "start": 0,
+                "url": "https://t.co/eKz3rTXb7J"
+              }
+            ]
+          }
+        },
+        "id": "1630522378223751168",
+        "location": "New Taipei City, Taiwan",
+        "name": "Polyse",
+        "pinned_tweet_id": "1803747999023329744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804077815773696003/I4l5hflY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 206,
+          "like_count": 3051,
+          "listed_count": 1,
+          "tweet_count": 1762
+        },
+        "url": "https://t.co/eKz3rTXb7J",
+        "username": "polyse1220",
+        "verified": false
+      }
+    ]
+  }
+}

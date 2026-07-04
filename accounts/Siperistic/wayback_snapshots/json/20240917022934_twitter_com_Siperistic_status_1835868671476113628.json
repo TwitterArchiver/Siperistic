@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1835567163739963692",
+    "created_at": "2024-09-17T02:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T03:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835868671476113628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1594894138331496451",
+          "start": 0,
+          "username": "sngshngchun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835868671476113628",
+    "in_reply_to_user_id": "1594894138331496451",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835567163739963692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngshngchun 大明王朝1566"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1835567163739963692",
+        "created_at": "2024-09-17T02:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T03:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835868671476113628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1594894138331496451",
+              "start": 0,
+              "username": "sngshngchun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835868671476113628",
+        "in_reply_to_user_id": "1594894138331496451",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835567163739963692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngshngchun 大明王朝1566"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835567147046895616"
+          ]
+        },
+        "author_id": "1594894138331496451",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "1835567163739963692",
+        "created_at": "2024-09-16T06:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T07:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835567163739963692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixbnlcirgf",
+              "end": 45,
+              "expanded_url": "https://twitter.com/sngshngchun/status/1835567163739963692/photo/1",
+              "media_key": "3_1835567147046895616",
+              "start": 22,
+              "url": "https://t.co/IXbNlcIrGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835567163739963692",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3443,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱妃 给朕推荐些下饭电视剧📺\n朕重重有赏😘 https://t.co/IXbNlcIrGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 372,
+          "like_count": 703,
+          "listed_count": 1,
+          "tweet_count": 2721
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T03:23:06.000Z",
+        "description": "ENFP快乐傻狗/不要为打翻的牛奶哭泣/语言总是带来错觉与冲突 我觉得/看不惯我就屏蔽/没门槛不加v不闲聊/不能评论的是推广自辨",
+        "id": "1594894138331496451",
+        "location": "白日夢.日系男的怀里",
+        "name": "松上川",
+        "pinned_tweet_id": "1834197050034192465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830303252916690946/_Rj7XbTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24498,
+          "following_count": 99,
+          "like_count": 18182,
+          "listed_count": 66,
+          "tweet_count": 7827
+        },
+        "username": "sngshngchun",
+        "verified": false
+      }
+    ]
+  }
+}

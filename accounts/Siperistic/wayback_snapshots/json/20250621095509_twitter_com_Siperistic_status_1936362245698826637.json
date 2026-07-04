@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1935716091046789556",
+    "created_at": "2025-06-21T09:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T10:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936362245698826637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1229440357760241665",
+          "start": 0,
+          "username": "qiaoqiao147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936362245698826637",
+    "in_reply_to_user_id": "1229440357760241665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935716091046789556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiaoqiao147 雅马哈，好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1935716073354960896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0Lg0pWIAAQEFM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1935716091046789556",
+        "created_at": "2025-06-21T09:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T10:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936362245698826637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1229440357760241665",
+              "start": 0,
+              "username": "qiaoqiao147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936362245698826637",
+        "in_reply_to_user_id": "1229440357760241665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935716091046789556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiaoqiao147 雅马哈，好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935716073354960896"
+          ]
+        },
+        "author_id": "1229440357760241665",
+        "conversation_id": "1935716091046789556",
+        "created_at": "2025-06-19T15:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T16:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935716091046789556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o0gRzwMYBv",
+              "end": 40,
+              "expanded_url": "https://x.com/qiaoqiao147/status/1935716091046789556/photo/1",
+              "media_key": "3_1935716073354960896",
+              "start": 17,
+              "url": "https://t.co/o0gRzwMYBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935716091046789556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11641,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等等，给你们看看我今天新买的音箱 https://t.co/o0gRzwMYBv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 511,
+          "like_count": 708,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 4219
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-17T16:20:21.000Z",
+        "description": "不加好友丨互联网女菩萨丨不会索要财物丨推广自辨丨注意防骗丨自娱自乐感谢关注",
+        "id": "1229440357760241665",
+        "location": "推广自辨",
+        "name": "乔乔",
+        "pinned_tweet_id": "1918302876646162811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465214093611069445/hnZwCOQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74830,
+          "following_count": 87,
+          "like_count": 1371,
+          "listed_count": 236,
+          "media_count": 561,
+          "tweet_count": 1604
+        },
+        "username": "qiaoqiao147",
+        "verified": false
+      }
+    ]
+  }
+}

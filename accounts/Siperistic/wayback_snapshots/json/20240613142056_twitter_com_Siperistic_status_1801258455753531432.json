@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1801233316664004867",
+    "created_at": "2024-06-13T14:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T15:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801258455753531432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1459763751746686976",
+          "start": 0,
+          "username": "StoneWood1223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801258455753531432",
+    "in_reply_to_user_id": "1459763751746686976",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801233316664004867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StoneWood1223 以最好状态迎接考试（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1801233316664004867",
+        "created_at": "2024-06-13T14:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T15:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801258455753531432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1459763751746686976",
+              "start": 0,
+              "username": "StoneWood1223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801258455753531432",
+        "in_reply_to_user_id": "1459763751746686976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801233316664004867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StoneWood1223 以最好状态迎接考试（）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1459763751746686976",
+        "conversation_id": "1801233316664004867",
+        "created_at": "2024-06-13T12:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T13:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801233316664004867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801233316664004867",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天早八考高数\n博主冲了三次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 338,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1713
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-14T06:03:09.000Z",
+        "description": "19｜物理｜Apex/音游｜English/中文｜欢迎找我聊天｜ちょっと寂しかったよ。",
+        "id": "1459763751746686976",
+        "location": "GBA",
+        "name": "St",
+        "pinned_tweet_id": "1789662364142629332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800558212934221825/dZE2ghzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 504,
+          "like_count": 5385,
+          "listed_count": 2,
+          "tweet_count": 3940
+        },
+        "username": "StoneWood1223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1814197864408707303",
+    "created_at": "2024-07-19T09:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T10:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814229715647152508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "758512038142365696",
+          "start": 0,
+          "username": "Evainbe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814229715647152508",
+    "in_reply_to_user_id": "758512038142365696",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814197864408707303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evainbe 期末周速通指导hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1814197864408707303",
+        "created_at": "2024-07-19T09:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T10:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814229715647152508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "758512038142365696",
+              "start": 0,
+              "username": "Evainbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814229715647152508",
+        "in_reply_to_user_id": "758512038142365696",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814197864408707303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evainbe 期末周速通指导hhh"
+      },
+      {
+        "attachments": {},
+        "author_id": "758512038142365696",
+        "conversation_id": "1814197864408707303",
+        "created_at": "2024-07-19T07:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T08:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814197864408707303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814197864408707303",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1172,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别再发短信打电话问我需不需要一对一辅导了\n我都大学了，大学了！！！！大学了！！！！！！！！！！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 356,
+          "like_count": 693,
+          "listed_count": 1,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-28T03:58:57.000Z",
+        "description": "🥰@Poki00000 新CNUer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 1,
+                "username": "Poki00000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanHe43",
+                "end": 23,
+                "expanded_url": "https://t.me/EvanHe43",
+                "start": 0,
+                "url": "https://t.co/kNNvm13VHN"
+              }
+            ]
+          }
+        },
+        "id": "758512038142365696",
+        "location": "北京",
+        "name": "Evan",
+        "pinned_tweet_id": "1786525083995144580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804405604741738496/zAMnDcEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 967,
+          "like_count": 26751,
+          "listed_count": 2,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/kNNvm13VHN",
+        "username": "Evainbe",
+        "verified": false
+      }
+    ]
+  }
+}

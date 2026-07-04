@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1800370118851170725",
+    "created_at": "2024-06-11T15:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T16:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800544571589632331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "98395025",
+          "start": 0,
+          "username": "urassholes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800544571589632331",
+    "in_reply_to_user_id": "98395025",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800370118851170725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@urassholes 工作乏味了培养一点趣味吧，因为在电子厂的话属于自己的时间不像之前那么充裕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1800370118851170725",
+        "created_at": "2024-06-11T15:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T16:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800544571589632331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "98395025",
+              "start": 0,
+              "username": "urassholes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800544571589632331",
+        "in_reply_to_user_id": "98395025",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800370118851170725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@urassholes 工作乏味了培养一点趣味吧，因为在电子厂的话属于自己的时间不像之前那么充裕了"
+      },
+      {
+        "attachments": {},
+        "author_id": "98395025",
+        "conversation_id": "1800370118851170725",
+        "created_at": "2024-06-11T03:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T04:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800370118851170725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800370118851170725",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 87611,
+          "like_count": 441,
+          "quote_count": 8,
+          "reply_count": 89,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我发现一个好玩的现象。\n电子厂很多打工青年，在学校的时候厌学，出来打工住宿舍，反而喜欢看书了。有的拿个小本写诗，有的画电路图。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 337,
+          "like_count": 638,
+          "listed_count": 1,
+          "tweet_count": 1686
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-21T14:49:09.000Z",
+        "description": "现在是一名教师，理想是成为一名自由艺术家。\n爱书、爱国画、爱动漫，爱一切小工艺品。\n#教育 #艺术",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "教育"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "艺术"
+              }
+            ]
+          }
+        },
+        "id": "98395025",
+        "location": "Changsha",
+        "name": "豆小豆",
+        "pinned_tweet_id": "1796432925816496290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1041272742752841728/HHdm4FUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16653,
+          "following_count": 46,
+          "like_count": 1230,
+          "listed_count": 126,
+          "tweet_count": 15321
+        },
+        "username": "urassholes",
+        "verified": false
+      }
+    ]
+  }
+}

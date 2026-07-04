@@ -1,0 +1,216 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1800165678131147101",
+    "created_at": "2024-06-10T14:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T15:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800181055879782834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1356514988223918080",
+          "start": 0,
+          "username": "StarrySkyOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800181055879782834",
+    "in_reply_to_user_id": "1356514988223918080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800165678131147101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarrySkyOvO 暑假结束整个人会减好几斤罢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1800165678131147101",
+        "created_at": "2024-06-10T14:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T15:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800181055879782834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1356514988223918080",
+              "start": 0,
+              "username": "StarrySkyOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800181055879782834",
+        "in_reply_to_user_id": "1356514988223918080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800165678131147101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarrySkyOvO 暑假结束整个人会减好几斤罢"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800165664734531585"
+          ]
+        },
+        "author_id": "1356514988223918080",
+        "conversation_id": "1800165678131147101",
+        "created_at": "2024-06-10T13:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T14:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800165678131147101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZeS0Bv1pRe",
+              "end": 50,
+              "expanded_url": "https://twitter.com/StarrySkyOvO/status/1800165678131147101/photo/1",
+              "media_key": "3_1800165664734531585",
+              "start": 27,
+              "url": "https://t.co/ZeS0Bv1pRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800165678131147101",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2558,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考完后买的第一样东西居然是杯子\n买了两个人气比较高的 https://t.co/ZeS0Bv1pRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 336,
+          "like_count": 637,
+          "listed_count": 1,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-02T08:09:33.000Z",
+        "description": " EN/漢語/日本語 INFP-T 友跨🏳️‍🌈 逃生舱@StarrySkyUS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "StarrySkyUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarrySkyOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarrySkyOvO",
+                "start": 0,
+                "url": "https://t.co/qZoRN6mwUP"
+              }
+            ]
+          }
+        },
+        "id": "1356514988223918080",
+        "location": "🚪$2",
+        "name": "StarrySky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579650782344855553/SF85JWDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3478,
+          "following_count": 3378,
+          "like_count": 42041,
+          "listed_count": 64,
+          "tweet_count": 15695
+        },
+        "url": "https://t.co/qZoRN6mwUP",
+        "username": "StarrySkyOvO",
+        "verified": false
+      }
+    ]
+  }
+}

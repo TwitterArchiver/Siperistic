@@ -1,0 +1,232 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1811974382312653074",
+    "created_at": "2024-07-13T05:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T06:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811990340305596628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680590578592120832",
+          "start": 0,
+          "username": "1655760684Maxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811990340305596628",
+    "in_reply_to_user_id": "1680590578592120832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811974382312653074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1655760684Maxxx 我超，哥们还会写这个？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1811974382312653074",
+        "created_at": "2024-07-13T05:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T06:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811990340305596628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680590578592120832",
+              "start": 0,
+              "username": "1655760684Maxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811990340305596628",
+        "in_reply_to_user_id": "1680590578592120832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811974382312653074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1655760684Maxxx 我超，哥们还会写这个？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811974371579162624",
+            "3_1811974371533066240",
+            "3_1811974371566587904"
+          ]
+        },
+        "author_id": "1680590578592120832",
+        "conversation_id": "1811974382312653074",
+        "created_at": "2024-07-13T04:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T05:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811974382312653074"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "brat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/AxIAmk1pLy",
+              "end": 42,
+              "expanded_url": "https://twitter.com/1655760684Maxxx/status/1811974382312653074/photo/1",
+              "media_key": "3_1811974371579162624",
+              "start": 19,
+              "url": "https://t.co/AxIAmk1pLy"
+            },
+            {
+              "display_url": "pic.twitter.com/AxIAmk1pLy",
+              "end": 42,
+              "expanded_url": "https://twitter.com/1655760684Maxxx/status/1811974382312653074/photo/1",
+              "media_key": "3_1811974371533066240",
+              "start": 19,
+              "url": "https://t.co/AxIAmk1pLy"
+            },
+            {
+              "display_url": "pic.twitter.com/AxIAmk1pLy",
+              "end": 42,
+              "expanded_url": "https://twitter.com/1655760684Maxxx/status/1811974382312653074/photo/1",
+              "media_key": "3_1811974371566587904",
+              "start": 19,
+              "url": "https://t.co/AxIAmk1pLy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811974382312653074",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天有人要吃饭就做了🥲\n#brat https://t.co/AxIAmk1pLy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 338,
+          "like_count": 664,
+          "listed_count": 1,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T14:50:01.000Z",
+        "description": "男的｜04｜是个害怕孤独的enfp｜cs2菜鸡玩家｜运气永远是个谜｜游戏里黑的像非酋但是刮彩票运气好的要死｜应该是个switch但是测出来是dom 感谢关注😉｜自用梯子 https://t.co/M7rRqdhtDY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 108,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=5eVmSJUe",
+                "start": 85,
+                "url": "https://t.co/M7rRqdhtDY"
+              }
+            ]
+          }
+        },
+        "id": "1680590578592120832",
+        "location": "爆龙战士的温馨狗窝",
+        "name": "炒鸡无敌爆龙战士",
+        "pinned_tweet_id": "1797826529227055195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811699207306379265/n-YaVluy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 668,
+          "like_count": 33493,
+          "listed_count": 2,
+          "tweet_count": 5068
+        },
+        "username": "1655760684Maxxx",
+        "verified": false
+      }
+    ]
+  }
+}

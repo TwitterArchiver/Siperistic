@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1818823946374201633",
+    "created_at": "2024-08-01T01:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T02:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818828698814234902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630522378223751168",
+          "start": 0,
+          "username": "polyse1220"
+        },
+        {
+          "end": 26,
+          "id": "1411514841349586945",
+          "start": 12,
+          "username": "Reality_gone5"
+        },
+        {
+          "end": 37,
+          "id": "1549395668791431178",
+          "start": 27,
+          "username": "hereislei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818828698814234902",
+    "in_reply_to_user_id": "1630522378223751168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818823946374201633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@polyse1220 @Reality_gone5 @hereislei 这东西说不定就看个乐呵？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1818823946374201633",
+        "created_at": "2024-08-01T01:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T02:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818828698814234902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630522378223751168",
+              "start": 0,
+              "username": "polyse1220"
+            },
+            {
+              "end": 26,
+              "id": "1411514841349586945",
+              "start": 12,
+              "username": "Reality_gone5"
+            },
+            {
+              "end": 37,
+              "id": "1549395668791431178",
+              "start": 27,
+              "username": "hereislei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818828698814234902",
+        "in_reply_to_user_id": "1630522378223751168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818823946374201633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@polyse1220 @Reality_gone5 @hereislei 这东西说不定就看个乐呵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818823940573167616"
+          ]
+        },
+        "author_id": "1630522378223751168",
+        "conversation_id": "1818823946374201633",
+        "created_at": "2024-08-01T01:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T02:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818823946374201633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1411514841349586945",
+              "start": 78,
+              "username": "Reality_gone5"
+            },
+            {
+              "end": 105,
+              "id": "1191237542797959168",
+              "start": 94,
+              "username": "Siperistic"
+            },
+            {
+              "end": 117,
+              "id": "1549395668791431178",
+              "start": 107,
+              "username": "hereislei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Xz1F1MPbwT",
+              "end": 141,
+              "expanded_url": "https://twitter.com/polyse1220/status/1818823946374201633/photo/1",
+              "media_key": "3_1818823940573167616",
+              "start": 118,
+              "url": "https://t.co/Xz1F1MPbwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818823946374201633",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七月圈圈到底什麼鬼啊\n只有一圈先不說\n奇怪的機制🤔\n連芙莉蓮官方都有？？\n還有幾個繪師大佬？？\n太扯了吧\n然後藍鳥蟬聯第一XD\n\n我補上幾個平常會出現的（\n@Reality_gone5 \n@Siperistic \n@hereislei https://t.co/Xz1F1MPbwT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 359,
+          "like_count": 697,
+          "listed_count": 1,
+          "tweet_count": 2416
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T10:56:57.000Z",
+        "description": "愛畫畫的國中生～ \nFB日常使用 \n推特發很多廢文～ 歡迎大家追蹤 \n有ig\n但\n完全沒在用連廢文都沒有喔XD \n啊對了還有Pixiv呦～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/p/NnKFwu…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/p/NnKFwuz3vq9fRrvD/",
+                "start": 0,
+                "url": "https://t.co/eKz3rTXb7J"
+              }
+            ]
+          }
+        },
+        "id": "1630522378223751168",
+        "location": "New Taipei City, Taiwan",
+        "name": "Polyse",
+        "pinned_tweet_id": "1803747999023329744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804077815773696003/I4l5hflY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 184,
+          "like_count": 4127,
+          "listed_count": 1,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/eKz3rTXb7J",
+        "username": "polyse1220",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-04T02:39:21.000Z",
+        "description": "「阿論」。She/her。17y，Isfj/Istj。東方廚&檔案廚。精神病患，負面文多，想好再追蹤。自稱「おじさん」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCAX57…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCAX57HVqOF1FHsgUViV__RA",
+                "start": 0,
+                "url": "https://t.co/go6JAfernf"
+              }
+            ]
+          }
+        },
+        "id": "1411514841349586945",
+        "location": "？？？",
+        "name": "放射性同位素",
+        "pinned_tweet_id": "1796193536640995498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814559380777676800/hBUlQDDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 57,
+          "like_count": 5195,
+          "listed_count": 0,
+          "tweet_count": 4757
+        },
+        "url": "https://t.co/go6JAfernf",
+        "username": "Reality_gone5",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T14:08:26.000Z",
+        "description": "Hi!here is lei，是个沉浸创作小说的蕾， 二创：#蕾画画画",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "蕾画画画"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "novelstar.com.tw/author/30008.h…",
+                "end": 23,
+                "expanded_url": "https://www.novelstar.com.tw/author/30008.html",
+                "start": 0,
+                "url": "https://t.co/AQqOQbt2wi"
+              }
+            ]
+          }
+        },
+        "id": "1549395668791431178",
+        "location": "in my house or my room",
+        "name": "lei",
+        "pinned_tweet_id": "1715688909844468052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732780486362312704/i3Krwdgb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 304,
+          "like_count": 4024,
+          "listed_count": 0,
+          "tweet_count": 2151
+        },
+        "url": "https://t.co/AQqOQbt2wi",
+        "username": "hereislei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1853964644739662268",
+    "created_at": "2024-11-06T06:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T07:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854053427678191929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1390560341227020291",
+          "start": 0,
+          "username": "MyHongKongDoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854053427678191929",
+    "in_reply_to_user_id": "1390560341227020291",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853964644739662268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MyHongKongDoll 这么好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1853964644739662268",
+        "created_at": "2024-11-06T06:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T07:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854053427678191929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1390560341227020291",
+              "start": 0,
+              "username": "MyHongKongDoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854053427678191929",
+        "in_reply_to_user_id": "1390560341227020291",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853964644739662268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MyHongKongDoll 这么好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390560341227020291",
+        "conversation_id": "1853964644739662268",
+        "created_at": "2024-11-06T00:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T01:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853964644739662268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/myhongkongdoll…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/myhongkongdoll/status/1851480837377736788",
+              "start": 18,
+              "url": "https://t.co/VA5DcrxxKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853964644739662268",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 796041,
+          "like_count": 2028,
+          "quote_count": 2,
+          "reply_count": 6637,
+          "retweet_count": 298
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851480837377736788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "川普赢了奖金全送出去，留言就行啦🚀 https://t.co/VA5DcrxxKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 418,
+          "like_count": 715,
+          "listed_count": 1,
+          "tweet_count": 3226
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T06:53:28.000Z",
+        "description": "JP Accnt @HongKongDoll_JA ✰ Web3 Doppelgänger @dollweb3 ✰ 联系/inquiries https://t.co/K5xSJRV6SN ✰ #Binance 链接 https://t.co/lqZItN4jyL 注册交易有奖✨ 广场号《败家女回本日记》https://t.co/zLuMOTRMFX",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 97,
+                "tag": "Binance"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "HongKongDoll_JA"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dollweb3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/web3_business",
+                "end": 94,
+                "expanded_url": "http://bit.ly/web3_business",
+                "start": 71,
+                "url": "https://t.co/K5xSJRV6SN"
+              },
+              {
+                "display_url": "bit.ly/doll_binance",
+                "end": 132,
+                "expanded_url": "http://bit.ly/doll_binance",
+                "start": 109,
+                "url": "https://t.co/lqZItN4jyL"
+              },
+              {
+                "display_url": "bit.ly/bn_doll",
+                "end": 176,
+                "expanded_url": "http://bit.ly/bn_doll",
+                "start": 153,
+                "url": "https://t.co/zLuMOTRMFX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mydoll.io",
+                "end": 23,
+                "expanded_url": "http://mydoll.io",
+                "start": 0,
+                "url": "https://t.co/G0WNfGrTvf"
+              }
+            ]
+          }
+        },
+        "id": "1390560341227020291",
+        "name": "HongKongDoll",
+        "pinned_tweet_id": "1767115638571733434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851304383923023872/bwplgJmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544964,
+          "following_count": 118,
+          "like_count": 489,
+          "listed_count": 1794,
+          "tweet_count": 886
+        },
+        "url": "https://t.co/G0WNfGrTvf",
+        "username": "MyHongKongDoll",
+        "verified": true
+      }
+    ]
+  }
+}

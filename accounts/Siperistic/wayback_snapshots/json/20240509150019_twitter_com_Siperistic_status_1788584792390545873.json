@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1788546127463338273",
+    "created_at": "2024-05-09T15:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T16:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788584792390545873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "4871550697",
+          "start": 0,
+          "username": "SZK_N66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788584792390545873",
+    "in_reply_to_user_id": "4871550697",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788584458897313852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SZK_N66 这  好痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1788546127463338273",
+        "created_at": "2024-05-09T15:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T16:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788584792390545873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4871550697",
+              "start": 0,
+              "username": "SZK_N66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788584792390545873",
+        "in_reply_to_user_id": "4871550697",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788584458897313852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SZK_N66 这  好痛苦"
+      },
+      {
+        "attachments": {},
+        "author_id": "4871550697",
+        "conversation_id": "1788546127463338273",
+        "created_at": "2024-05-09T14:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T15:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788584458897313852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191237542797959168",
+              "start": 0,
+              "username": "Siperistic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788584458897313852",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788584133389946885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siperistic 我的好朋友 不是好朋友了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 310,
+          "like_count": 620,
+          "listed_count": 1,
+          "tweet_count": 1314
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-07T02:43:09.000Z",
+        "description": "是Baka貓貓噠捏",
+        "id": "4871550697",
+        "name": "紫貓^•ﻌ•^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754960743315968000/YDT3-adp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 468,
+          "like_count": 7723,
+          "listed_count": 55,
+          "tweet_count": 5261
+        },
+        "username": "SZK_N66",
+        "verified": false
+      }
+    ]
+  }
+}

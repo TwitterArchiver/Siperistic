@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1825492887175676137",
+    "created_at": "2024-08-19T15:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T16:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825548317641826411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1388910940419092480",
+          "start": 0,
+          "username": "kumato21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825548317641826411",
+    "in_reply_to_user_id": "1388910940419092480",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825492887175676137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumato21 老文科生露头，可能每个人方法不太一样，我之前就是天天刷文综选择题，感觉很有意思，一天刷几套那种hhh，喜欢看出的各种题然后看不懂的去找老师犟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1825492887175676137",
+        "created_at": "2024-08-19T15:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T16:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825548317641826411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1388910940419092480",
+              "start": 0,
+              "username": "kumato21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825548317641826411",
+        "in_reply_to_user_id": "1388910940419092480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825492887175676137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumato21 老文科生露头，可能每个人方法不太一样，我之前就是天天刷文综选择题，感觉很有意思，一天刷几套那种hhh，喜欢看出的各种题然后看不懂的去找老师犟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1825492682875277312"
+          ]
+        },
+        "author_id": "1388910940419092480",
+        "conversation_id": "1825492887175676137",
+        "created_at": "2024-08-19T11:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T12:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825492887175676137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bbf6ihop3j",
+              "end": 46,
+              "expanded_url": "https://twitter.com/kumato21/status/1825492887175676137/photo/1",
+              "media_key": "16_1825492682875277312",
+              "start": 23,
+              "url": "https://t.co/BBf6iHOP3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825492887175676137",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学长学姐能不能给我这个准高三文科生提供点建议 https://t.co/BBf6iHOP3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 373,
+          "like_count": 703,
+          "listed_count": 1,
+          "tweet_count": 2595
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T17:39:15.000Z",
+        "description": "你推第一透明人",
+        "id": "1388910940419092480",
+        "location": "MBTI是ISTJ",
+        "name": "kumato🍁（淡推版）",
+        "pinned_tweet_id": "1819334772432470032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821938912954118145/siTD97qV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 728,
+          "like_count": 17430,
+          "listed_count": 3,
+          "tweet_count": 4012
+        },
+        "username": "kumato21",
+        "verified": false
+      }
+    ]
+  }
+}

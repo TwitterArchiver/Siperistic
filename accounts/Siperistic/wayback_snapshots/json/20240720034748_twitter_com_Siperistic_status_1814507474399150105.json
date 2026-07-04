@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1814383575812452772",
+    "created_at": "2024-07-20T03:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T04:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814507474399150105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1589203507852152832",
+          "start": 0,
+          "username": "Spenaxxramas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814507474399150105",
+    "in_reply_to_user_id": "1589203507852152832",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814383575812452772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spenaxxramas 1/8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1814383575812452772",
+        "created_at": "2024-07-20T03:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T04:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814507474399150105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589203507852152832",
+              "start": 0,
+              "username": "Spenaxxramas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814507474399150105",
+        "in_reply_to_user_id": "1589203507852152832",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814383575812452772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spenaxxramas 1/8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1814383572339568640"
+          ]
+        },
+        "author_id": "1589203507852152832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1814383575812452772",
+        "created_at": "2024-07-19T19:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T20:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814383575812452772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/2rWyaXCduk",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Spenaxxramas/status/1814383575812452772/photo/1",
+              "media_key": "3_1814383572339568640",
+              "start": 20,
+              "url": "https://t.co/2rWyaXCduk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814383575812452772",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7843,
+          "like_count": 58,
+          "quote_count": 7,
+          "reply_count": 93,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一以下选项必须放弃两个，你放弃哪两个？ https://t.co/2rWyaXCduk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 356,
+          "like_count": 695,
+          "listed_count": 1,
+          "tweet_count": 2267
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分鼻祖\n兼娱乐与生活推\n支持互关fo(需要私信)꒰ *•ɷ•* ꒱\n一个能熬到10年以后的老博主，我封的九成神都会被我熬死",
+        "id": "1589203507852152832",
+        "location": "新西兰",
+        "name": "简律",
+        "pinned_tweet_id": "1813539111518777497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811787803287822336/fPzOPdPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 658,
+          "like_count": 11969,
+          "listed_count": 8,
+          "tweet_count": 2043
+        },
+        "username": "Spenaxxramas",
+        "verified": false
+      }
+    ]
+  }
+}

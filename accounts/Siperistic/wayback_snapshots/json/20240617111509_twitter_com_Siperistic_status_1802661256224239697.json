@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1802651368131555531",
+    "created_at": "2024-06-17T11:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T12:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802661256224239697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1760705336540057600",
+          "start": 0,
+          "username": "akiakuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802661256224239697",
+    "in_reply_to_user_id": "1760705336540057600",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802651368131555531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiakuno 晶哥：来让我瞧瞧你的📱😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1802651368131555531",
+        "created_at": "2024-06-17T11:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T12:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802661256224239697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760705336540057600",
+              "start": 0,
+              "username": "akiakuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802661256224239697",
+        "in_reply_to_user_id": "1760705336540057600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802651368131555531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiakuno 晶哥：来让我瞧瞧你的📱😎"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802651363345874945"
+          ]
+        },
+        "author_id": "1760705336540057600",
+        "conversation_id": "1802651368131555531",
+        "created_at": "2024-06-17T10:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T11:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802651368131555531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fvPgqUtHKJ",
+              "end": 60,
+              "expanded_url": "https://twitter.com/akiakuno/status/1802651368131555531/photo/1",
+              "media_key": "3_1802651363345874945",
+              "start": 37,
+              "url": "https://t.co/fvPgqUtHKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802651368131555531",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我长大的梦想是当个晶哥，这样的话就不害怕晶哥了，我感觉我还真是做这个的料 https://t.co/fvPgqUtHKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 334,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1764
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T16:37:32.000Z",
+        "description": "life changes,why stay still.  淡推一段时间～",
+        "id": "1760705336540057600",
+        "name": "美丽新世界",
+        "pinned_tweet_id": "1802205216403591572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771793626798145536/abxok-Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 128,
+          "like_count": 8814,
+          "listed_count": 3,
+          "tweet_count": 3849
+        },
+        "username": "akiakuno",
+        "verified": false
+      }
+    ]
+  }
+}

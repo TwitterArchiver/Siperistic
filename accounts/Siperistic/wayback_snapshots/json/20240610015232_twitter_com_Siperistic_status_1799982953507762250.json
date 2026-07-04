@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1799905801386991672",
+    "created_at": "2024-06-10T01:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T02:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799982953507762250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1287565148555587584",
+          "start": 0,
+          "username": "Austinwasmylove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799982953507762250",
+    "in_reply_to_user_id": "1287565148555587584",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799905801386991672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Austinwasmylove 当留子的话自己是怎么发泄情绪的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1799905801386991672",
+        "created_at": "2024-06-10T01:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T02:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799982953507762250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1287565148555587584",
+              "start": 0,
+              "username": "Austinwasmylove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799982953507762250",
+        "in_reply_to_user_id": "1287565148555587584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799905801386991672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Austinwasmylove 当留子的话自己是怎么发泄情绪的啊"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799893626031419392"
+          ]
+        },
+        "author_id": "1287565148555587584",
+        "conversation_id": "1799905801386991672",
+        "created_at": "2024-06-09T20:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T20:57:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799893629550379230",
+          "1799905801386991672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tZJS2fmEGy",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Austinwasmylove/status/1799905801386991672/photo/1",
+              "media_key": "3_1799893626031419392",
+              "start": 66,
+              "url": "https://t.co/tZJS2fmEGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799905801386991672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢各位老师们对我的支持，这是一条纪念帖，老师可以评论给我想问我的问题，然后我会统一回复在这个帖子下面～～～（趁着人少老师们快问呀 https://t.co/tZJS2fmEGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 335,
+          "like_count": 636,
+          "listed_count": 1,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-27T01:47:17.000Z",
+        "description": "英区留子🇬🇧 ｜ENFP♉️｜讨厌患得患失｜别哭，你跟我讲｜“我的心中有一簇始终迎着烈阳的花，所以趁着月色，说了99遍爱他”",
+        "id": "1287565148555587584",
+        "location": "London, England",
+        "name": "今天也没有和洋人kiss～",
+        "pinned_tweet_id": "1798489157838491904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797318595438944256/fg0A7jBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 215,
+          "like_count": 496,
+          "listed_count": 0,
+          "tweet_count": 472
+        },
+        "username": "Austinwasmylove",
+        "verified": true
+      }
+    ]
+  }
+}

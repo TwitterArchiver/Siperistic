@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1821080078517989665",
+    "created_at": "2024-08-07T15:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T16:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821204082184364292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1226850561057624064",
+          "start": 0,
+          "username": "hatadanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821204082184364292",
+    "in_reply_to_user_id": "1226850561057624064",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821080078517989665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatadanna infp，家里长辈确实这样教导我，我每次都是嗯嗯好好，其实懒得搭理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1821080078517989665",
+        "created_at": "2024-08-07T15:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T16:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821204082184364292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1226850561057624064",
+              "start": 0,
+              "username": "hatadanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821204082184364292",
+        "in_reply_to_user_id": "1226850561057624064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821080078517989665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatadanna infp，家里长辈确实这样教导我，我每次都是嗯嗯好好，其实懒得搭理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821080071886508033"
+          ]
+        },
+        "author_id": "1226850561057624064",
+        "conversation_id": "1821080078517989665",
+        "created_at": "2024-08-07T07:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T08:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821080078517989665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/oO6mqKmMjb",
+              "end": 38,
+              "expanded_url": "https://twitter.com/hatadanna/status/1821080078517989665/photo/1",
+              "media_key": "3_1821080071886508033",
+              "start": 15,
+              "url": "https://t.co/oO6mqKmMjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821080078517989665",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 48237,
+          "like_count": 364,
+          "quote_count": 46,
+          "reply_count": 224,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "INFP-T\n“等老了再说” https://t.co/oO6mqKmMjb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 363,
+          "like_count": 698,
+          "listed_count": 1,
+          "tweet_count": 2473
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:49:13.000Z",
+        "description": "he/him | 且听扶光慢叙 | Et Omnia Vanitas.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/hatadanna",
+                "end": 23,
+                "expanded_url": "http://bento.me/hatadanna",
+                "start": 0,
+                "url": "https://t.co/y4ubULnlbw"
+              }
+            ]
+          }
+        },
+        "id": "1226850561057624064",
+        "location": "梦里",
+        "name": "旗田安奈🍵",
+        "pinned_tweet_id": "1698299948578816158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691374845140082688/f2RPoY8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14391,
+          "following_count": 3420,
+          "like_count": 10225,
+          "listed_count": 73,
+          "tweet_count": 6173
+        },
+        "url": "https://t.co/y4ubULnlbw",
+        "username": "hatadanna",
+        "verified": true
+      }
+    ]
+  }
+}

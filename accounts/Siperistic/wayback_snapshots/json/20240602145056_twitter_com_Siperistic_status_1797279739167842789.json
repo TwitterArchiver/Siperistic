@@ -1,0 +1,98 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1797279739167842789",
+    "created_at": "2024-06-02T14:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T15:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797279739167842789"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1797279739167842789",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在网上刷帖子发现\n大家说的话都很有逻辑很有道理\n讲出来一套一套的令人信服\n而我只会阿巴阿巴\n讲话没趣味\n吵也吵不过人家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1797279739167842789",
+        "created_at": "2024-06-02T14:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T15:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797279739167842789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797279739167842789",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在网上刷帖子发现\n大家说的话都很有逻辑很有道理\n讲出来一套一套的令人信服\n而我只会阿巴阿巴\n讲话没趣味\n吵也吵不过人家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 318,
+          "like_count": 633,
+          "listed_count": 1,
+          "tweet_count": 1539
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      }
+    ]
+  }
+}

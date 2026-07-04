@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1817348494300160000"
+      ]
+    },
+    "author_id": "1191237542797959168",
+    "conversation_id": "1817191221770735823",
+    "created_at": "2024-07-27T23:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T00:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817348514990752232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1774837516400828416",
+          "start": 0,
+          "username": "JUNIORJuno0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/HG2X1JU1bO",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Siperistic/status/1817348514990752232/photo/1",
+          "media_key": "16_1817348494300160000",
+          "start": 13,
+          "url": "https://t.co/HG2X1JU1bO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817348514990752232",
+    "in_reply_to_user_id": "1774837516400828416",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817242562488369640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JUNIORJuno0 https://t.co/HG2X1JU1bO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_1817348494300160000",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GTiE06vaIAAY1AK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GTiE06vaIAAY1AK.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1817348494300160000"
+          ]
+        },
+        "author_id": "1191237542797959168",
+        "conversation_id": "1817191221770735823",
+        "created_at": "2024-07-27T23:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T00:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817348514990752232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1774837516400828416",
+              "start": 0,
+              "username": "JUNIORJuno0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HG2X1JU1bO",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Siperistic/status/1817348514990752232/photo/1",
+              "media_key": "16_1817348494300160000",
+              "start": 13,
+              "url": "https://t.co/HG2X1JU1bO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817348514990752232",
+        "in_reply_to_user_id": "1774837516400828416",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817242562488369640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JUNIORJuno0 https://t.co/HG2X1JU1bO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774837516400828416",
+        "conversation_id": "1817191221770735823",
+        "created_at": "2024-07-27T16:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T17:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817242562488369640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191237542797959168",
+              "start": 0,
+              "username": "Siperistic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817242562488369640",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817191221770735823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siperistic 买呀买呀嘿嘿🤤🤤🤤，买了还有更多的东西等着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 358,
+          "like_count": 700,
+          "listed_count": 1,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T16:33:46.000Z",
+        "description": "简简单单的社畜/infj/有很多奇奇怪怪的想法/性幻想(某种自嗨行为)/想藏起来做自己/dev-fe/爱看腹肌谢谢/健身中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/juniorjuno0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/juniorjuno0",
+                "start": 0,
+                "url": "https://t.co/MjhSv6kUm2"
+              }
+            ]
+          }
+        },
+        "id": "1774837516400828416",
+        "location": "我就在你的身边",
+        "name": "认不出我就行",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808530370222268416/Z7F0nwZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 19,
+          "like_count": 93,
+          "listed_count": 0,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/MjhSv6kUm2",
+        "username": "JUNIORJuno0",
+        "verified": false
+      }
+    ]
+  }
+}

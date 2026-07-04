@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1834984334207353297",
+    "created_at": "2024-09-17T02:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T03:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835870692417720778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1482331838781616128",
+          "start": 0,
+          "username": "ouo_0517"
+        },
+        {
+          "end": 21,
+          "id": "797439291752378368",
+          "start": 10,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835870692417720778",
+    "in_reply_to_user_id": "1482331838781616128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834987789303066717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouo_0517 @lover_ning 草，这种店里面环境如何"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1834984334207353297",
+        "created_at": "2024-09-17T02:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T03:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835870692417720778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1482331838781616128",
+              "start": 0,
+              "username": "ouo_0517"
+            },
+            {
+              "end": 21,
+              "id": "797439291752378368",
+              "start": 10,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835870692417720778",
+        "in_reply_to_user_id": "1482331838781616128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834987789303066717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouo_0517 @lover_ning 草，这种店里面环境如何"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482331838781616128",
+        "conversation_id": "1834984334207353297",
+        "created_at": "2024-09-14T16:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T17:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834987789303066717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834987789303066717",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5011,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834984334207353297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 不敢笑 我就在翻滚吧上过班，那个老板还想让我做他孩子后妈 傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 372,
+          "like_count": 703,
+          "listed_count": 1,
+          "tweet_count": 2723
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T12:40:39.000Z",
+        "description": "关老子屁事",
+        "id": "1482331838781616128",
+        "name": "一拳猎杀你的妈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822189450429911040/P1qpvkzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 120,
+          "like_count": 4,
+          "listed_count": 0,
+          "tweet_count": 53
+        },
+        "username": "ouo_0517",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 日常号@SUZUdesu111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "SUZUdesu111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "plink88.club/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://plink88.club?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/WetXPskS2K"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1634790114093154304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149403,
+          "following_count": 108,
+          "like_count": 34982,
+          "listed_count": 321,
+          "tweet_count": 27273
+        },
+        "url": "https://t.co/WetXPskS2K",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

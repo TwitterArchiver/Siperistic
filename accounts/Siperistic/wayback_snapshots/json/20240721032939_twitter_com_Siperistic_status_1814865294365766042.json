@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1814834219887309260",
+    "created_at": "2024-07-21T03:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-21T04:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814865294365766042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1505589036517187586",
+          "start": 0,
+          "username": "0um4_50r4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814865294365766042",
+    "in_reply_to_user_id": "1505589036517187586",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814864174130077713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0um4_50r4 唉考官一直皱眉我心态有点崩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1814834219887309260",
+        "created_at": "2024-07-21T03:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T04:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814865294365766042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1505589036517187586",
+              "start": 0,
+              "username": "0um4_50r4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814865294365766042",
+        "in_reply_to_user_id": "1505589036517187586",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814864174130077713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0um4_50r4 唉考官一直皱眉我心态有点崩"
+      },
+      {
+        "attachments": {},
+        "author_id": "1505589036517187586",
+        "conversation_id": "1814834219887309260",
+        "created_at": "2024-07-21T03:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T04:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814864174130077713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191237542797959168",
+              "start": 0,
+              "username": "Siperistic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814864174130077713",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814834219887309260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siperistic 每次面试都是这样的唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 358,
+          "like_count": 695,
+          "listed_count": 1,
+          "tweet_count": 2284
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T16:56:39.000Z",
+        "description": "我们经历的每个日常，也许是连续发生的奇迹\n舟批/月丑/社畜/玩舞萌的国男/只看得懂中文/陌生远近都是客人请不用客气/会回关打音游的",
+        "id": "1505589036517187586",
+        "location": "满月竹林",
+        "name": "超极巨双萃椰椰芒芒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785237644756033537/BQzV7ido_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 157,
+          "like_count": 1031,
+          "listed_count": 1,
+          "tweet_count": 722
+        },
+        "username": "0um4_50r4",
+        "verified": false
+      }
+    ]
+  }
+}

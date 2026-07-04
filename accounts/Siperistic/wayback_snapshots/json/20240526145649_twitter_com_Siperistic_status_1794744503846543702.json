@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1794653989155545439",
+    "created_at": "2024-05-26T14:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T15:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794744503846543702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1535057110945304576",
+          "start": 0,
+          "username": "ChunZH236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794744503846543702",
+    "in_reply_to_user_id": "1535057110945304576",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794653989155545439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChunZH236 去网吧买点比特币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1794653989155545439",
+        "created_at": "2024-05-26T14:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T15:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794744503846543702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1535057110945304576",
+              "start": 0,
+              "username": "ChunZH236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794744503846543702",
+        "in_reply_to_user_id": "1535057110945304576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794653989155545439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChunZH236 去网吧买点比特币"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794653986496335873"
+          ]
+        },
+        "author_id": "1535057110945304576",
+        "conversation_id": "1794653989155545439",
+        "created_at": "2024-05-26T08:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T09:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794653989155545439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8AG63xTRgk",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ChunZH236/status/1794653989155545439/photo/1",
+              "media_key": "3_1794653986496335873",
+              "start": 6,
+              "url": "https://t.co/8AG63xTRgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794653989155545439",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你会说什么 https://t.co/8AG63xTRgk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 316,
+          "like_count": 631,
+          "listed_count": 1,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T00:32:02.000Z",
+        "description": "春之花🌸",
+        "id": "1535057110945304576",
+        "name": "烤肉仙人·春之花（互fo）",
+        "pinned_tweet_id": "1784292278280020215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789193197157322752/2fxCJ8dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 404,
+          "like_count": 2962,
+          "listed_count": 0,
+          "tweet_count": 2048
+        },
+        "username": "ChunZH236",
+        "verified": false
+      }
+    ]
+  }
+}

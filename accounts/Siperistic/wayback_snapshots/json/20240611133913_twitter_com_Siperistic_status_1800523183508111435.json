@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1800452934800687356",
+    "created_at": "2024-06-11T13:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T14:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800523183508111435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1497833061916213251",
+          "start": 0,
+          "username": "aaapplepieee1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800523183508111435",
+    "in_reply_to_user_id": "1497833061916213251",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800453419989348574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaapplepieee1 大家都在考😇太焦虑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1800452934800687356",
+        "created_at": "2024-06-11T13:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T14:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800523183508111435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1497833061916213251",
+              "start": 0,
+              "username": "aaapplepieee1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800523183508111435",
+        "in_reply_to_user_id": "1497833061916213251",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800453419989348574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaapplepieee1 大家都在考😇太焦虑了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1497833061916213251",
+        "conversation_id": "1800452934800687356",
+        "created_at": "2024-06-11T09:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T10:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800453419989348574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800453419989348574",
+        "in_reply_to_user_id": "1497833061916213251",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800452934800687356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到人均考研的红榜感觉想马上辍学了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 337,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1683
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T07:16:48.000Z",
+        "description": "高三淡推中",
+        "id": "1497833061916213251",
+        "name": "酱紫",
+        "pinned_tweet_id": "1701143376933064960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798720555363020801/ZumYmj-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 666,
+          "like_count": 38194,
+          "listed_count": 5,
+          "tweet_count": 25735
+        },
+        "username": "aaapplepieee1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1825837641365074332",
+    "created_at": "2024-08-20T11:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T12:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825856630099161193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580907538127949824",
+          "start": 0,
+          "username": "yuluoshanl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825856630099161193",
+    "in_reply_to_user_id": "1580907538127949824",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825837641365074332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuluoshanl 太幸福了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1825837641365074332].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1825837641365074332",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1825837641365074332"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1825837641365074332",
+        "created_at": "2024-08-20T11:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T12:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825856630099161193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580907538127949824",
+              "start": 0,
+              "username": "yuluoshanl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825856630099161193",
+        "in_reply_to_user_id": "1580907538127949824",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825837641365074332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuluoshanl 太幸福了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 375,
+          "like_count": 703,
+          "listed_count": 1,
+          "tweet_count": 2597
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T13:05:35.000Z",
+        "description": "希望天天开心。不要随便相信别人，非互关转发一律屏蔽",
+        "id": "1580907538127949824",
+        "name": "Yyyˇ",
+        "pinned_tweet_id": "1813791185846386957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812121867588685825/Us1jU6em_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3720,
+          "following_count": 141,
+          "like_count": 6333,
+          "listed_count": 7,
+          "tweet_count": 2425
+        },
+        "username": "yuluoshanl",
+        "verified": false
+      }
+    ]
+  }
+}

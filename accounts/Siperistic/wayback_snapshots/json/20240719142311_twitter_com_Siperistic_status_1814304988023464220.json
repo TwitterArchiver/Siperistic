@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1814235619587154032",
+    "created_at": "2024-07-19T14:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T15:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814304988023464220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1781231331424522240",
+          "start": 0,
+          "username": "inoueeisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814304988023464220",
+    "in_reply_to_user_id": "1781231331424522240",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814235619587154032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inoueeisa 晶哥摇了我吧😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1814235619587154032",
+        "created_at": "2024-07-19T14:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T15:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814304988023464220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1781231331424522240",
+              "start": 0,
+              "username": "inoueeisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814304988023464220",
+        "in_reply_to_user_id": "1781231331424522240",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814235619587154032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inoueeisa 晶哥摇了我吧😭😭"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1814235612192600065"
+          ]
+        },
+        "author_id": "1781231331424522240",
+        "conversation_id": "1814235619587154032",
+        "created_at": "2024-07-19T09:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T10:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814235619587154032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/vhbNEXn5FR",
+              "end": 36,
+              "expanded_url": "https://twitter.com/inoueeisa/status/1814235619587154032/photo/1",
+              "media_key": "3_1814235612192600065",
+              "start": 13,
+              "url": "https://t.co/vhbNEXn5FR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814235619587154032",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1731,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我正式宣布這是我的新帳號 https://t.co/vhbNEXn5FR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 356,
+          "like_count": 693,
+          "listed_count": 1,
+          "tweet_count": 2243
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T08:00:34.000Z",
+        "description": "我知道你是誰😁我是賴清德夢女柯文哲夢女侯友宜夢女",
+        "id": "1781231331424522240",
+        "name": "❌✌️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814239317315010560/GKsnuDRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 631,
+          "like_count": 669,
+          "listed_count": 0,
+          "tweet_count": 8
+        },
+        "username": "inoueeisa",
+        "verified": false
+      }
+    ]
+  }
+}

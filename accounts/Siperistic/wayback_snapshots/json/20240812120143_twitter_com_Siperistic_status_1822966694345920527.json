@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1822950023245738086",
+    "created_at": "2024-08-12T12:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T13:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822966694345920527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1316613157599674369",
+          "start": 0,
+          "username": "Enli_mint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822966694345920527",
+    "in_reply_to_user_id": "1316613157599674369",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822950023245738086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enli_mint 点外卖还有隐藏的包装费，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1822950023245738086",
+        "created_at": "2024-08-12T12:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T13:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822966694345920527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1316613157599674369",
+              "start": 0,
+              "username": "Enli_mint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822966694345920527",
+        "in_reply_to_user_id": "1316613157599674369",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822950023245738086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enli_mint 点外卖还有隐藏的包装费，唉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822950014244818944"
+          ]
+        },
+        "author_id": "1316613157599674369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1822950023245738086",
+        "created_at": "2024-08-12T10:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T11:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822950023245738086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkhaafbg7w",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Enli_mint/status/1822950023245738086/photo/1",
+              "media_key": "3_1822950014244818944",
+              "start": 27,
+              "url": "https://t.co/fKhAafBg7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822950023245738086",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我线下去他们店里买\n肉夹馍是8块\n凉皮也是8块\n💦💦 https://t.co/fKhAafBg7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 364,
+          "like_count": 700,
+          "listed_count": 1,
+          "tweet_count": 2495
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-15T05:33:52.000Z",
+        "description": "保持活力 保持学习 ；保持年轻 保持愤怒 ｜  私密一些@Disli_mint",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "Disli_mint"
+              }
+            ]
+          }
+        },
+        "id": "1316613157599674369",
+        "location": "计算机前",
+        "name": "祝荷👁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814644370731376643/XQb_tNKx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 151,
+          "like_count": 6306,
+          "listed_count": 3,
+          "tweet_count": 3363
+        },
+        "username": "Enli_mint",
+        "verified": false
+      }
+    ]
+  }
+}

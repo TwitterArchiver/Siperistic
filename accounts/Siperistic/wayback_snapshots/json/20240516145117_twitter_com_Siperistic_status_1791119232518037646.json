@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1791084535767302213",
+    "created_at": "2024-05-16T14:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T15:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791119232518037646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462419807173677059",
+          "start": 0,
+          "username": "zkl86976526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791119232518037646",
+    "in_reply_to_user_id": "1462419807173677059",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791084535767302213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zkl86976526 高中时因为很向往上海就信誓旦旦口嗨要去复旦，出分之后只能去自己的保底学校了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1791084535767302213",
+        "created_at": "2024-05-16T14:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T15:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791119232518037646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "zkl86976526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791119232518037646",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791084535767302213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zkl86976526 高中时因为很向往上海就信誓旦旦口嗨要去复旦，出分之后只能去自己的保底学校了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "1791084535767302213",
+        "created_at": "2024-05-16T12:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T13:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791084535767302213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791084535767302213",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2940,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你高考的时候想考哪个大学？\n最后愿望实现了吗？\n我先来，我想考：\n1.复旦大学\n2.南京大学\n3.华中科技大学/同济大学\n1和2是因为分数差了十五分以上，甚至快二十分，考不上。\n3都是因为专业选择问题，权衡再三没放到第一志愿。\n我现在上的学校甚至高考报志愿前一天都没听说过，笑死了🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 312,
+          "like_count": 621,
+          "listed_count": 1,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "自杀失败者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz_001.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz_001.damo3.site/#/register?code=hmbwlnmQ",
+                "start": 0,
+                "url": "https://t.co/sg0xNFlkDJ"
+              }
+            ]
+          }
+        },
+        "id": "1462419807173677059",
+        "location": "个人自用梯子",
+        "name": "Moran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670697987599900672/9gP0oFD__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6000,
+          "following_count": 1749,
+          "like_count": 4127,
+          "listed_count": 13,
+          "tweet_count": 5635
+        },
+        "url": "https://t.co/sg0xNFlkDJ",
+        "username": "zkl86976526",
+        "verified": false
+      }
+    ]
+  }
+}

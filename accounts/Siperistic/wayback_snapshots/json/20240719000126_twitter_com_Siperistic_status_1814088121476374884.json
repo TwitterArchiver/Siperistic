@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1813575048118386871",
+    "created_at": "2024-07-19T00:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T01:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814088121476374884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "446842231",
+          "start": 0,
+          "username": "saya_nikaido"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814088121476374884",
+    "in_reply_to_user_id": "446842231",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813575048118386871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saya_nikaido 说不定吃过亏，善意提醒一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1813575048118386871",
+        "created_at": "2024-07-19T00:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T01:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814088121476374884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "446842231",
+              "start": 0,
+              "username": "saya_nikaido"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814088121476374884",
+        "in_reply_to_user_id": "446842231",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813575048118386871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saya_nikaido 说不定吃过亏，善意提醒一下"
+      },
+      {
+        "attachments": {},
+        "author_id": "446842231",
+        "conversation_id": "1813575048118386871",
+        "created_at": "2024-07-17T14:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T15:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813575048118386871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813575048118386871",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 42869,
+          "like_count": 212,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在公司teams里开了句公司的玩笑，新来的95后小朋友就提醒我慎言…说好的整顿职场呢（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 356,
+          "like_count": 691,
+          "listed_count": 1,
+          "tweet_count": 2207
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-26T06:31:18.000Z",
+        "description": "Dumb and dying | avatar from #dorohedoro | hrt since 06/10/2023",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 29,
+                "tag": "dorohedoro"
+              }
+            ]
+          }
+        },
+        "id": "446842231",
+        "location": "Tokyo (hypothetical)",
+        "name": "Nikaido",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626133858411241472/Oe-Aewp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 620,
+          "like_count": 4603,
+          "listed_count": 2,
+          "tweet_count": 5099
+        },
+        "username": "saya_nikaido",
+        "verified": false
+      }
+    ]
+  }
+}

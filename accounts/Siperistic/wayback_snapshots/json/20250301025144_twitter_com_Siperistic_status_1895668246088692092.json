@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1895462121066111015",
+    "created_at": "2025-03-01T02:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T03:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895668246088692092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "911602354666979329",
+          "start": 0,
+          "username": "apologi28549737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895668246088692092",
+    "in_reply_to_user_id": "911602354666979329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895462121066111015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apologi28549737 牛啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895462096155865088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4Iu96WcAAYBxp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1895462096151678976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4Iu95WkAAoNV9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895462096013611008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4Iu9Yb0AAo66A.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895462096336461824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4Iu-laIAA0ZBL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1895462121066111015",
+        "created_at": "2025-03-01T02:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T03:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895668246088692092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "911602354666979329",
+              "start": 0,
+              "username": "apologi28549737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895668246088692092",
+        "in_reply_to_user_id": "911602354666979329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895462121066111015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apologi28549737 牛啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895462096155865088",
+            "3_1895462096151678976",
+            "3_1895462096013611008",
+            "3_1895462096336461824"
+          ]
+        },
+        "author_id": "911602354666979329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1895462121066111015",
+        "created_at": "2025-02-28T13:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895462121066111015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWgauDrVlt",
+              "end": 70,
+              "expanded_url": "https://x.com/apologi28549737/status/1895462121066111015/photo/1",
+              "media_key": "3_1895462096155865088",
+              "start": 47,
+              "url": "https://t.co/oWgauDrVlt"
+            },
+            {
+              "display_url": "pic.x.com/oWgauDrVlt",
+              "end": 70,
+              "expanded_url": "https://x.com/apologi28549737/status/1895462121066111015/photo/1",
+              "media_key": "3_1895462096151678976",
+              "start": 47,
+              "url": "https://t.co/oWgauDrVlt"
+            },
+            {
+              "display_url": "pic.x.com/oWgauDrVlt",
+              "end": 70,
+              "expanded_url": "https://x.com/apologi28549737/status/1895462121066111015/photo/1",
+              "media_key": "3_1895462096013611008",
+              "start": 47,
+              "url": "https://t.co/oWgauDrVlt"
+            },
+            {
+              "display_url": "pic.x.com/oWgauDrVlt",
+              "end": 70,
+              "expanded_url": "https://x.com/apologi28549737/status/1895462121066111015/photo/1",
+              "media_key": "3_1895462096336461824",
+              "start": 47,
+              "url": "https://t.co/oWgauDrVlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895462121066111015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 74100,
+          "like_count": 543,
+          "quote_count": 6,
+          "reply_count": 249,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "35岁之前买了第一台奔驰，不敢发朋友圈不敢发抖音，怕熟人借钱，讲是非，嫉妒恨。跟推友分享下。 https://t.co/oWgauDrVlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 467,
+          "like_count": 693,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 3784
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-23T14:45:12.000Z",
+        "description": "",
+        "id": "911602354666979329",
+        "name": "默念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806309454545408000/voLsCoV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 1242,
+          "like_count": 3787,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 333
+        },
+        "username": "apologi28549737",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1858174516222210048",
+    "created_at": "2024-11-18T07:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T08:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858407019910447555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1316613157599674369",
+          "start": 0,
+          "username": "EnliMint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858407019910447555",
+    "in_reply_to_user_id": "1316613157599674369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858174516222210048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EnliMint 服了，收拾好了给卫生间加个锁，谁想去先给你磕一个再开门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1858174516222210048",
+        "created_at": "2024-11-18T07:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T08:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858407019910447555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1316613157599674369",
+              "start": 0,
+              "username": "EnliMint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858407019910447555",
+        "in_reply_to_user_id": "1316613157599674369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858174516222210048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EnliMint 服了，收拾好了给卫生间加个锁，谁想去先给你磕一个再开门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316613157599674369",
+        "conversation_id": "1858174516222210048",
+        "created_at": "2024-11-17T15:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T16:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858174516222210048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858174516222210048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真想骂人，这群室友！小脑萎缩，尿马桶圈上；马桶堵了，硬尿进去也不报修；没燃气了，尼玛我群里问怎么充，6点到现在，一个人不理我，是人呐这？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 421,
+          "like_count": 714,
+          "listed_count": 1,
+          "tweet_count": 3253
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-15T05:33:52.000Z",
+        "description": "👁️…🚶🏻‍➡️",
+        "id": "1316613157599674369",
+        "location": "计算机前",
+        "name": "👻",
+        "pinned_tweet_id": "1850393524547830041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849780941914587136/8Yx0ej6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 192,
+          "like_count": 7534,
+          "listed_count": 4,
+          "tweet_count": 4063
+        },
+        "username": "EnliMint",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1823005849503047692",
+    "created_at": "2024-08-12T14:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T15:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823010501535928824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1607922536133656577",
+          "start": 0,
+          "username": "Ririca520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823010501535928824",
+    "in_reply_to_user_id": "1607922536133656577",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823005849503047692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririca520 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1823005849503047692",
+        "created_at": "2024-08-12T14:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T15:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823010501535928824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1607922536133656577",
+              "start": 0,
+              "username": "Ririca520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823010501535928824",
+        "in_reply_to_user_id": "1607922536133656577",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823005849503047692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririca520 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607922536133656577",
+        "conversation_id": "1823005849503047692",
+        "created_at": "2024-08-12T14:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T15:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823005849503047692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823005849503047692",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买英伟达了👿👿别坑我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 364,
+          "like_count": 700,
+          "listed_count": 1,
+          "tweet_count": 2498
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T02:13:13.000Z",
+        "description": "ツンデレ毒舌｜海外在住｜喜欢古典｜偶尔参加演奏会和比赛｜🎹@Mizukileau🌙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "Mizukileau"
+              }
+            ]
+          }
+        },
+        "id": "1607922536133656577",
+        "location": "Arasaka Tower, Night City",
+        "name": "姌",
+        "pinned_tweet_id": "1723879681668067340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810526694312194049/ng6JlGKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4956,
+          "following_count": 509,
+          "like_count": 58455,
+          "listed_count": 15,
+          "tweet_count": 4068
+        },
+        "username": "Ririca520",
+        "verified": false
+      }
+    ]
+  }
+}

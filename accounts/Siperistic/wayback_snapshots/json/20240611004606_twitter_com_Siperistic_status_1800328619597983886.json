@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1800042800542781589",
+    "created_at": "2024-06-11T00:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T01:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800328619597983886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3229846577",
+          "start": 0,
+          "username": "Iauhs0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800328619597983886",
+    "in_reply_to_user_id": "3229846577",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800042800542781589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iauhs0w0 吃到了，食堂还送了咸鸭蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1800042800542781589",
+        "created_at": "2024-06-11T00:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T01:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800328619597983886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3229846577",
+              "start": 0,
+              "username": "Iauhs0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800328619597983886",
+        "in_reply_to_user_id": "3229846577",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800042800542781589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iauhs0w0 吃到了，食堂还送了咸鸭蛋"
+      },
+      {
+        "attachments": {},
+        "author_id": "3229846577",
+        "conversation_id": "1800042800542781589",
+        "created_at": "2024-06-10T05:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T06:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800042800542781589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800042800542781589",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是端午节！\n学校里的食堂会有免费的粽子\n附近的饭店也会吃饭送粽子…\n你们吃到粽子了吗=UwU="
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 337,
+          "like_count": 638,
+          "listed_count": 1,
+          "tweet_count": 1677
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-03T05:17:51.000Z",
+        "description": "吾は書哀、隅に身を縮めるもののけ者。でもね、皆様を見る時、星の子達は孤独からぬと思う。",
+        "id": "3229846577",
+        "location": "下北沢",
+        "name": "好累bot（書哀ツアイ定制版）",
+        "pinned_tweet_id": "1799886299408801857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796870216435281920/CjJujlUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 380,
+          "like_count": 8281,
+          "listed_count": 2,
+          "tweet_count": 3596
+        },
+        "username": "Iauhs0w0",
+        "verified": false
+      }
+    ]
+  }
+}

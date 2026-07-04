@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1796711341530693889",
+    "created_at": "2024-06-01T03:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T04:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796744994226888982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1598976218715803648",
+          "start": 0,
+          "username": "Knn_zZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796744994226888982",
+    "in_reply_to_user_id": "1598976218715803648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796711341530693889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Knn_zZZ 好有历史感的楼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1796711341530693889",
+        "created_at": "2024-06-01T03:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T04:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796744994226888982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1598976218715803648",
+              "start": 0,
+              "username": "Knn_zZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796744994226888982",
+        "in_reply_to_user_id": "1598976218715803648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796711341530693889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Knn_zZZ 好有历史感的楼"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796711333859381248"
+          ]
+        },
+        "author_id": "1598976218715803648",
+        "conversation_id": "1796711341530693889",
+        "created_at": "2024-06-01T01:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T02:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796711341530693889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ieRAJcbrI9",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Knn_zZZ/status/1796711341530693889/photo/1",
+              "media_key": "3_1796711333859381248",
+              "start": 11,
+              "url": "https://t.co/ieRAJcbrI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796711341530693889",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校偶尔还是挺好看的 https://t.co/ieRAJcbrI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 318,
+          "like_count": 633,
+          "listed_count": 1,
+          "tweet_count": 1526
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T09:43:50.000Z",
+        "description": "有无恋尸癖",
+        "id": "1598976218715803648",
+        "name": "KnnzZZ",
+        "pinned_tweet_id": "1796026756110921910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739158146369929216/5GqvEuCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 1252,
+          "like_count": 14402,
+          "listed_count": 1,
+          "tweet_count": 1920
+        },
+        "username": "Knn_zZZ",
+        "verified": false
+      }
+    ]
+  }
+}

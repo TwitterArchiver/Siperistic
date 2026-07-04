@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1825557881816756683",
+    "created_at": "2024-08-20T13:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T14:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825885757036453987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825885757036453987",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825557881816756683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 我超，我能应聘吗😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1825557881816756683",
+        "created_at": "2024-08-20T13:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T14:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825885757036453987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825885757036453987",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825557881816756683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 我超，我能应聘吗😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825557876292952064"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "1825557881816756683",
+        "created_at": "2024-08-19T15:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T16:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825557881816756683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ynablnq6nz",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Vox35112635/status/1825557881816756683/photo/1",
+              "media_key": "3_1825557876292952064",
+              "start": 21,
+              "url": "https://t.co/yNABLNq6nZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825557881816756683",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 287891,
+          "like_count": 688,
+          "quote_count": 6,
+          "reply_count": 624,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我发现每次发交友委托的女生真的都很有实力 https://t.co/yNABLNq6nZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 375,
+          "like_count": 703,
+          "listed_count": 1,
+          "tweet_count": 2601
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/没有小红书/随便玩玩/现在会接一点有偿转发/付费交友委托/加vx随缘给门槛就好了/超A运动鞋找👇@witness73859266",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "witness73859266"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1825798540523876413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177238,
+          "following_count": 510,
+          "like_count": 508,
+          "listed_count": 214,
+          "tweet_count": 9625
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1793823671167168892",
+    "created_at": "2024-05-24T09:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T10:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793935826134741158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1598976218715803648",
+          "start": 0,
+          "username": "Knn_zZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793935826134741158",
+    "in_reply_to_user_id": "1598976218715803648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793823671167168892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Knn_zZZ 可以拿遥控器把方向打上去吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1793823671167168892",
+        "created_at": "2024-05-24T09:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T10:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793935826134741158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1598976218715803648",
+              "start": 0,
+              "username": "Knn_zZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793935826134741158",
+        "in_reply_to_user_id": "1598976218715803648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793823671167168892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Knn_zZZ 可以拿遥控器把方向打上去吗"
+      },
+      {
+        "attachments": {},
+        "author_id": "1598976218715803648",
+        "conversation_id": "1793823671167168892",
+        "created_at": "2024-05-24T01:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T02:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793823671167168892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793823671167168892",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教室空调正对着吹得头好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 314,
+          "like_count": 627,
+          "listed_count": 1,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T09:43:50.000Z",
+        "description": "有无恋尸癖",
+        "id": "1598976218715803648",
+        "name": "KnnzZZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739158146369929216/5GqvEuCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 1355,
+          "like_count": 13388,
+          "listed_count": 1,
+          "tweet_count": 1830
+        },
+        "username": "Knn_zZZ",
+        "verified": false
+      }
+    ]
+  }
+}

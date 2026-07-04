@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "2071179085469098332",
+    "created_at": "2026-06-28T11:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071190462959173664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902395717240688640",
+          "start": 0,
+          "username": "Kakakatrina000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071190462959173664",
+    "in_reply_to_user_id": "1902395717240688640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071179085469098332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kakakatrina000 和前任这样聊天吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071179066959704064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5OY0hbsAALND9.jpg",
+        "width": 656
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2071179066926157824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5OY0Zb0AAy-eM.jpg",
+        "width": 522
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2071179066858934272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5OY0JaEAALZcF.jpg",
+        "width": 445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "2071179085469098332",
+        "created_at": "2026-06-28T11:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071190462959173664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902395717240688640",
+              "start": 0,
+              "username": "Kakakatrina000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071190462959173664",
+        "in_reply_to_user_id": "1902395717240688640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071179085469098332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kakakatrina000 和前任这样聊天吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071179066959704064",
+            "3_2071179066926157824",
+            "3_2071179066858934272"
+          ]
+        },
+        "author_id": "1902395717240688640",
+        "conversation_id": "2071179085469098332",
+        "created_at": "2026-06-28T10:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071179085469098332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vUJRqn3IX",
+              "end": 69,
+              "expanded_url": "https://x.com/Kakakatrina000/status/2071179085469098332/photo/1",
+              "media_key": "3_2071179066959704064",
+              "start": 46,
+              "url": "https://t.co/4vUJRqn3IX"
+            },
+            {
+              "display_url": "pic.x.com/4vUJRqn3IX",
+              "end": 69,
+              "expanded_url": "https://x.com/Kakakatrina000/status/2071179085469098332/photo/1",
+              "media_key": "3_2071179066926157824",
+              "start": 46,
+              "url": "https://t.co/4vUJRqn3IX"
+            },
+            {
+              "display_url": "pic.x.com/4vUJRqn3IX",
+              "end": 69,
+              "expanded_url": "https://x.com/Kakakatrina000/status/2071179085469098332/photo/1",
+              "media_key": "3_2071179066858934272",
+              "start": 46,
+              "url": "https://t.co/4vUJRqn3IX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071179085469098332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我老妈美其名曰交朋友，嘻嘻，老妈啊我才22岁啊，一定要这么急吗。又有理由骚扰前男友了。嘻嘻 https://t.co/4vUJRqn3IX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 706,
+          "like_count": 1976,
+          "listed_count": 4,
+          "media_count": 517,
+          "tweet_count": 7521
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T16:24:34.000Z",
+        "description": "随机分享一些想法\n欢迎有趣的人跟我交朋友",
+        "id": "1902395717240688640",
+        "name": "Kakakatrina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060068351557390336/5zvwNpSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 60,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "Kakakatrina000",
+        "verified": false
+      }
+    ]
+  }
+}

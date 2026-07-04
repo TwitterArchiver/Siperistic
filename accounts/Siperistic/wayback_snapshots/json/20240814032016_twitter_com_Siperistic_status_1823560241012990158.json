@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1774685609573114344",
+    "created_at": "2024-08-14T03:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T04:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823560241012990158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778254666662559744",
+          "start": 0,
+          "username": "notpapabo"
+        },
+        {
+          "end": 22,
+          "id": "1538893727137005568",
+          "start": 11,
+          "username": "BuzhidaoCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823560241012990158",
+    "in_reply_to_user_id": "1778254666662559744",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823384790357393740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notpapabo @BuzhidaoCC 彩！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1774685609573114344",
+        "created_at": "2024-08-14T03:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T04:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823560241012990158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778254666662559744",
+              "start": 0,
+              "username": "notpapabo"
+            },
+            {
+              "end": 22,
+              "id": "1538893727137005568",
+              "start": 11,
+              "username": "BuzhidaoCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823560241012990158",
+        "in_reply_to_user_id": "1778254666662559744",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823384790357393740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notpapabo @BuzhidaoCC 彩！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778254666662559744",
+        "conversation_id": "1774685609573114344",
+        "created_at": "2024-08-13T15:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T16:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823384790357393740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1538893727137005568",
+              "start": 0,
+              "username": "BuzhidaoCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823384790357393740",
+        "in_reply_to_user_id": "1538893727137005568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1774685609573114344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BuzhidaoCC 与君甘苦十年，干柴烈酒垂帘，如蜜春宵在眼。\n墨雨河倾，北风同我卷帘。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 365,
+          "like_count": 701,
+          "listed_count": 1,
+          "tweet_count": 2524
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T02:52:19.000Z",
+        "description": "",
+        "id": "1778254666662559744",
+        "name": "Notpapabo",
+        "pinned_tweet_id": "1822891582640754976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778254909261119488/Ccd2xj-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 95,
+          "like_count": 2855,
+          "listed_count": 1,
+          "tweet_count": 579
+        },
+        "username": "notpapabo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-20T14:37:21.000Z",
+        "description": "咱是恣茶，一位兴趣冗杂的吟游诗人～叫咱茶茶就好～\n开了一家万事屋，欢迎朋友们来玩～\n清水文推，会没事更新一些小曲、诗和故事～\n希望收获更多朋友～",
+        "id": "1538893727137005568",
+        "location": "拍卖行&伊甸",
+        "name": "茶茶万事屋（烹茶中）",
+        "pinned_tweet_id": "1619763686603919360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538893882632437760/vXXQxutG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 537,
+          "like_count": 2254,
+          "listed_count": 1,
+          "tweet_count": 338
+        },
+        "username": "BuzhidaoCC",
+        "verified": false
+      }
+    ]
+  }
+}

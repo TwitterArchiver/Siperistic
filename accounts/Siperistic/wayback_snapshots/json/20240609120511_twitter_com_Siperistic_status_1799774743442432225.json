@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1799680878660235404",
+    "created_at": "2024-06-09T12:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T13:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799774743442432225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650760116918943744",
+          "start": 0,
+          "username": "yusanyyy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799774743442432225",
+    "in_reply_to_user_id": "1650760116918943744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799680878660235404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusanyyy8 从高中升入大学就是进步啊，不要妄自菲薄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1799680878660235404",
+        "created_at": "2024-06-09T12:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T13:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799774743442432225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650760116918943744",
+              "start": 0,
+              "username": "yusanyyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799774743442432225",
+        "in_reply_to_user_id": "1650760116918943744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799680878660235404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusanyyy8 从高中升入大学就是进步啊，不要妄自菲薄"
+      },
+      {
+        "attachments": {},
+        "author_id": "1650760116918943744",
+        "conversation_id": "1799680878660235404",
+        "created_at": "2024-06-09T05:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T06:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799680878660235404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799680878660235404",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 574,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我完全对能上什么大学和读什么专业什么的没什么感觉 🤐 虽然读了三年高中 可是没有什么收获 中考考了市两百多进来 后面年级上排名基本上也就绕着两百上下 🤐 想考好点是为了有更多的选择🤐😴 结果忘记自己的目的是什么了 😴 所以说好像没有得到什么进步🤐 😴😴😴😴😴😴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 334,
+          "like_count": 636,
+          "listed_count": 1,
+          "tweet_count": 1634
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "我是仓鼠 你是谁啊\n🐹🐹🐹🐹 👀❓🐹🐹🐹🐹\n\n发画的小号@NANnan868",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "NANnan868"
+              }
+            ]
+          }
+        },
+        "id": "1650760116918943744",
+        "location": "紫罗兰的美 在于它的细小",
+        "name": "献给阿尔吉侬的一束紫罗兰💉",
+        "pinned_tweet_id": "1768907734731145524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768862505885974528/xzZHstNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 916,
+          "like_count": 17469,
+          "listed_count": 2,
+          "tweet_count": 8509
+        },
+        "username": "yusanyyy8",
+        "verified": false
+      }
+    ]
+  }
+}

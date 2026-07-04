@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "2055504799517548852",
+    "created_at": "2026-05-16T04:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055508121230233845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512373779933978626",
+          "start": 0,
+          "username": "sweetiekittylol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055508121230233845",
+    "in_reply_to_user_id": "1512373779933978626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055504799517548852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweetiekittylol 在闪闪发光"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2055504063375294464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaeDhvbQAARn9V.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2055504116026400768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaeGl4bYAAdKmF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2055504144455335936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaeIPyagAA9yvM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2055504177770721280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaeKL5a8AAXTUi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "2055504799517548852",
+        "created_at": "2026-05-16T04:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055508121230233845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512373779933978626",
+              "start": 0,
+              "username": "sweetiekittylol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055508121230233845",
+        "in_reply_to_user_id": "1512373779933978626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055504799517548852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweetiekittylol 在闪闪发光"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055504063375294464",
+            "3_2055504116026400768",
+            "3_2055504144455335936",
+            "3_2055504177770721280"
+          ]
+        },
+        "author_id": "1512373779933978626",
+        "conversation_id": "2055504799517548852",
+        "created_at": "2026-05-16T04:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055504799517548852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8V2mTZAks",
+              "end": 70,
+              "expanded_url": "https://x.com/sweetiekittylol/status/2055504799517548852/photo/1",
+              "media_key": "3_2055504063375294464",
+              "start": 47,
+              "url": "https://t.co/d8V2mTZAks"
+            },
+            {
+              "display_url": "pic.x.com/d8V2mTZAks",
+              "end": 70,
+              "expanded_url": "https://x.com/sweetiekittylol/status/2055504799517548852/photo/1",
+              "media_key": "3_2055504116026400768",
+              "start": 47,
+              "url": "https://t.co/d8V2mTZAks"
+            },
+            {
+              "display_url": "pic.x.com/d8V2mTZAks",
+              "end": 70,
+              "expanded_url": "https://x.com/sweetiekittylol/status/2055504799517548852/photo/1",
+              "media_key": "3_2055504144455335936",
+              "start": 47,
+              "url": "https://t.co/d8V2mTZAks"
+            },
+            {
+              "display_url": "pic.x.com/d8V2mTZAks",
+              "end": 70,
+              "expanded_url": "https://x.com/sweetiekittylol/status/2055504799517548852/photo/1",
+              "media_key": "3_2055504177770721280",
+              "start": 47,
+              "url": "https://t.co/d8V2mTZAks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055504799517548852",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Yo soy la princesa, comprende mis white liens. https://t.co/d8V2mTZAks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 673,
+          "like_count": 1256,
+          "listed_count": 3,
+          "media_count": 456,
+          "tweet_count": 6959
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T10:16:35.000Z",
+        "description": "ᐕ)ﾉ@kissmyloin\n  ✉️https://t.co/S2Ixg7QNcz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "kissmyloin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sweetiekittylol",
+                "end": 42,
+                "expanded_url": "https://ngl.link/sweetiekittylol",
+                "start": 19,
+                "url": "https://t.co/S2Ixg7QNcz"
+              }
+            ]
+          }
+        },
+        "id": "1512373779933978626",
+        "location": "小猫会永远陪在你身边",
+        "name": "有时变成你下班路上遇见的小猫",
+        "pinned_tweet_id": "1996192099121963469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774994951652376576/zBfhfO-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26410,
+          "following_count": 689,
+          "like_count": 18235,
+          "listed_count": 61,
+          "media_count": 1216,
+          "tweet_count": 10072
+        },
+        "username": "sweetiekittylol",
+        "verified": false
+      }
+    ]
+  }
+}

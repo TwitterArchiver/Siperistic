@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1802206656618770635",
+    "created_at": "2024-06-16T14:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T15:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802350881226338774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "830113724526579713",
+          "start": 0,
+          "username": "YUMI686"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802350881226338774",
+    "in_reply_to_user_id": "830113724526579713",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802206656618770635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUMI686 在学校的租房群和二手群看看，能不能找到校友合租"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1802206656618770635",
+        "created_at": "2024-06-16T14:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T15:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802350881226338774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "830113724526579713",
+              "start": 0,
+              "username": "YUMI686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802350881226338774",
+        "in_reply_to_user_id": "830113724526579713",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802206656618770635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUMI686 在学校的租房群和二手群看看，能不能找到校友合租"
+      },
+      {
+        "attachments": {},
+        "author_id": "830113724526579713",
+        "conversation_id": "1802206656618770635",
+        "created_at": "2024-06-16T05:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T06:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802206656618770635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802206656618770635",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚和舍友聊到了外面租房的问题，提到了合租，不过室友的话，可能也不好找合适的吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 337,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1758
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T17:58:29.000Z",
+        "description": "good luck and fair seas.                                    只是赛博面具其中之一。                  \n                     \n                              steam好友码 397844950",
+        "id": "830113724526579713",
+        "location": "位置",
+        "name": "網絡幽靈",
+        "pinned_tweet_id": "1756309530185720037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801415720926121985/kORMnnrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 168,
+          "like_count": 7004,
+          "listed_count": 0,
+          "tweet_count": 4928
+        },
+        "username": "YUMI686",
+        "verified": false
+      }
+    ]
+  }
+}

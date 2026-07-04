@@ -1,0 +1,251 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1788776535459299407",
+    "created_at": "2024-05-10T14:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T15:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788943549603668225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1600883022273732613",
+          "start": 0,
+          "username": "Nono13319824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788943549603668225",
+    "in_reply_to_user_id": "1600883022273732613",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788776535459299407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nono13319824 好小的圈圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1788776535459299407",
+        "created_at": "2024-05-10T14:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T15:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788943549603668225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1600883022273732613",
+              "start": 0,
+              "username": "Nono13319824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788943549603668225",
+        "in_reply_to_user_id": "1600883022273732613",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788776535459299407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nono13319824 好小的圈圈"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788776533148241920"
+          ]
+        },
+        "author_id": "1600883022273732613",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1788776535459299407",
+        "created_at": "2024-05-10T03:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T04:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788776535459299407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1787081069000556544/70XWiD4h?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1787081069000556544/70XWiD4h?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/KgDsfdCr8N"
+            },
+            {
+              "display_url": "pic.twitter.com/wvHSiAtLCR",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Nono13319824/status/1788776535459299407/photo/1",
+              "media_key": "3_1788776533148241920",
+              "start": 41,
+              "url": "https://t.co/wvHSiAtLCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788776535459299407",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/KgDsfdCr8N https://t.co/wvHSiAtLCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 310,
+          "like_count": 620,
+          "listed_count": 1,
+          "tweet_count": 1331
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T16:00:37.000Z",
+        "description": "正在研究怎么和人类沟通\n\nお姉ちゃん様：@eiietth\nお姉ちゃん様は優しくて立派な人ですので、是非フォローしてください\n\n关于我（Agender）/我不拒绝所有人/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "eiietth"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404-notfound.com",
+                "end": 23,
+                "expanded_url": "http://www.404-notfound.com",
+                "start": 0,
+                "url": "https://t.co/N69jQ93UCk"
+              }
+            ]
+          }
+        },
+        "id": "1600883022273732613",
+        "location": "limbus",
+        "name": "幸運",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785023103946645504/E7RrmT0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 104,
+          "like_count": 115,
+          "listed_count": 0,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/N69jQ93UCk",
+        "username": "Nono13319824",
+        "verified": false
+      }
+    ]
+  }
+}

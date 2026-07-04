@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1812900709605777471",
+    "created_at": "2024-07-16T15:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T16:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813236466958684631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1194283796314509312",
+          "start": 0,
+          "username": "gana0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813236466958684631",
+    "in_reply_to_user_id": "1194283796314509312",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812900709605777471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gana0w0 会有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1812900709605777471",
+        "created_at": "2024-07-16T15:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T16:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813236466958684631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1194283796314509312",
+              "start": 0,
+              "username": "gana0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813236466958684631",
+        "in_reply_to_user_id": "1194283796314509312",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812900709605777471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gana0w0 会有的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1194283796314509312",
+        "conversation_id": "1812900709605777471",
+        "created_at": "2024-07-15T17:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T18:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812900709605777471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812900709605777471",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19893,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我一般在平台上发东西，只要不发照片，一直都是无人理睬的，所以其实我是一个很无趣的人，没有人真的在意我的灵魂是什么样子，只是对我的外貌感兴趣而已，虽然我打扮一下顶上天也只能算得上是普通人稍微好一点点，我其实是一个可有可无的废物没有人真正的珍惜我。可是我想要真切的爱啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 352,
+          "like_count": 689,
+          "listed_count": 1,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "谢谢老铁支持 防炸小号@xian__xxx 188+v 无福利纯清水推 本人没有tg等软件",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "xian__xxx"
+              }
+            ]
+          }
+        },
+        "id": "1194283796314509312",
+        "location": "188+v",
+        "name": "gana",
+        "pinned_tweet_id": "1740552306381496432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774417809654882304/iFSTEoeX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59830,
+          "following_count": 165,
+          "like_count": 7737,
+          "listed_count": 203,
+          "tweet_count": 5120
+        },
+        "username": "gana0w0",
+        "verified": false
+      }
+    ]
+  }
+}

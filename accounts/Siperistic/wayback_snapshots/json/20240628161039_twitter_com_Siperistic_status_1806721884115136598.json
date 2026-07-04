@@ -1,0 +1,146 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "16_1806721842000056320"
+      ]
+    },
+    "author_id": "1191237542797959168",
+    "conversation_id": "1806721884115136598",
+    "created_at": "2024-06-28T16:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T17:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806721884115136598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/VWLvMb57zv",
+          "end": 96,
+          "expanded_url": "https://twitter.com/Siperistic/status/1806721884115136598/photo/1",
+          "media_key": "16_1806721842000056320",
+          "start": 73,
+          "url": "https://t.co/VWLvMb57zv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806721884115136598",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在这培训了十天感觉学到了不少\n但是练的时候还是磕磕巴巴说不出话啊\n希望明天模拟可以练的好一点\n明天就回去咯\n连着给我发暴雨预警\n希望能下的小一点 https://t.co/VWLvMb57zv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "16_1806721842000056320",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GRLD8WBaUAAWXkf.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GRLD8WBaUAAWXkf.mp4"
+          }
+        ],
+        "width": 632
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1806721842000056320"
+          ]
+        },
+        "author_id": "1191237542797959168",
+        "conversation_id": "1806721884115136598",
+        "created_at": "2024-06-28T16:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T17:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806721884115136598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VWLvMb57zv",
+              "end": 96,
+              "expanded_url": "https://twitter.com/Siperistic/status/1806721884115136598/photo/1",
+              "media_key": "16_1806721842000056320",
+              "start": 73,
+              "url": "https://t.co/VWLvMb57zv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806721884115136598",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在这培训了十天感觉学到了不少\n但是练的时候还是磕磕巴巴说不出话啊\n希望明天模拟可以练的好一点\n明天就回去咯\n连着给我发暴雨预警\n希望能下的小一点 https://t.co/VWLvMb57zv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 333,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1811
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      }
+    ]
+  }
+}

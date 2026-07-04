@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1793665109740454235",
+    "created_at": "2024-05-23T18:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T19:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793704041199091813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1085791168040861696",
+          "start": 0,
+          "username": "sezryo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793704041199091813",
+    "in_reply_to_user_id": "1085791168040861696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793665109740454235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sezryo 神仙房间啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1793665109740454235",
+        "created_at": "2024-05-23T18:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T19:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793704041199091813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1085791168040861696",
+              "start": 0,
+              "username": "sezryo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793704041199091813",
+        "in_reply_to_user_id": "1085791168040861696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793665109740454235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sezryo 神仙房间啊"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793665103608381440"
+          ]
+        },
+        "author_id": "1085791168040861696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1793665109740454235",
+        "created_at": "2024-05-23T15:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T16:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793665109740454235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ORfPR5lBFB",
+              "end": 30,
+              "expanded_url": "https://twitter.com/sezryo/status/1793665109740454235/photo/1",
+              "media_key": "3_1793665103608381440",
+              "start": 7,
+              "url": "https://t.co/ORfPR5lBFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793665109740454235",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1035,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都來姐姐家玩 https://t.co/ORfPR5lBFB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 314,
+          "like_count": 627,
+          "listed_count": 1,
+          "tweet_count": 1450
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T06:49:22.000Z",
+        "description": "衝動的でも 得したね 今夜は ナニがあるかなー",
+        "id": "1085791168040861696",
+        "location": "Cambridge, England",
+        "name": "🎲",
+        "pinned_tweet_id": "1788880578499981489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728920953747378176/3OUgVxl8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 981,
+          "like_count": 9899,
+          "listed_count": 1,
+          "tweet_count": 4217
+        },
+        "username": "sezryo",
+        "verified": false
+      }
+    ]
+  }
+}

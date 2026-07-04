@@ -1,0 +1,238 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1809815083847151963",
+    "created_at": "2024-07-13T01:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T02:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811942211917062230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1760705336540057600",
+          "start": 0,
+          "username": "akiakuno"
+        },
+        {
+          "end": 23,
+          "id": "1798724969695977472",
+          "start": 10,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811942211917062230",
+    "in_reply_to_user_id": "1760705336540057600",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811811473519444111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiakuno @overdosewiki 感觉医生给开的好多问题测量表没什么意义，后续根据测量表的情况和患者描述就下了定义，但是好多情况不太会上报？上报了的话或许病人真得被社区盯一辈子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1809815083847151963",
+        "created_at": "2024-07-13T01:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T02:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811942211917062230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760705336540057600",
+              "start": 0,
+              "username": "akiakuno"
+            },
+            {
+              "end": 23,
+              "id": "1798724969695977472",
+              "start": 10,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811942211917062230",
+        "in_reply_to_user_id": "1760705336540057600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811811473519444111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiakuno @overdosewiki 感觉医生给开的好多问题测量表没什么意义，后续根据测量表的情况和患者描述就下了定义，但是好多情况不太会上报？上报了的话或许病人真得被社区盯一辈子了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1760705336540057600",
+        "conversation_id": "1809815083847151963",
+        "created_at": "2024-07-12T17:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T18:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811811473519444111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811811473519444111",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809815083847151963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki 双相误诊率很高，而且我感觉不同程度的躁狂抑郁相发作比例用药应该有较大程度的区分，但是估计现阶段诊断根本没有考虑这些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 337,
+          "like_count": 664,
+          "listed_count": 1,
+          "tweet_count": 2002
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T16:37:32.000Z",
+        "description": "Life changes,why stay still.",
+        "id": "1760705336540057600",
+        "name": "美丽新世界",
+        "pinned_tweet_id": "1802205216403591572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771793626798145536/abxok-Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 134,
+          "like_count": 9916,
+          "listed_count": 4,
+          "tweet_count": 4186
+        },
+        "username": "akiakuno",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "忠！诚！\n这边的人员组成 = 原odwiki全体编辑 = 原odwiki - \"wiki主\"\n。除了wiki主都在这边集合避难了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/w0mFDxhZLC"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "name": "wiki重建最高会议",
+        "pinned_tweet_id": "1809815083847151963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808949191261237251/Jzsl-5Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 6,
+          "like_count": 82,
+          "listed_count": 0,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/w0mFDxhZLC",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

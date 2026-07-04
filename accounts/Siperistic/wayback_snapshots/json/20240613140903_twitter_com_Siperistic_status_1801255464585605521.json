@@ -1,0 +1,238 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1801163187234210133",
+    "created_at": "2024-06-13T14:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T15:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801255464585605521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1018884836470054912",
+          "start": 0,
+          "username": "curtisnile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801255464585605521",
+    "in_reply_to_user_id": "1018884836470054912",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801163187234210133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@curtisnile 猫猫“我是造了什么孽啊”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1801163187234210133",
+        "created_at": "2024-06-13T14:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T15:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801255464585605521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1018884836470054912",
+              "start": 0,
+              "username": "curtisnile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801255464585605521",
+        "in_reply_to_user_id": "1018884836470054912",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801163187234210133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@curtisnile 猫猫“我是造了什么孽啊”"
+      },
+      {
+        "attachments": {},
+        "author_id": "1018884836470054912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1801163187234210133",
+        "created_at": "2024-06-13T08:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T09:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801163187234210133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801163187234210133",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱也不知道自己腦袋抽什麼風，在網拍上看到有批跑步機好便宜啊，回過神來那台跑步機就在出現家裡了。媽的超大台！直接把客廳塞爆！咱身體病弱不能運動，到底為什麼要買跑步機啦www\n算了，晚一點把肥貓放上去好了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 338,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1709
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-16T15:47:29.000Z",
+        "description": "鳥胃吃貨/喜歡酷東西/病弱/社恐/FTM🏳️‍⚧️/努力交朋友中/會發一些無關緊要的日常/\n偶爾曬一下我家的貓/牠們很臭但是很可愛哦喵/唱歌耍廢帳 @nobunagani",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "nobunagani"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/curtisnile",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/curtisnile",
+                "start": 0,
+                "url": "https://t.co/XtP8S67XxE"
+              }
+            ]
+          }
+        },
+        "id": "1018884836470054912",
+        "name": "奈爾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720393290485571584/Gs_7R9jh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 192,
+          "like_count": 8996,
+          "listed_count": 1,
+          "tweet_count": 3449
+        },
+        "url": "https://t.co/XtP8S67XxE",
+        "username": "curtisnile",
+        "verified": false
+      }
+    ]
+  }
+}

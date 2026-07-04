@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1811982491626144166",
+    "created_at": "2024-07-13T13:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T14:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812123202841358378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1430361846179979269",
+          "start": 0,
+          "username": "RealHuajianguo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812123202841358378",
+    "in_reply_to_user_id": "1430361846179979269",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811982491626144166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealHuajianguo 伟大，无需多言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1811982491626144166",
+        "created_at": "2024-07-13T13:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T14:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812123202841358378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1430361846179979269",
+              "start": 0,
+              "username": "RealHuajianguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812123202841358378",
+        "in_reply_to_user_id": "1430361846179979269",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811982491626144166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealHuajianguo 伟大，无需多言"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811982479357534208"
+          ]
+        },
+        "author_id": "1430361846179979269",
+        "conversation_id": "1811982491626144166",
+        "created_at": "2024-07-13T04:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T05:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811982491626144166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1QNtwpAm1V",
+              "end": 31,
+              "expanded_url": "https://twitter.com/RealHuajianguo/status/1811982491626144166/photo/1",
+              "media_key": "3_1811982479357534208",
+              "start": 8,
+              "url": "https://t.co/1QNtwpAm1V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811982491626144166",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 625,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救你，如呼吸😎 https://t.co/1QNtwpAm1V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 342,
+          "like_count": 682,
+          "listed_count": 1,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T02:50:26.000Z",
+        "description": "诚招革命/学术伴侣\n🚪：114.514\n 常态性癫痫发作，偶尔正常，敬请谅解\n备用🎺: @beforMrBao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "beforMrBao"
+              }
+            ]
+          }
+        },
+        "id": "1430361846179979269",
+        "location": "IP归属地：🥜屯",
+        "name": "🥜屯委第一书记 华建国",
+        "pinned_tweet_id": "1739953300861239445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743995754887405568/yKw2rgLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 2619,
+          "like_count": 69039,
+          "listed_count": 11,
+          "tweet_count": 20472
+        },
+        "username": "RealHuajianguo",
+        "verified": false
+      }
+    ]
+  }
+}

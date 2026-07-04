@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1792582676454535657",
+    "created_at": "2024-05-21T12:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T13:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792898661531406834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1600877901016371200",
+          "start": 0,
+          "username": "my_pet_is_alien"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792898661531406834",
+    "in_reply_to_user_id": "1600877901016371200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792693145987416502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@my_pet_is_alien 爆不了金币啊QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1792582676454535657",
+        "created_at": "2024-05-21T12:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T13:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792898661531406834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1600877901016371200",
+              "start": 0,
+              "username": "my_pet_is_alien"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792898661531406834",
+        "in_reply_to_user_id": "1600877901016371200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792693145987416502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@my_pet_is_alien 爆不了金币啊QAQ"
+      },
+      {
+        "attachments": {},
+        "author_id": "1600877901016371200",
+        "conversation_id": "1792582676454535657",
+        "created_at": "2024-05-20T23:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T00:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792693145987416502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191237542797959168",
+              "start": 0,
+              "username": "Siperistic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792693145987416502",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792582676454535657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siperistic 我也想玩，送我🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 316,
+          "like_count": 626,
+          "listed_count": 1,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T15:40:19.000Z",
+        "description": "\\it's November guys/your favorite month!",
+        "id": "1600877901016371200",
+        "name": "饲养外星克克蹬",
+        "pinned_tweet_id": "1780561102734332084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708930665780301824/z4v6TtQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 160,
+          "like_count": 2511,
+          "listed_count": 0,
+          "tweet_count": 926
+        },
+        "username": "my_pet_is_alien",
+        "verified": false
+      }
+    ]
+  }
+}

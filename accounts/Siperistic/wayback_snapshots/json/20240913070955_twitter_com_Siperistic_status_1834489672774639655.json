@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1834146886821052827",
+    "created_at": "2024-09-13T07:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T08:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834489672774639655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "762258293968375808",
+          "start": 0,
+          "username": "michch_mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834489672774639655",
+    "in_reply_to_user_id": "762258293968375808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834146886821052827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@michch_mi 白天不听话的鹿鹿晚上要上餐桌是吗🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1834146886821052827",
+        "created_at": "2024-09-13T07:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T08:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834489672774639655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "762258293968375808",
+              "start": 0,
+              "username": "michch_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834489672774639655",
+        "in_reply_to_user_id": "762258293968375808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834146886821052827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@michch_mi 白天不听话的鹿鹿晚上要上餐桌是吗🧐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834146883352363008",
+            "3_1834146883335491584",
+            "3_1834146883645931520",
+            "3_1834146883662651392"
+          ]
+        },
+        "author_id": "762258293968375808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1834146886821052827",
+        "created_at": "2024-09-12T08:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T09:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834146886821052827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzu1yrsp1h",
+              "end": 80,
+              "expanded_url": "https://twitter.com/michch_mi/status/1834146886821052827/photo/1",
+              "media_key": "3_1834146883352363008",
+              "start": 57,
+              "url": "https://t.co/LZu1YrSp1h"
+            },
+            {
+              "display_url": "pic.x.com/lzu1yrsp1h",
+              "end": 80,
+              "expanded_url": "https://twitter.com/michch_mi/status/1834146886821052827/photo/1",
+              "media_key": "3_1834146883335491584",
+              "start": 57,
+              "url": "https://t.co/LZu1YrSp1h"
+            },
+            {
+              "display_url": "pic.x.com/lzu1yrsp1h",
+              "end": 80,
+              "expanded_url": "https://twitter.com/michch_mi/status/1834146886821052827/photo/1",
+              "media_key": "3_1834146883645931520",
+              "start": 57,
+              "url": "https://t.co/LZu1YrSp1h"
+            },
+            {
+              "display_url": "pic.x.com/lzu1yrsp1h",
+              "end": 80,
+              "expanded_url": "https://twitter.com/michch_mi/status/1834146886821052827/photo/1",
+              "media_key": "3_1834146883662651392",
+              "start": 57,
+              "url": "https://t.co/LZu1YrSp1h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834146886821052827",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 148762,
+          "like_count": 851,
+          "quote_count": 18,
+          "reply_count": 114,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "去奈良的朋友们，\n踢鹿鹿是不礼貌的，\n但是你们可以吃鹿鹿。\n\n这里有几家奈良吃鹿肉的本地餐厅，还有更好的推荐吗？ https://t.co/LZu1YrSp1h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 373,
+          "like_count": 705,
+          "listed_count": 1,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-07T12:05:14.000Z",
+        "description": "",
+        "id": "762258293968375808",
+        "location": "Earth",
+        "name": "Mi.C",
+        "pinned_tweet_id": "1831533439117623627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709932901570355201/fpEs86Om_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3755,
+          "following_count": 731,
+          "like_count": 47662,
+          "listed_count": 25,
+          "tweet_count": 17357
+        },
+        "username": "michch_mi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1794913973227442176"
+      ]
+    },
+    "author_id": "1191237542797959168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1794913975718834322",
+    "created_at": "2024-05-27T02:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T03:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794913975718834322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/LkG5Dth56O",
+          "end": 117,
+          "expanded_url": "https://twitter.com/Siperistic/status/1794913975718834322/photo/1",
+          "media_key": "3_1794913973227442176",
+          "start": 94,
+          "url": "https://t.co/LkG5Dth56O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794913975718834322",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推友们有什么短发推荐吗\n想要精神一点的😇\n因为要去面试\n只能把我留了近一年的头发剪了\n我的摇滚乐手同款发型啊啊啊啊啊啊\n我还没扎过高马尾武士头呢啊啊啊啊\n以后吃饭就不会有头发给我抢饭吃了 https://t.co/LkG5Dth56O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1794913973227442176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOjQv7CbUAALXIJ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794913973227442176"
+          ]
+        },
+        "author_id": "1191237542797959168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1794913975718834322",
+        "created_at": "2024-05-27T02:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T03:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794913975718834322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LkG5Dth56O",
+              "end": 117,
+              "expanded_url": "https://twitter.com/Siperistic/status/1794913975718834322/photo/1",
+              "media_key": "3_1794913973227442176",
+              "start": 94,
+              "url": "https://t.co/LkG5Dth56O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794913975718834322",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友们有什么短发推荐吗\n想要精神一点的😇\n因为要去面试\n只能把我留了近一年的头发剪了\n我的摇滚乐手同款发型啊啊啊啊啊啊\n我还没扎过高马尾武士头呢啊啊啊啊\n以后吃饭就不会有头发给我抢饭吃了 https://t.co/LkG5Dth56O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 316,
+          "like_count": 632,
+          "listed_count": 1,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1812431432461263151",
+    "created_at": "2024-07-14T10:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T11:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1812431432461263151"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1812431432461263151",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从早上到现在只吃了个面包\n饿饿饿饿饿\n晚上还得通宵看球\n凌晨三点一场早上八点一场\n一起看球的哥们已经在补觉备战了\n我翻来覆去就是睡不着啊\n只能坐着刷刷手机了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1812431432461263151",
+        "created_at": "2024-07-14T10:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T11:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812431432461263151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812431432461263151",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从早上到现在只吃了个面包\n饿饿饿饿饿\n晚上还得通宵看球\n凌晨三点一场早上八点一场\n一起看球的哥们已经在补觉备战了\n我翻来覆去就是睡不着啊\n只能坐着刷刷手机了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 348,
+          "like_count": 687,
+          "listed_count": 1,
+          "tweet_count": 2068
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      }
+    ]
+  }
+}

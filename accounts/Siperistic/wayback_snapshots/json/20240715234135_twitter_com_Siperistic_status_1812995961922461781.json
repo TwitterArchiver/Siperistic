@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1812887374428246468",
+    "created_at": "2024-07-15T23:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T00:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812995961922461781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1277014572335947776",
+          "start": 0,
+          "username": "silence76993105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812995961922461781",
+    "in_reply_to_user_id": "1277014572335947776",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812887374428246468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silence76993105 哪里来的小朋友😺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1812887374428246468].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1812887374428246468",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1812887374428246468"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1812887374428246468",
+        "created_at": "2024-07-15T23:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T00:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812995961922461781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277014572335947776",
+              "start": 0,
+              "username": "silence76993105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812995961922461781",
+        "in_reply_to_user_id": "1277014572335947776",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812887374428246468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silence76993105 哪里来的小朋友😺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 350,
+          "like_count": 688,
+          "listed_count": 1,
+          "tweet_count": 2090
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-27T23:03:04.000Z",
+        "description": "社恐白日做梦家~痴迷于网络游戏世界无法自拔（不键政）这里就是日记本啦",
+        "id": "1277014572335947776",
+        "location": "宿舍的床上",
+        "name": "Silence",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623969936061378561/ha9R8_TE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 257,
+          "like_count": 5445,
+          "listed_count": 0,
+          "tweet_count": 1296
+        },
+        "username": "silence76993105",
+        "verified": false
+      }
+    ]
+  }
+}

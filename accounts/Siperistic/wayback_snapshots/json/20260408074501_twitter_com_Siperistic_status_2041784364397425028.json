@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "2041713894649946459",
+    "created_at": "2026-04-08T07:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T08:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041784364397425028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1324198319535521795",
+          "start": 0,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041784364397425028",
+    "in_reply_to_user_id": "1324198319535521795",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041713894649946459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKaWSB 好恐怖"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12933,
+        "height": 1080,
+        "media_key": "13_2041710114596646916",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041710114596646916/img/My0-0CvITNz2VwxJ.jpg",
+        "public_metrics": {
+          "view_count": 150052
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041710114596646916/vid/avc1/1280x720/X2goVKAxKjCSDU4S.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041710114596646916/vid/avc1/1920x1080/sNyD8tOCR9mJEPJM.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041710114596646916/vid/avc1/480x270/9WUCCC4hPhU6RQLW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041710114596646916/pl/LjUafgCJYeoT_hkM.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041710114596646916/vid/avc1/640x360/axW8LRZVw9BLicwX.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "2041713894649946459",
+        "created_at": "2026-04-08T07:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041784364397425028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1324198319535521795",
+              "start": 0,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041784364397425028",
+        "in_reply_to_user_id": "1324198319535521795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041713894649946459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKaWSB 好恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041710114596646916"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "conversation_id": "2041713894649946459",
+        "created_at": "2026-04-08T03:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041713894649946459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzOLmBZ6eN",
+              "end": 98,
+              "expanded_url": "https://x.com/KKaWSB/status/2041713894649946459/video/1",
+              "media_key": "13_2041710114596646916",
+              "start": 75,
+              "url": "https://t.co/mzOLmBZ6eN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041713894649946459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 329374,
+          "like_count": 1018,
+          "quote_count": 19,
+          "reply_count": 127,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "一支日本钢笔在英文区迅速走红。\n\n“Anisakis是一种日本手工艺品，笔内含有草药油和一条真正的寄生虫（Anisakis），书写时寄生虫会蠕动。” https://t.co/mzOLmBZ6eN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 635,
+          "like_count": 699,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 5604
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SilentFleetKK",
+                "end": 23,
+                "expanded_url": "https://github.com/SilentFleetKK",
+                "start": 0,
+                "url": "https://t.co/TpeTVm0jBT"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75437,
+          "following_count": 2871,
+          "like_count": 9116,
+          "listed_count": 640,
+          "media_count": 5719,
+          "tweet_count": 11637
+        },
+        "url": "https://t.co/TpeTVm0jBT",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1801964182713327618",
+    "created_at": "2024-06-15T14:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T15:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801989975313100809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573863666000224256",
+          "start": 0,
+          "username": "Futuristic2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801989975313100809",
+    "in_reply_to_user_id": "1573863666000224256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801964182713327618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Futuristic2007 商务舱除了座椅这样还有别的特殊的地方吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1801964182713327618",
+        "created_at": "2024-06-15T14:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T15:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801989975313100809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573863666000224256",
+              "start": 0,
+              "username": "Futuristic2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801989975313100809",
+        "in_reply_to_user_id": "1573863666000224256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801964182713327618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Futuristic2007 商务舱除了座椅这样还有别的特殊的地方吗"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801964063771262976",
+            "3_1801964063788056576",
+            "3_1801964064115204096"
+          ]
+        },
+        "author_id": "1573863666000224256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1801964182713327618",
+        "created_at": "2024-06-15T13:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T14:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801964182713327618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8z13kfyu5Y",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Futuristic2007/status/1801964182713327618/photo/1",
+              "media_key": "3_1801964063771262976",
+              "start": 10,
+              "url": "https://t.co/8z13kfyu5Y"
+            },
+            {
+              "display_url": "pic.twitter.com/8z13kfyu5Y",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Futuristic2007/status/1801964182713327618/photo/1",
+              "media_key": "3_1801964063788056576",
+              "start": 10,
+              "url": "https://t.co/8z13kfyu5Y"
+            },
+            {
+              "display_url": "pic.twitter.com/8z13kfyu5Y",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Futuristic2007/status/1801964182713327618/photo/1",
+              "media_key": "3_1801964064115204096",
+              "start": 10,
+              "url": "https://t.co/8z13kfyu5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801964182713327618",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次试商务舱欸🥰 https://t.co/8z13kfyu5Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 336,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1750
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "16rd/高中生/深圳南山/一个死人/假装活着/友跨/友同/中文/a bit EN/",
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798018678686162944/Jv_koOjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 206,
+          "like_count": 57355,
+          "listed_count": 2,
+          "tweet_count": 9603
+        },
+        "username": "Futuristic2007",
+        "verified": false
+      }
+    ]
+  }
+}

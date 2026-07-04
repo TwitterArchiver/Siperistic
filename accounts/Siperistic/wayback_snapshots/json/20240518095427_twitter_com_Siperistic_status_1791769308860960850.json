@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1791495468423287282",
+    "created_at": "2024-05-18T09:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T10:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791769308860960850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488160883410878471",
+          "start": 0,
+          "username": "Chichupog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791769308860960850",
+    "in_reply_to_user_id": "1488160883410878471",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791495468423287282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chichupog 隔空抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1791495468423287282",
+        "created_at": "2024-05-18T09:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T10:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791769308860960850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488160883410878471",
+              "start": 0,
+              "username": "Chichupog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791769308860960850",
+        "in_reply_to_user_id": "1488160883410878471",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791495468423287282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chichupog 隔空抱抱你"
+      },
+      {
+        "attachments": {},
+        "author_id": "1488160883410878471",
+        "conversation_id": "1791495468423287282",
+        "created_at": "2024-05-17T15:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T16:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791495468423287282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791495468423287282",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要赛博抱抱🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 312,
+          "like_count": 623,
+          "listed_count": 1,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T14:43:16.000Z",
+        "description": "",
+        "id": "1488160883410878471",
+        "name": "清野",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713169643299598336/PFhNrCx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 185,
+          "like_count": 292,
+          "listed_count": 0,
+          "tweet_count": 106
+        },
+        "username": "Chichupog",
+        "verified": false
+      }
+    ]
+  }
+}

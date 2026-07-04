@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1824824434303303865",
+    "created_at": "2024-08-18T07:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T08:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825078862377586973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2750181766",
+          "start": 0,
+          "username": "Jamecuffsfas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825078862377586973",
+    "in_reply_to_user_id": "2750181766",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824824434303303865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jamecuffsfas 生日快乐喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1824824434303303865",
+        "created_at": "2024-08-18T07:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T08:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825078862377586973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2750181766",
+              "start": 0,
+              "username": "Jamecuffsfas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825078862377586973",
+        "in_reply_to_user_id": "2750181766",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824824434303303865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jamecuffsfas 生日快乐喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824824430977298432"
+          ]
+        },
+        "author_id": "2750181766",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1824824434303303865",
+        "created_at": "2024-08-17T15:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T16:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824824434303303865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a92hrfxvvk",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Jamecuffsfas/status/1824824434303303865/photo/1",
+              "media_key": "3_1824824430977298432",
+              "start": 9,
+              "url": "https://t.co/a92HRfXVvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824824434303303865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16814,
+          "like_count": 455,
+          "quote_count": 1,
+          "reply_count": 260,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一个人过生日。。 https://t.co/a92HRfXVvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 371,
+          "like_count": 703,
+          "listed_count": 1,
+          "tweet_count": 2576
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-22T15:16:18.000Z",
+        "description": "原账号@LQM_Zenobia，推友寻回\n/成分复杂，100%回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "LQM_Zenobia"
+              }
+            ]
+          }
+        },
+        "id": "2750181766",
+        "location": "第十三都市",
+        "name": "Zenobia🫠",
+        "pinned_tweet_id": "1824940441491681455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824392406118354944/SCaeRm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 1503,
+          "like_count": 848,
+          "listed_count": 1,
+          "tweet_count": 214
+        },
+        "username": "Jamecuffsfas",
+        "verified": false
+      }
+    ]
+  }
+}

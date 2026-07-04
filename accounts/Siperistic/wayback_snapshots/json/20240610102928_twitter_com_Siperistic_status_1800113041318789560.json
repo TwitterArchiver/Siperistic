@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1799980862970409151",
+    "created_at": "2024-06-10T10:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T11:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800113041318789560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1763202885251485696",
+          "start": 0,
+          "username": "Lucywwwlm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800113041318789560",
+    "in_reply_to_user_id": "1763202885251485696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799980862970409151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucywwwlm 显卡这东西还是太诱人了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1799980862970409151",
+        "created_at": "2024-06-10T10:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T11:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800113041318789560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1763202885251485696",
+              "start": 0,
+              "username": "Lucywwwlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800113041318789560",
+        "in_reply_to_user_id": "1763202885251485696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799980862970409151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucywwwlm 显卡这东西还是太诱人了😇"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799980841604419584"
+          ]
+        },
+        "author_id": "1763202885251485696",
+        "conversation_id": "1799980862970409151",
+        "created_at": "2024-06-10T01:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T02:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799980862970409151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/E9MtCFmGRi",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Lucywwwlm/status/1799980862970409151/photo/1",
+              "media_key": "3_1799980841604419584",
+              "start": 66,
+              "url": "https://t.co/E9MtCFmGRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799980862970409151",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 130858,
+          "like_count": 2029,
+          "quote_count": 46,
+          "reply_count": 934,
+          "retweet_count": 1497
+        },
+        "reply_settings": "everyone",
+        "text": "igame这个4080我不用了烂手上了基本上全新，要不抽个奖找个有缘人送了吧\n\nemmm就点赞➕转发➕灌注吧\n等到人多点我就开奖吧 https://t.co/E9MtCFmGRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 336,
+          "like_count": 636,
+          "listed_count": 1,
+          "tweet_count": 1659
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T14:01:52.000Z",
+        "description": "英高…/emm会中.英.法语/二刺猿糕手/无立场纯乐子",
+        "id": "1763202885251485696",
+        "location": "London, England",
+        "name": "e_eeeeeoi&🔪",
+        "pinned_tweet_id": "1799980862970409151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763212839739654144/S4risV_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 268,
+          "like_count": 163,
+          "listed_count": 0,
+          "tweet_count": 66
+        },
+        "username": "Lucywwwlm",
+        "verified": false
+      }
+    ]
+  }
+}

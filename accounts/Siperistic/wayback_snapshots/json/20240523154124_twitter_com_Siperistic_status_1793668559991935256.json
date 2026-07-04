@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1793650117255553484",
+    "created_at": "2024-05-23T15:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T16:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793668559991935256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1771218854707871744",
+          "start": 0,
+          "username": "__lZU__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793668559991935256",
+    "in_reply_to_user_id": "1771218854707871744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793650117255553484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__lZU__ 还好我是学文的😭反转了学文的都是fw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1793650117255553484",
+        "created_at": "2024-05-23T15:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T16:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793668559991935256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1771218854707871744",
+              "start": 0,
+              "username": "__lZU__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793668559991935256",
+        "in_reply_to_user_id": "1771218854707871744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793650117255553484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__lZU__ 还好我是学文的😭反转了学文的都是fw"
+      },
+      {
+        "attachments": {},
+        "author_id": "1771218854707871744",
+        "conversation_id": "1793650117255553484",
+        "created_at": "2024-05-23T14:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T15:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793650117255553484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793650117255553484",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刻板印象之：\n1.数学物理系都是主动或被动的M\n2.化学系都是自我主义至上者\n3.学生物的都是很单纯善良的（不包括医生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 314,
+          "like_count": 627,
+          "listed_count": 1,
+          "tweet_count": 1445
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T16:54:42.000Z",
+        "description": "",
+        "id": "1771218854707871744",
+        "name": "🕊巴塞琉斯🕊",
+        "pinned_tweet_id": "1793649388541317219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793655848939720704/0d6RfnkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 82,
+          "like_count": 4063,
+          "listed_count": 0,
+          "tweet_count": 812
+        },
+        "username": "__lZU__",
+        "verified": false
+      }
+    ]
+  }
+}

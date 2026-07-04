@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1821879157648994332",
+    "created_at": "2024-08-09T15:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T16:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821931789520400701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1138408165014364162",
+          "start": 0,
+          "username": "shiratsuyudachi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821931789520400701",
+    "in_reply_to_user_id": "1138408165014364162",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821879157648994332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiratsuyudachi 牛哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1821879157648994332",
+        "created_at": "2024-08-09T15:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T16:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821931789520400701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1138408165014364162",
+              "start": 0,
+              "username": "shiratsuyudachi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821931789520400701",
+        "in_reply_to_user_id": "1138408165014364162",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821879157648994332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiratsuyudachi 牛哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821879026639949824"
+          ]
+        },
+        "author_id": "1138408165014364162",
+        "conversation_id": "1821879157648994332",
+        "created_at": "2024-08-09T12:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T13:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821879157648994332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kxb56i2bg",
+              "end": 86,
+              "expanded_url": "https://twitter.com/shiratsuyudachi/status/1821879157648994332/photo/1",
+              "media_key": "3_1821879026639949824",
+              "start": 63,
+              "url": "https://t.co/9KXb56i2Bg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821879157648994332",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2698,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草！！！！！！！\n东大我来啦！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！ https://t.co/9KXb56i2Bg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 364,
+          "like_count": 698,
+          "listed_count": 1,
+          "tweet_count": 2482
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-11T11:30:31.000Z",
+        "description": "Trans-Magica｜拥有使用大语言模型程度的能力。里号@shiratsuyukata",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "shiratsuyukata"
+              }
+            ]
+          }
+        },
+        "id": "1138408165014364162",
+        "location": "Sol III",
+        "name": "白露型四番艦の枝",
+        "pinned_tweet_id": "1784818753789956559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815937634252038144/a9IzEm89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 1356,
+          "like_count": 38333,
+          "listed_count": 9,
+          "tweet_count": 9005
+        },
+        "username": "shiratsuyudachi",
+        "verified": false
+      }
+    ]
+  }
+}

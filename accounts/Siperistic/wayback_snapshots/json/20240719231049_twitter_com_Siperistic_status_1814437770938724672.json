@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1814154847782101479",
+    "created_at": "2024-07-19T23:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T00:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814437770938724672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750804799031824384",
+          "start": 0,
+          "username": "lizizuikeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814437770938724672",
+    "in_reply_to_user_id": "1750804799031824384",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814154847782101479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizizuikeai 原来我已经是老东西了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1814154847782101479",
+        "created_at": "2024-07-19T23:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T00:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814437770938724672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750804799031824384",
+              "start": 0,
+              "username": "lizizuikeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814437770938724672",
+        "in_reply_to_user_id": "1750804799031824384",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814154847782101479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizizuikeai 原来我已经是老东西了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1750804799031824384",
+        "conversation_id": "1814154847782101479",
+        "created_at": "2024-07-19T04:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T05:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814154847782101479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814154847782101479",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1066,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中推圈平均年龄能超过20吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 356,
+          "like_count": 693,
+          "listed_count": 1,
+          "tweet_count": 2258
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "精神分析/女性主义/左偏下/marx-lenin-mao/hegel-marx-lacan/“安托西修”分子/LGBTQ+友好/互fo看情况/音游力低下/pjsk重度沉迷  祝你幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys.mihoyo.com",
+                "end": 23,
+                "expanded_url": "http://ys.mihoyo.com",
+                "start": 0,
+                "url": "https://t.co/PHunJq3mbx"
+              }
+            ]
+          }
+        },
+        "id": "1750804799031824384",
+        "name": "漓梓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809635317332459520/X-F9OBMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 376,
+          "like_count": 3248,
+          "listed_count": 2,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/PHunJq3mbx",
+        "username": "lizizuikeai",
+        "verified": false
+      }
+    ]
+  }
+}

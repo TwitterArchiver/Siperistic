@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1810992788575854681",
+    "created_at": "2024-07-10T11:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-10T12:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810997789071134969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580907538127949824",
+          "start": 0,
+          "username": "yuluoshanl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810997789071134969",
+    "in_reply_to_user_id": "1580907538127949824",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810992788575854681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuluoshanl 这就是我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1810992788575854681",
+        "created_at": "2024-07-10T11:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T12:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810997789071134969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580907538127949824",
+              "start": 0,
+              "username": "yuluoshanl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810997789071134969",
+        "in_reply_to_user_id": "1580907538127949824",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810992788575854681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuluoshanl 这就是我！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1580907538127949824",
+        "conversation_id": "1810992788575854681",
+        "created_at": "2024-07-10T11:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T12:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810992788575854681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1810992788575854681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回家了没有镜子照，没有小伙伴陪我出来玩 ，我的生活索然无味，天天在家穿着大裤衩，连之前喜欢的小裙子都没有购买的欲望，只能天天在网上冲浪，现在就是个屌丝样\n是的，其实现实生活中的我就是个屌丝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 329,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T13:05:35.000Z",
+        "description": "希望天天开心。",
+        "id": "1580907538127949824",
+        "name": "Yyyˇ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743173192905322496/Ng03kf09_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 138,
+          "like_count": 3575,
+          "listed_count": 5,
+          "tweet_count": 1345
+        },
+        "username": "yuluoshanl",
+        "verified": false
+      }
+    ]
+  }
+}

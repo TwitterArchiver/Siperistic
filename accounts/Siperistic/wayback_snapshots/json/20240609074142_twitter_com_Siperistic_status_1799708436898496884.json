@@ -1,0 +1,300 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1799632965993177198",
+    "created_at": "2024-06-09T07:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T08:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799708436898496884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754535379691356160",
+          "start": 0,
+          "username": "yuchch2571731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799708436898496884",
+    "in_reply_to_user_id": "1754535379691356160",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799632965993177198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuchch2571731 漫画腿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1799632965993177198",
+        "created_at": "2024-06-09T07:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T08:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799708436898496884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754535379691356160",
+              "start": 0,
+              "username": "yuchch2571731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799708436898496884",
+        "in_reply_to_user_id": "1754535379691356160",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799632965993177198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuchch2571731 漫画腿"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799632957977890816",
+            "3_1799632958778957824"
+          ]
+        },
+        "author_id": "1754535379691356160",
+        "conversation_id": "1799632965993177198",
+        "created_at": "2024-06-09T02:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T03:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799632965993177198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ptbluir7vE",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yuchch2571731/status/1799632965993177198/photo/1",
+              "media_key": "3_1799632957977890816",
+              "start": 4,
+              "url": "https://t.co/ptbluir7vE"
+            },
+            {
+              "display_url": "pic.twitter.com/ptbluir7vE",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yuchch2571731/status/1799632965993177198/photo/1",
+              "media_key": "3_1799632958778957824",
+              "start": 4,
+              "url": "https://t.co/ptbluir7vE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799632965993177198",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 766,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "力量腿 https://t.co/ptbluir7vE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 331,
+          "like_count": 636,
+          "listed_count": 1,
+          "tweet_count": 1628
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T16:00:17.000Z",
+        "description": "不要浮躁",
+        "id": "1754535379691356160",
+        "location": "🌒",
+        "name": "メ一メ一",
+        "pinned_tweet_id": "1766654998006354315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795787762790236160/oOng3Hy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 40,
+          "like_count": 12078,
+          "listed_count": 0,
+          "tweet_count": 2308
+        },
+        "username": "yuchch2571731",
+        "verified": false
+      }
+    ]
+  }
+}

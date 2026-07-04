@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1795025692465275120",
+    "created_at": "2024-05-27T14:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T15:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795106218131718178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247769753097101318",
+          "start": 0,
+          "username": "X09COTCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795106218131718178",
+    "in_reply_to_user_id": "1247769753097101318",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795025692465275120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X09COTCC 我超，瓜老师还打r6的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1795025692465275120",
+        "created_at": "2024-05-27T14:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T15:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795106218131718178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247769753097101318",
+              "start": 0,
+              "username": "X09COTCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795106218131718178",
+        "in_reply_to_user_id": "1247769753097101318",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795025692465275120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X09COTCC 我超，瓜老师还打r6的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1247769753097101318",
+        "conversation_id": "1795025692465275120",
+        "created_at": "2024-05-27T09:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T10:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795025692465275120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795025692465275120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 798,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈彩虹六号启动！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 319,
+          "like_count": 632,
+          "listed_count": 1,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "Go as a dream.",
+        "id": "1247769753097101318",
+        "name": "太阳瓜",
+        "pinned_tweet_id": "1794319169561018566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794067530434375682/tVBEdMRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 1173,
+          "like_count": 72438,
+          "listed_count": 8,
+          "tweet_count": 15453
+        },
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1824463841058755048",
+    "created_at": "2024-08-17T00:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T01:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824600349723988309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817351953405616128",
+          "start": 0,
+          "username": "wlang316773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824600349723988309",
+    "in_reply_to_user_id": "1817351953405616128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824479303717081129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wlang316773 年轻的话有机会可以试试，高考后的暑假哇或者大学的寒暑假！等上班了就没什么机会了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1824463841058755048",
+        "created_at": "2024-08-17T00:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T01:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824600349723988309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817351953405616128",
+              "start": 0,
+              "username": "wlang316773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824600349723988309",
+        "in_reply_to_user_id": "1817351953405616128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824479303717081129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlang316773 年轻的话有机会可以试试，高考后的暑假哇或者大学的寒暑假！等上班了就没什么机会了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817351953405616128",
+        "conversation_id": "1824463841058755048",
+        "created_at": "2024-08-16T16:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T17:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824479303717081129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191237542797959168",
+              "start": 0,
+              "username": "Siperistic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824479303717081129",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824463841058755048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siperistic 我也一直想穷游，一直在想，没钱了就去打个临时工"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 370,
+          "like_count": 702,
+          "listed_count": 1,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T00:11:09.000Z",
+        "description": "09/男的 我对黄前久美子一心一意 二次元唯一精神乌托邦 喜欢作品 巨人 推子 京吹 超炮 浓度低 国人别喷 想讨论剧情私我 求推荐纯爱小说漫画和音乐校园番想京吹那样的",
+        "id": "1817351953405616128",
+        "name": "无聊至极",
+        "pinned_tweet_id": "1824515659109400622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823407785394233351/EBdENyBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 441,
+          "listed_count": 0,
+          "tweet_count": 368
+        },
+        "username": "wlang316773",
+        "verified": false
+      }
+    ]
+  }
+}

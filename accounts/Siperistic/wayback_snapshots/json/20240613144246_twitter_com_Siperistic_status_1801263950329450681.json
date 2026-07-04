@@ -1,0 +1,230 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1801254789306843152",
+    "created_at": "2024-06-13T14:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T15:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801263950329450681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1316613157599674369",
+          "start": 0,
+          "username": "Enli_mint"
+        },
+        {
+          "end": 20,
+          "id": "1760705336540057600",
+          "start": 11,
+          "username": "akiakuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801263950329450681",
+    "in_reply_to_user_id": "1316613157599674369",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801262463188611513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enli_mint @akiakuno 😨我差不多，没什么经济条件就不打算结婚要小孩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1801254789306843152",
+        "created_at": "2024-06-13T14:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T15:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801263950329450681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1316613157599674369",
+              "start": 0,
+              "username": "Enli_mint"
+            },
+            {
+              "end": 20,
+              "id": "1760705336540057600",
+              "start": 11,
+              "username": "akiakuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801263950329450681",
+        "in_reply_to_user_id": "1316613157599674369",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801262463188611513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enli_mint @akiakuno 😨我差不多，没什么经济条件就不打算结婚要小孩了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1316613157599674369",
+        "conversation_id": "1801254789306843152",
+        "created_at": "2024-06-13T14:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T15:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801262463188611513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760705336540057600",
+              "start": 0,
+              "username": "akiakuno"
+            },
+            {
+              "end": 21,
+              "id": "1191237542797959168",
+              "start": 10,
+              "username": "Siperistic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801262463188611513",
+        "in_reply_to_user_id": "1760705336540057600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801260936088654050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiakuno @Siperistic 我不生了，死前把钱花完"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 338,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1717
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-15T05:33:52.000Z",
+        "description": "下水道小透明的成长日记📔 ｜ 这个时代缺的不是完美的人，缺的是从心底给出的真心、正义、无畏与同情 ｜ 一直在想到底怎么过活这仅一趟的一生",
+        "id": "1316613157599674369",
+        "location": "计算机前",
+        "name": "祝荷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783306961980985344/DwjhEwES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 138,
+          "like_count": 4447,
+          "listed_count": 3,
+          "tweet_count": 2283
+        },
+        "username": "Enli_mint",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T16:37:32.000Z",
+        "description": "life changes,why stay still.  淡推一段时间～",
+        "id": "1760705336540057600",
+        "name": "美丽新世界",
+        "pinned_tweet_id": "1788919559921205728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771793626798145536/abxok-Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 127,
+          "like_count": 8554,
+          "listed_count": 3,
+          "tweet_count": 3783
+        },
+        "username": "akiakuno",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1826634942845276667",
+    "created_at": "2024-08-22T15:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T16:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826650090116972572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753348784573001728",
+          "start": 0,
+          "username": "rorochan_990126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826650090116972572",
+    "in_reply_to_user_id": "1753348784573001728",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826634942845276667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rorochan_990126 现阶段是想配台电脑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1826634942845276667",
+        "created_at": "2024-08-22T15:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T16:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826650090116972572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753348784573001728",
+              "start": 0,
+              "username": "rorochan_990126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826650090116972572",
+        "in_reply_to_user_id": "1753348784573001728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826634942845276667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rorochan_990126 现阶段是想配台电脑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753348784573001728",
+        "conversation_id": "1826634942845276667",
+        "created_at": "2024-08-22T14:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T15:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826634942845276667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826634942845276667",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 667,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假如给你们一万块钱，你们第一件事是做什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 375,
+          "like_count": 704,
+          "listed_count": 1,
+          "tweet_count": 2617
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "普通女高中牲 / 友🏳️‍⚧️🏳️‍🌈 / 按讚→已讀 / 喜歡所有正常交流的人",
+        "id": "1753348784573001728",
+        "location": "「我存在過的證明」",
+        "name": "Mobius' poison✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823703762839724034/eXjYZD8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 1161,
+          "like_count": 58436,
+          "listed_count": 4,
+          "tweet_count": 8314
+        },
+        "username": "rorochan_990126",
+        "verified": false
+      }
+    ]
+  }
+}

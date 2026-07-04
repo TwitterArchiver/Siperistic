@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1825465441147609114",
+    "created_at": "2024-08-19T14:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T15:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825546411427180800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1629881724321800192",
+          "start": 0,
+          "username": "cui_hongxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825546411427180800",
+    "in_reply_to_user_id": "1629881724321800192",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825516767210520627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cui_hongxing 烟还挺难戒的，不过压力大的时候来一根确实能放松"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1825465441147609114",
+        "created_at": "2024-08-19T14:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T15:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825546411427180800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1629881724321800192",
+              "start": 0,
+              "username": "cui_hongxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825546411427180800",
+        "in_reply_to_user_id": "1629881724321800192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825516767210520627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cui_hongxing 烟还挺难戒的，不过压力大的时候来一根确实能放松"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629881724321800192",
+        "conversation_id": "1825465441147609114",
+        "created_at": "2024-08-19T12:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T13:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825516767210520627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191237542797959168",
+              "start": 0,
+              "username": "Siperistic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825516767210520627",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825465441147609114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siperistic 我原本emo时候或者压力大会来上一根之前过肺上瘾了 好不容易戒掉了 emo一开始又抽上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 373,
+          "like_count": 703,
+          "listed_count": 1,
+          "tweet_count": 2592
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T16:31:10.000Z",
+        "description": "在韩国流学ing（流放的流没打错）\n06\n180/72\n我是男的不是南通\n多找我聊天 私聊必回 关注空巢老人 人人有责\n（你做什么都是对的）\n来找我私信吧 （真不是南通）\nhttps://t.co/xC1Awvaw4k（匿名提问箱）\n我是真人不骗你钱💰\n（我上推就是为了看涩）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aqa.link/potato04724",
+                "end": 109,
+                "expanded_url": "https://aqa.link/potato04724",
+                "start": 86,
+                "url": "https://t.co/xC1Awvaw4k"
+              }
+            ]
+          }
+        },
+        "id": "1629881724321800192",
+        "location": "Seoul, Republic of Korea",
+        "name": "韩国流学ing",
+        "pinned_tweet_id": "1824703582920384637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819600888346062848/rW2n9amS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 1004,
+          "like_count": 3950,
+          "listed_count": 0,
+          "tweet_count": 773
+        },
+        "username": "cui_hongxing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069226664719204352"
+      ]
+    },
+    "author_id": "1191237542797959168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069226672713548086",
+    "created_at": "2026-06-23T01:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T02:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069226672713548086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ogtR0Et4po",
+          "end": 110,
+          "expanded_url": "https://x.com/Siperistic/status/2069226672713548086/photo/1",
+          "media_key": "3_2069226664719204352",
+          "start": 87,
+          "url": "https://t.co/ogtR0Et4po"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069226672713548086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这一点要我八块钱！\n四块的皮蛋瘦肉粥好贵orz\n好怀念家里的早餐\n加个蛋的牛肉/羊肉撒汤3r\n再来一碟水煎包/一笼蒸饺\n拿一碟酱香饼\n再来一个加了蛋的肉盒\n爽飞了有没有懂的 https://t.co/ogtR0Et4po"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069226664719204352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdesDZawAA805s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069226664719204352"
+          ]
+        },
+        "author_id": "1191237542797959168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069226672713548086",
+        "created_at": "2026-06-23T01:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069226672713548086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogtR0Et4po",
+              "end": 110,
+              "expanded_url": "https://x.com/Siperistic/status/2069226672713548086/photo/1",
+              "media_key": "3_2069226664719204352",
+              "start": 87,
+              "url": "https://t.co/ogtR0Et4po"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069226672713548086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这一点要我八块钱！\n四块的皮蛋瘦肉粥好贵orz\n好怀念家里的早餐\n加个蛋的牛肉/羊肉撒汤3r\n再来一碟水煎包/一笼蒸饺\n拿一碟酱香饼\n再来一个加了蛋的肉盒\n爽飞了有没有懂的 https://t.co/ogtR0Et4po"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 684,
+          "like_count": 1762,
+          "listed_count": 4,
+          "media_count": 512,
+          "tweet_count": 7416
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      }
+    ]
+  }
+}

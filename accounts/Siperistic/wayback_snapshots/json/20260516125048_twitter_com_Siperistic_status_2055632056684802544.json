@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "2040567383715451206",
+    "created_at": "2026-05-16T12:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055632056684802544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897988176343711746",
+          "start": 0,
+          "username": "FuraaLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055632056684802544",
+    "in_reply_to_user_id": "1897988176343711746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040567383715451206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuraaLove 打游戏好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2163,
+        "media_key": "3_2040567380200574976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGNOI0a0AAEk4Z.jpg",
+        "width": 1171
+      },
+      {
+        "height": 1474,
+        "media_key": "3_2040567380280266752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGNOJHa0AAc2Ia.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1856,
+        "media_key": "3_2040567380355813376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGNOJZbkAAWfM-.jpg",
+        "width": 1171
+      },
+      {
+        "height": 1820,
+        "media_key": "3_2040567380594827264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGNOKSaoAA-Urc.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "2040567383715451206",
+        "created_at": "2026-05-16T12:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055632056684802544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897988176343711746",
+              "start": 0,
+              "username": "FuraaLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055632056684802544",
+        "in_reply_to_user_id": "1897988176343711746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040567383715451206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuraaLove 打游戏好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040567380200574976",
+            "3_2040567380280266752",
+            "3_2040567380355813376",
+            "3_2040567380594827264"
+          ]
+        },
+        "author_id": "1897988176343711746",
+        "conversation_id": "2040567383715451206",
+        "created_at": "2026-04-04T23:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T00:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040567383715451206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DsxcI36Ldb",
+              "end": 64,
+              "expanded_url": "https://x.com/FuraaLove/status/2040567383715451206/photo/1",
+              "media_key": "3_2040567380200574976",
+              "start": 41,
+              "url": "https://t.co/DsxcI36Ldb"
+            },
+            {
+              "display_url": "pic.x.com/DsxcI36Ldb",
+              "end": 64,
+              "expanded_url": "https://x.com/FuraaLove/status/2040567383715451206/photo/1",
+              "media_key": "3_2040567380280266752",
+              "start": 41,
+              "url": "https://t.co/DsxcI36Ldb"
+            },
+            {
+              "display_url": "pic.x.com/DsxcI36Ldb",
+              "end": 64,
+              "expanded_url": "https://x.com/FuraaLove/status/2040567383715451206/photo/1",
+              "media_key": "3_2040567380355813376",
+              "start": 41,
+              "url": "https://t.co/DsxcI36Ldb"
+            },
+            {
+              "display_url": "pic.x.com/DsxcI36Ldb",
+              "end": 64,
+              "expanded_url": "https://x.com/FuraaLove/status/2040567383715451206/photo/1",
+              "media_key": "3_2040567380594827264",
+              "start": 41,
+              "url": "https://t.co/DsxcI36Ldb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040567383715451206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16684,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于自介1.0\n“有耐心看完的人都是好宝宝！”\n想让大家能更了解我一些，看看我。 https://t.co/DsxcI36Ldb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 674,
+          "like_count": 1265,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 6967
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T12:30:25.000Z",
+        "description": "人间体小魅魔芙拉姬，173/55kg/06\n欲望探索者，躁动的魅魔之心感到愉悦，污堕的信徒。\n喜欢我就再多夸夸我吧 /switch/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/furaalove",
+                "end": 23,
+                "expanded_url": "https://ngl.link/furaalove",
+                "start": 0,
+                "url": "https://t.co/8f2oIwgzbT"
+              }
+            ]
+          }
+        },
+        "id": "1897988176343711746",
+        "location": "无🚪",
+        "name": "居然是芙拉吗",
+        "pinned_tweet_id": "2040567383715451206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040193931485564928/izoowqmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 51,
+          "like_count": 810,
+          "listed_count": 12,
+          "media_count": 103,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/8f2oIwgzbT",
+        "username": "FuraaLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1802706189329039550",
+    "created_at": "2024-06-17T14:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T15:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802717242594906325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1598976218715803648",
+          "start": 0,
+          "username": "Knn_zZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802717242594906325",
+    "in_reply_to_user_id": "1598976218715803648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802706189329039550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Knn_zZZ 我超，想喝😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1802706189329039550",
+        "created_at": "2024-06-17T14:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T15:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802717242594906325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1598976218715803648",
+              "start": 0,
+              "username": "Knn_zZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802717242594906325",
+        "in_reply_to_user_id": "1598976218715803648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802706189329039550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Knn_zZZ 我超，想喝😭"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802706181812879360"
+          ]
+        },
+        "author_id": "1598976218715803648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1802706189329039550",
+        "created_at": "2024-06-17T14:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T15:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802706189329039550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/aRGlk4CC6o",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Knn_zZZ/status/1802706189329039550/photo/1",
+              "media_key": "3_1802706181812879360",
+              "start": 7,
+              "url": "https://t.co/aRGlk4CC6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802706189329039550",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "栀子生椰好喝 https://t.co/aRGlk4CC6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 335,
+          "like_count": 639,
+          "listed_count": 1,
+          "tweet_count": 1768
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T09:43:50.000Z",
+        "description": "有无恋尸癖",
+        "id": "1598976218715803648",
+        "name": "KnnzZZ",
+        "pinned_tweet_id": "1799878596166816086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799892620598276096/IJLGuVkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 1274,
+          "like_count": 16166,
+          "listed_count": 1,
+          "tweet_count": 2052
+        },
+        "username": "Knn_zZZ",
+        "verified": false
+      }
+    ]
+  }
+}

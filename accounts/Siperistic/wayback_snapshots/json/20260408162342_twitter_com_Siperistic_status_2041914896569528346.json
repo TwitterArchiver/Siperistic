@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "2041876594164191509",
+    "created_at": "2026-04-08T16:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041914896569528346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1814218072674512896",
+          "start": 0,
+          "username": "SynTears"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041914896569528346",
+    "in_reply_to_user_id": "1814218072674512896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041876594164191509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SynTears 做自己就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "2041876594164191509",
+        "created_at": "2026-04-08T16:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041914896569528346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1814218072674512896",
+              "start": 0,
+              "username": "SynTears"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041914896569528346",
+        "in_reply_to_user_id": "1814218072674512896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041876594164191509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SynTears 做自己就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814218072674512896",
+        "conversation_id": "2041876594164191509",
+        "created_at": "2026-04-08T13:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041876594164191509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041876594164191509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1020,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样一边发很浪荡的作品一边追求极致的纯爱，只是被这些低俗的东西吸引过来的人我也不会喜欢的，我也很反感别人带着强烈的目的接近我。也反感各种自我感动式的教育和规训……."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 635,
+          "like_count": 699,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 5619
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T08:37:59.000Z",
+        "description": "03 brat#",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennielawhon43…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennielawhon435572",
+                "start": 0,
+                "url": "https://t.co/ZxAF5Shmf7"
+              }
+            ]
+          }
+        },
+        "id": "1814218072674512896",
+        "name": "为我而哭泣",
+        "pinned_tweet_id": "2017975905495261598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018354750815698944/YsqkImRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4756,
+          "following_count": 85,
+          "like_count": 1285,
+          "listed_count": 6,
+          "media_count": 71,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/ZxAF5Shmf7",
+        "username": "SynTears",
+        "verified": false
+      }
+    ]
+  }
+}

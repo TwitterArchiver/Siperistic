@@ -1,0 +1,244 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1809815083847151963",
+    "created_at": "2024-07-13T05:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T06:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811991121905746123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798724969695977472",
+          "start": 0,
+          "username": "overdosewiki"
+        },
+        {
+          "end": 23,
+          "id": "1760705336540057600",
+          "start": 14,
+          "username": "akiakuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811991121905746123",
+    "in_reply_to_user_id": "1798724969695977472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811974889475096834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdosewiki @akiakuno 说起来十分钟不到的问诊时间可以支持医生下判断吗🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1809815083847151963",
+        "created_at": "2024-07-13T05:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T06:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811991121905746123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            },
+            {
+              "end": 23,
+              "id": "1760705336540057600",
+              "start": 14,
+              "username": "akiakuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811991121905746123",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811974889475096834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki @akiakuno 说起来十分钟不到的问诊时间可以支持医生下判断吗🧐"
+      },
+      {
+        "attachments": {},
+        "author_id": "1798724969695977472",
+        "conversation_id": "1809815083847151963",
+        "created_at": "2024-07-13T04:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T05:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811974889475096834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191237542797959168",
+              "start": 0,
+              "username": "Siperistic"
+            },
+            {
+              "end": 21,
+              "id": "1760705336540057600",
+              "start": 12,
+              "username": "akiakuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811974889475096834",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811942211917062230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siperistic @akiakuno 实际上\n专业的医生是不会按量表结果来给你诊断的\n都是问症状，听下描述，心里下诊断\n然后开个量表吃点回扣，等结果出来确认一下\n也就是说诊断基本和量表无关，特别是双相一类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 338,
+          "like_count": 664,
+          "listed_count": 1,
+          "tweet_count": 2007
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "忠！诚！\n这边的人员组成 = 原odwiki全体编辑 = 原odwiki - \"wiki主\"\n。除了wiki主都在这边集合避难了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/w0mFDxhZLC"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "name": "wiki重建最高会议",
+        "pinned_tweet_id": "1809815083847151963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808949191261237251/Jzsl-5Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 6,
+          "like_count": 82,
+          "listed_count": 0,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/w0mFDxhZLC",
+        "username": "overdosewiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T16:37:32.000Z",
+        "description": "Life changes,why stay still.",
+        "id": "1760705336540057600",
+        "name": "美丽新世界",
+        "pinned_tweet_id": "1802205216403591572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771793626798145536/abxok-Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 134,
+          "like_count": 9926,
+          "listed_count": 4,
+          "tweet_count": 4190
+        },
+        "username": "akiakuno",
+        "verified": false
+      }
+    ]
+  }
+}

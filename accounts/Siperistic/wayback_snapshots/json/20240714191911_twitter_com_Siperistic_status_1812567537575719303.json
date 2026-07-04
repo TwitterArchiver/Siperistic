@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1812557034417795426",
+    "created_at": "2024-07-14T19:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T20:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812567537575719303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1459206178529890307",
+          "start": 0,
+          "username": "Duchess_Coconut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812567537575719303",
+    "in_reply_to_user_id": "1459206178529890307",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812557034417795426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Duchess_Coconut 不要焦虑了，平常在学校找点喜欢做的事情吧😺没心没肺过一段时间可以很好调整情绪的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1812557034417795426",
+        "created_at": "2024-07-14T19:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T20:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812567537575719303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1459206178529890307",
+              "start": 0,
+              "username": "Duchess_Coconut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812567537575719303",
+        "in_reply_to_user_id": "1459206178529890307",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812557034417795426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Duchess_Coconut 不要焦虑了，平常在学校找点喜欢做的事情吧😺没心没肺过一段时间可以很好调整情绪的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1459206178529890307",
+        "conversation_id": "1812557034417795426",
+        "created_at": "2024-07-14T18:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T19:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812557034417795426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812557034417795426",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的一点也不想上学了、学的根本就不是喜欢的内容，大一就被迫为了升学和求职焦虑，学校里根本就没有朋友，天天都在两点一线，线上的社交也烂掉了。这个学期选课的时间不太好，之后连上学期每天都去的鸡饭也吃不到了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人//事一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1799983099612365010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 350,
+          "like_count": 687,
+          "listed_count": 1,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-12T17:07:26.000Z",
+        "description": "历史学与文学的愚昧拥趸者🧐|项圈、铁笼和枷锁都无法束缚的无翼猫头鹰🦉|轻小说创作者（真的吗）✒️|精神状态常年不乐观💀|计算机科学专业低才生🖥️|请不要自作主张和我有过度的交流🚫|请注意账号存在工作场所不适宜内容🔞|闲聊tg群↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HashBrownEmerg…",
+                "end": 23,
+                "expanded_url": "https://t.me/HashBrownEmergencyCommittee",
+                "start": 0,
+                "url": "https://t.co/5jm86guJgO"
+              }
+            ]
+          }
+        },
+        "id": "1459206178529890307",
+        "location": "巴达维亚",
+        "name": "椰子公爵🥥",
+        "pinned_tweet_id": "1760273070697451949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812448012167163904/c-PxvHA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7085,
+          "following_count": 106,
+          "like_count": 8874,
+          "listed_count": 19,
+          "tweet_count": 10753
+        },
+        "url": "https://t.co/5jm86guJgO",
+        "username": "Duchess_Coconut",
+        "verified": false
+      }
+    ]
+  }
+}

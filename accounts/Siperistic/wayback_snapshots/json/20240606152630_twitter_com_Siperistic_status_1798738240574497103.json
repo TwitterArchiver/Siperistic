@@ -1,0 +1,141 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1798736208157376935",
+    "created_at": "2024-06-06T15:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T16:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798738240574497103"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1798738240574497103",
+    "in_reply_to_user_id": "1191237542797959168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798736208157376935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每刷到一个要考试的帖子我都在下面回个加油，虽然没什么用处但是还是希望大家都可以更好hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1798736208157376935",
+        "created_at": "2024-06-06T15:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T16:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798738240574497103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798738240574497103",
+        "in_reply_to_user_id": "1191237542797959168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798736208157376935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每刷到一个要考试的帖子我都在下面回个加油，虽然没什么用处但是还是希望大家都可以更好hhh"
+      },
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1798736208157376935",
+        "created_at": "2024-06-06T15:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T16:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798736208157376935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798736208157376935",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷主页看到好多要高考的帖子啊\n希望大家都能加油去理想的高校\n把我当年的数学成绩共享给你们😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 325,
+          "like_count": 636,
+          "listed_count": 1,
+          "tweet_count": 1585
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      }
+    ]
+  }
+}

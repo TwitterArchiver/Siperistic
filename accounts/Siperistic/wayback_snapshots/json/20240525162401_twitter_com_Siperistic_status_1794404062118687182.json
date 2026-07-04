@@ -1,0 +1,241 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "1793997278287634768",
+    "created_at": "2024-05-25T16:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T17:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794404062118687182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1566815552777383936",
+          "start": 0,
+          "username": "TianqiChen666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794404062118687182",
+    "in_reply_to_user_id": "1566815552777383936",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793997278287634768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianqiChen666 牛哇牛哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "1793997278287634768",
+        "created_at": "2024-05-25T16:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T17:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794404062118687182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1566815552777383936",
+              "start": 0,
+              "username": "TianqiChen666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794404062118687182",
+        "in_reply_to_user_id": "1566815552777383936",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793997278287634768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianqiChen666 牛哇牛哇"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793997258222133248"
+          ]
+        },
+        "author_id": "1566815552777383936",
+        "conversation_id": "1793997278287634768",
+        "created_at": "2024-05-24T13:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T14:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793997278287634768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OkRFIMn5Qg",
+              "end": 30,
+              "expanded_url": "https://twitter.com/TianqiChen666/status/1793997278287634768/photo/1",
+              "media_key": "3_1793997258222133248",
+              "start": 7,
+              "url": "https://t.co/OkRFIMn5Qg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793997278287634768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1482,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文综，起飞！ https://t.co/OkRFIMn5Qg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊，没有猫猫的失败人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738764930801979392/RslNhxWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 315,
+          "like_count": 629,
+          "listed_count": 1,
+          "tweet_count": 1472
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T15:48:41.000Z",
+        "description": "高3年生、06、🚹、中国人です🇨🇳、いま成都に住んでいる、自国を愛する。もちろん、みんなと仲良くしたい🙇\n|日常垢|絡み重視|変な垢以外フォロバ💯|アニメ|ゲーム|歌が好き|kig初心者|\n興味：#原神、#アークナイツ、#ブルアカ、#ガルパ、#ボカロ、#着ぐるみ\n｜私は日本語を自分で勉強しています｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 98,
+                "tag": "原神"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "アークナイツ"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "ガルパ"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "着ぐるみ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/1FkR-i8lVZ",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/1FkR-i8lVZ",
+                "start": 0,
+                "url": "https://t.co/bnTnxhKbpK"
+              }
+            ]
+          }
+        },
+        "id": "1566815552777383936",
+        "location": "Sichuan",
+        "name": "めんま",
+        "pinned_tweet_id": "1674739627121606656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651955050032533504/SPAFB7jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 2190,
+          "like_count": 26774,
+          "listed_count": 9,
+          "tweet_count": 6572
+        },
+        "url": "https://t.co/bnTnxhKbpK",
+        "username": "TianqiChen666",
+        "verified": false
+      }
+    ]
+  }
+}
