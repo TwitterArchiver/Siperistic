@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "2073007797374193861",
+    "created_at": "2026-07-03T12:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073019021872824596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627233306260680704",
+          "start": 0,
+          "username": "cyzhen666a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073019021872824596",
+    "in_reply_to_user_id": "1627233306260680704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073007797374193861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyzhen666a 快跑吧，自己接都比家长推荐的好啊，到时候小孩子说你教的不好的话你家里面又得念叨你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "2073007797374193861",
+        "created_at": "2026-07-03T12:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073019021872824596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627233306260680704",
+              "start": 0,
+              "username": "cyzhen666a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073019021872824596",
+        "in_reply_to_user_id": "1627233306260680704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073007797374193861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyzhen666a 快跑吧，自己接都比家长推荐的好啊，到时候小孩子说你教的不好的话你家里面又得念叨你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627233306260680704",
+        "conversation_id": "2073007797374193861",
+        "created_at": "2026-07-03T11:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073007797374193861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyzhen666a/sta…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/cyzhen666a/status/2072636030185050388",
+              "start": 150,
+              "url": "https://t.co/Kt13MzUJfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073007797374193861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072636030185050388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续\n我爸又推了初一升初二的小孩数学。他家和我家仅沾有特别特别淡的亲戚关系…但几乎可以忽略不计的那种。期末考试数学100分考43\n\n我爸：“这小孩你意向多少钱两个小时？”\n我：“170吧他基础差 我要花的精力更多…”\n我爸：“太高了吧…他家也不是什么中产家庭…都是亲戚，再说你上课需要什么精力啊？” https://t.co/Kt13MzUJfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 714,
+          "like_count": 2216,
+          "listed_count": 4,
+          "media_count": 528,
+          "tweet_count": 7658
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T09:07:32.000Z",
+        "description": "养成系搭子： @zysunshine0309\n男大体验卡到期\n👩🏻‍🎓清华北大没考上 | English🉑IELTS&CET6\n| 分享日常和碎碎念 欢迎扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "zysunshine0309"
+              }
+            ]
+          }
+        },
+        "id": "1627233306260680704",
+        "name": "砚迟",
+        "pinned_tweet_id": "2065253819198624002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793552023193014274/PBHiOL33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2458,
+          "following_count": 805,
+          "like_count": 6104,
+          "listed_count": 4,
+          "media_count": 133,
+          "tweet_count": 726
+        },
+        "url": "",
+        "username": "cyzhen666a",
+        "verified": false
+      }
+    ]
+  }
+}
