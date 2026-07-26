@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1191237542797959168",
+    "conversation_id": "2075875268393320793",
+    "created_at": "2026-07-11T21:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T22:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076060948138471843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1984460148338044928",
+          "start": 0,
+          "username": "FovoeY_0822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076060948138471843",
+    "in_reply_to_user_id": "1984460148338044928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075875268393320793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FovoeY_0822 俺也是，补一张停一张没招了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1759,
+        "media_key": "3_2075875260537421824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM79jQ5awAABzq5.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191237542797959168",
+        "conversation_id": "2075875268393320793",
+        "created_at": "2026-07-11T21:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076060948138471843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1984460148338044928",
+              "start": 0,
+              "username": "FovoeY_0822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076060948138471843",
+        "in_reply_to_user_id": "1984460148338044928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075875268393320793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FovoeY_0822 俺也是，补一张停一张没招了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075875260537421824"
+          ]
+        },
+        "author_id": "1984460148338044928",
+        "conversation_id": "2075875268393320793",
+        "created_at": "2026-07-11T09:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075875268393320793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NDrxkxoYml",
+              "end": 48,
+              "expanded_url": "https://x.com/FovoeY_0822/status/2075875268393320793/photo/1",
+              "media_key": "3_2075875260537421824",
+              "start": 25,
+              "url": "https://t.co/NDrxkxoYml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075875268393320793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1642,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台风你到底想怎样吧 买了三个班次买一张停运一张。 https://t.co/NDrxkxoYml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-11-04T06:15:50.000Z",
+        "description": "好想养只猫猫啊//是一个很爱看云拍云的人//很拧巴的人//infp//似乎是个很消极的人//喜欢看大家的碎碎念日常//喜欢到处跑去评论//欲窥天地                           匿名信箱欢迎提问~https://t.co/d5X5RjhXaU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siperistic53283",
+                "end": 132,
+                "expanded_url": "http://ngl.link/siperistic53283",
+                "start": 109,
+                "url": "https://t.co/d5X5RjhXaU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/wHF6m2Z9XX"
+              }
+            ]
+          }
+        },
+        "id": "1191237542797959168",
+        "location": "星河",
+        "name": "Siper",
+        "pinned_tweet_id": "1851481166446199274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801275991010299905/UGGAiw5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 718,
+          "like_count": 2492,
+          "listed_count": 4,
+          "media_count": 561,
+          "tweet_count": 7817
+        },
+        "url": "https://t.co/wHF6m2Z9XX",
+        "username": "Siperistic",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T03:19:10.000Z",
+        "description": "大号@AugustJos_22 直男 07 🇬🇧留子 坐标江苏 小号清水推 记录日常和碎碎念 ONCE💙💜 匿名👉https://t.co/8n5CcQ5kW1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "AugustJos_22"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/august_jos0822",
+                "end": 80,
+                "expanded_url": "https://ngl.link/august_jos0822",
+                "start": 57,
+                "url": "https://t.co/8n5CcQ5kW1"
+              }
+            ]
+          }
+        },
+        "id": "1984460148338044928",
+        "location": "Manchester, England",
+        "name": "藤原拓海",
+        "pinned_tweet_id": "2021570185522499634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984460313849196544/uM-2b7t3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2914,
+          "following_count": 186,
+          "like_count": 1680,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 1662
+        },
+        "url": "",
+        "username": "FovoeY_0822",
+        "verified": false
+      }
+    ]
+  }
+}
